@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll Starter</title>
-    <description>This is a Jekyll Starter template developed by cydoval.com.
+    <title>International Programs at UC Davis</title>
+    <description>International programs of the College of Agricultural and Environmental Sciences facilitates the exchange of information and learning between UC Davis and the global community in the areas of agriculture and the environment.
 </description>
-    <link>http://jekyll-starter.ucdavis.edu/</link>
-    <atom:link href="http://jekyll-starter.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 May 2016 11:11:09 -0700</pubDate>
-    <lastBuildDate>Tue, 17 May 2016 11:11:09 -0700</lastBuildDate>
+    <link>http://ip.ucdavis.edu/</link>
+    <atom:link href="http://ip.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 May 2016 14:38:29 -0700</pubDate>
+    <lastBuildDate>Tue, 17 May 2016 14:38:29 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -77,8 +77,8 @@ arma ipso in convexa quoque. Neque arbore &lt;em&gt;qua altius&lt;/em&gt;, ante,
 sententia?&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Feb 2016 22:25:17 -0800</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/news/2016/02/11/dan/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/news/2016/02/11/dan/</guid>
+        <link>http://ip.ucdavis.edu/news/2016/02/11/dan/</link>
+        <guid isPermaLink="true">http://ip.ucdavis.edu/news/2016/02/11/dan/</guid>
         
         
         <category>news</category>
@@ -139,8 +139,8 @@ arma ipso in convexa quoque. Neque arbore &lt;em&gt;qua altius&lt;/em&gt;, ante,
 sententia?&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 22:25:17 -0800</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/news/2016/01/11/Crazed-Cage/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/news/2016/01/11/Crazed-Cage/</guid>
+        <link>http://ip.ucdavis.edu/news/2016/01/11/Crazed-Cage/</link>
+        <guid isPermaLink="true">http://ip.ucdavis.edu/news/2016/01/11/Crazed-Cage/</guid>
         
         
         <category>news</category>
@@ -161,8 +161,8 @@ sententia?&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 07 Dec 2015 04:25:17 -0800</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/news/2015/12/07/Carter-unfit-for-play/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/news/2015/12/07/Carter-unfit-for-play/</guid>
+        <link>http://ip.ucdavis.edu/news/2015/12/07/Carter-unfit-for-play/</link>
+        <guid isPermaLink="true">http://ip.ucdavis.edu/news/2015/12/07/Carter-unfit-for-play/</guid>
         
         <category>Rugby</category>
         
@@ -187,8 +187,8 @@ sententia?&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 28 Nov 2015 08:25:17 -0800</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/news/2015/11/28/Bob-Ross-Symposium/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/news/2015/11/28/Bob-Ross-Symposium/</guid>
+        <link>http://ip.ucdavis.edu/news/2015/11/28/Bob-Ross-Symposium/</link>
+        <guid isPermaLink="true">http://ip.ucdavis.edu/news/2015/11/28/Bob-Ross-Symposium/</guid>
         
         
         <category>news</category>
@@ -213,8 +213,8 @@ sententia?&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 23 Nov 2015 04:25:17 -0800</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/events/2015/11/23/news-article/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/events/2015/11/23/news-article/</guid>
+        <link>http://ip.ucdavis.edu/events/2015/11/23/news-article/</link>
+        <guid isPermaLink="true">http://ip.ucdavis.edu/events/2015/11/23/news-article/</guid>
         
         <category>Apple</category>
         
@@ -239,8 +239,8 @@ sententia?&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 22 Sep 2015 09:25:17 -0700</pubDate>
-        <link>http://jekyll-starter.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://jekyll-starter.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</guid>
+        <link>http://ip.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://ip.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</guid>
         
         <category>Apple</category>
         

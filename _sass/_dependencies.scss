@@ -12,35 +12,25 @@
 }
 
 // fonts
-$sans-serif: "proxima-nova",
-arial,
-sans-serif; // light 300, reg 400, medium 500, semibold 600
-$serif: 'klinic_medium',
-Georgia,
-serif; // light 300, book 400, regular 500
-// pretty colors 
+$sans-serif: "proxima-nova", arial, sans-serif; // light 300, reg 400, medium 500, semibold 600
+$serif: 'klinic_medium', Georgia, serif;
+$light-serif: 'klinic_light', Georgia, serif;
 
-$primary-color: #1A3E68;
-$secondary-color: #DDB307;
+$primary-color: #3887BE;
+$secondary-color: #1C5C89;
 
-$primary-font: #333433; // p,li color in main content
-$secondary-font: #5a585c; // p,li color in portlet/sidebar
-$tertiary-font: #A6A6A6; // summary, discreet
+$primary-font: #204766; // p,li color in main content
+$secondary-font: #434343; // p,li color in portlet/sidebar
+$tertiary-font: #9FB3C3; // summary, discreet
 
 
-
-$bg-color: rgb(247,247,247); // background
+$bg-color: rgb(248,248,248); // background
 $borders: #C8C7CC; // border color
 
-$nav-active: #fff;
-
-$a-link: $primary-color;
+$a-link: #4A90E2;
 $a-hover: #DDB307;
 
-$blue: #016FC4;
-$gold: #DDB307;
 
-$mint-green: #028474;
 // UC Davis Colors
 // Supplemental bright color palette for UC Davis
 $unitrans-red: #ba0c2f;
