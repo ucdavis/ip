@@ -1,0 +1,96 @@
+.pushy {
+    display: none;
+    @include breakpoint(tablet) {
+        display: inline;
+    }
+}
+.nav-wrapper {
+    @include container;
+}
+.menu-btn,
+.close-btn {
+    font-size: 30px;
+    color: #5a585c;
+    display: none;
+    @include breakpoint(tablet) {
+        display: inline;
+    }
+}
+
+#slideout-nav ul {
+    list-style: none;
+}
+
+#main-nav {
+    background: #f7f7f7;
+    @include breakpoint(tablet) {
+        display: none;
+    }
+    ul {
+        text-align: left;
+        display: inline;
+        margin: 0;
+        padding: 20px 4px 20px 0;
+        list-style: none;
+        li {
+            display: inline-block;
+            margin-right: -4px;
+            position: relative;
+            padding: 15px 20px;
+            background: #f7f7f7;
+            cursor: pointer;
+            -webkit-transition: all 0.2s;
+            -moz-transition: all 0.2s;
+            -ms-transition: all 0.2s;
+            -o-transition: all 0.2s;
+            transition: all 0.2s;
+            color: #5a585c;
+            ul {
+                padding: 0;
+                position: absolute;
+                top: 48px;
+                left: 0;
+                width: 150px;
+                /* width of drop down box */
+                -webkit-box-shadow: none;
+                -moz-box-shadow: none;
+                box-shadow: none;
+                display: none;
+                opacity: 0;
+                visibility: hidden;
+                -webkit-transiton: opacity 0.2s;
+                -moz-transition: opacity 0.2s;
+                -ms-transition: opacity 0.2s;
+                -o-transition: opacity 0.2s;
+                -transition: opacity 0.2s;
+                box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+                li {
+                    background: #f7f7f7;
+                    display: block;
+                    color: #DDB307;
+                    &:hover {
+                        background: #fff;
+                    }
+                }
+            }
+            &:hover {
+                background: #fff;
+            }
+            a {
+                color: #5a585c;
+                text-transform: uppercase;
+                &:hover {
+                    // color: #DDB307;
+                    background: #fff;
+                }
+            }
+        }
+    }
+}
+
+#main-nav ul li:hover ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    z-index: 99;
+}
