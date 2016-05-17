@@ -1,16 +1,16 @@
 # Site settings
-title: Jekyll Starter
-email: cydoval@mac.com
+title: International Programs at UC Davis
+email: seasercion@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is a Jekyll Starter template developed by cydoval.com.
-subject: UC Davis Starter template for CAES CRU
-classification: Web Design
-author: Flux, contact@flux-gaming.com
-designer: Flux
+subject: International Programs at UC Davis College of Agricultural and Environmental Sciences
+classification: Non Profit, International Aid, Education
+author: Steven Ascersion
+designer: Cal Doval, cydoval@ucdavis.edu
 replyto: 
 themecolor: 22274d
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jekyll-starter.ucdavis.edu" # the base hostname & protocol for your site
+url: "http://ip.ucdavis.edu" # the base hostname & protocol for your site
 
 permalink: pretty
 
