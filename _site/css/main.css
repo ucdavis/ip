@@ -61,34 +61,6 @@ ul.tabs {
 ul.event-info li b {
   color: #ba0c2f; }
 
-ul.footer-list {
-  list-style-type: none;
-  padding-left: 0px;
-  margin-bottom: 3px;
-  display: inline-block;
-  margin-top: 0px; }
-  ul.footer-list li {
-    display: inline-block;
-    border-right: 1px solid #C8C7CC;
-    padding-right: 10px;
-    margin-right: 10px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    padding-left: 0px;
-    font-family: "proxima-nova", arial, sans-serif;
-    font-weight: 200;
-    color: #9FB3C3;
-    margin-top: 4px; }
-    .foot_bottom ul.footer-list li {
-      border-right: none;
-      padding-right: 5px;
-      margin-right: 5px; }
-    ul.footer-list li:last-child {
-      border-right: none; }
-    ul.footer-list li a {
-      font-family: "proxima-nova", arial, sans-serif;
-      font-weight: 200; }
-
 p {
   line-height: 1.625;
   letter-spacing: .025rem;
@@ -212,33 +184,6 @@ blockquote {
   margin-right: 0px;
   margin-left: 60px; }
 
-.banner {
-  width: 80%;
-  margin: 0 auto;
-  min-width: 300px;
-  /* Permalink - use to edit and share this gradient: http://colorzilla. /gradient-editor/#ebab39+0,c14b6a+100 */
-  background: #ebab39;
-  /* Old browsers */
-  background: -moz-linear-gradient(-45deg, #ebab39 0%, #c14b6a 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(-45deg, #ebab39 0%, #c14b6a 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg, #ebab39 0%, #c14b6a 100%);
-  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  margin-top: 25px;
-  border-radius: 2px; }
-  @media (max-width: 850px) {
-    .banner {
-      width: 85%; } }
-  @media (max-width: 640px) {
-    .banner {
-      width: 90%; } }
-  .banner .banner_wrapper {
-    background-image: url(/media/blueprint.svg);
-    background-position: right;
-    background-repeat: no-repeat;
-    height: 230px; }
-
 *,
 *:after,
 *:before {
@@ -263,17 +208,17 @@ header {
       header .header_contents {
         width: 90%; } }
     header .header_contents .logo_wrapper {
-      width: 50%;
+      width: 30%;
       display: inline-block;
       vertical-align: top; }
       header .header_contents .logo_wrapper h1 a {
         color: #fff;
         font-weight: 800;
         font-size: 2.8rem; }
-    header .header_contents .search_wrapper {
-      width: 49%;
-      text-align: right;
-      display: inline-block; }
+    header .header_contents .nav_wrapper {
+      width: 69%;
+      display: inline-block;
+      vertical-align: top; }
 
 .main .main_contents {
   width: 80%;
@@ -330,10 +275,6 @@ footer {
     @media (max-width: 640px) {
       footer .footer_contents {
         width: 90%; } }
-    footer .footer_contents .foot_top {
-      border-bottom: 1px solid #C8C7CC;
-      padding-bottom: 4px;
-      margin-bottom: 8px; }
 
 /**
  * Code formatting
@@ -733,9 +674,6 @@ input[type="button"].button-primary:focus {
   padding-bottom: 4%;
   max-height: 240px; }
 
-.site_logo {
-  width: 60%; }
-
 .btn {
   padding: 8px 20px;
   margin-top: 2.5%;
@@ -870,8 +808,6 @@ label {
   list-style: none; }
 
 #main-nav {
-  width: 50%;
-  display: inline;
   vertical-align: top; }
   @media (max-width: 750px) {
     #main-nav {
@@ -886,7 +822,7 @@ label {
       display: inline-block;
       margin-right: -4px;
       position: relative;
-      padding: 15px 20px;
+      padding: 15px;
       cursor: pointer;
       color: #fff; }
       #main-nav ul li:hover a {
@@ -922,7 +858,7 @@ label {
         background-color: #F8F8F8; }
       #main-nav ul.dropdown li a {
         text-transform: none;
-        font-size: 1.6rem;
+        font-size: 1.4rem;
         font-weight: 400; }
 
 #main-nav ul li:hover ul {

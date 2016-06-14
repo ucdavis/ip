@@ -81,39 +81,6 @@ ul.event-info {
     }
 }
 
-ul.footer-list {
-    list-style-type: none;
-    padding-left: 0px;
-    margin-bottom: 3px;
-    display: inline-block;
-    margin-top: 0px;
-    li {
-        display: inline-block;
-        border-right: 1px solid $borders;
-        padding-right: 10px;
-        margin-right: 10px;
-        padding-top: 0px;
-        padding-bottom: 0px;
-        padding-left: 0px;
-        font-family: $sans-serif;
-        font-weight: 200;
-        color: $tertiary-font;
-        margin-top: 4px;
-        .foot_bottom & {
-            border-right: none;
-            padding-right: 5px;
-            margin-right: 5px;
-        }
-        &:last-child {
-            border-right: none;
-        }
-        a {
-            font-family: $sans-serif;
-            font-weight: 200;
-        }
-    }
-}
-
 p {
     line-height: 1.625;
     letter-spacing: .025rem;
