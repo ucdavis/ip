@@ -1,35 +1,18 @@
-//
-@font-face {
-    font-family: 'klinic_light';
-    src: url('/media/fonts/klinic_light.woff') format('woff'), /* Pretty Modern Browsers */
-    url('/media/fonts/klinic_light.ttf') format('truetype'), /* Safari, Android, iOS */
-}
-
-@font-face {
-    font-family: 'klinic_medium';
-    src: url('/media/fonts/klinic_medium.woff') format('woff'), /* Pretty Modern Browsers */
-    url('/media/fonts/klinic_medium.ttf') format('truetype'), /* Safari, Android, iOS */
-}
 
 // fonts
 $sans-serif: "proxima-nova",
 arial,
 sans-serif; // light 300, reg 400, medium 500, semibold 600
-$serif: 'klinic_medium',
-Georgia,
-serif; // light 300, book 400, regular 500
-// pretty colors 
 
-$primary-color: #016FC4;
-$secondary-color: #DDB307;
 
-$primary-font: #373737; // 
-$secondary-font: #434343; // 
+$primary-color: #3887BE;
+$secondary-color: #BE8738;
+
+$primary-font: #434343; // 
+$secondary-font: #373737; // 
 $tertiary-font: #9FB3C3; // 
 
-
-
-$bg-color: rgb(247,247,247); // background
+$bg-color: #F8F8F8; // background
 $borders: #C8C7CC; // border color
 
 $nav-active: #fff;

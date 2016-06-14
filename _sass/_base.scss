@@ -1,19 +1,53 @@
-*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.banner {
+    @include container;
+    /* Permalink - use to edit and share this gradient: http://colorzilla. /gradient-editor/#ebab39+0,c14b6a+100 */
+    background: #ebab39;
+    /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #ebab39 0%, #c14b6a 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #ebab39 0%, #c14b6a 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #ebab39 0%, #c14b6a 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    margin-top: 25px;
+    .banner_wrapper {
+        background-image: url(/media/blueprint.svg);
+        background-position: right;
+        background-repeat: no-repeat;
+        height: 230px;
+    }
+    border-radius:2px;
+}
+
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 header {
     border-bottom: 1px solid $borders;
-    height: auto;
-    padding-top: 1.5%;
-    padding-bottom: 0.5%;
-    background-color: #ffffff;
+    background-color: $primary-color;
+    background-image: url(/media/blueprint.svg);
+    background-position: right;
+    background-repeat: no-repeat;
     .header_contents {
         @include container;
         .logo_wrapper {
             width: 50%;
             display: inline-block;
+            vertical-align: top;
+            h1 a {
+                color:#fff;
+                font-weight:800;
+                font-size:2.8rem;
+            }
         }
         .search_wrapper {
             width: 49%;
-            text-align:right;
+            text-align: right;
             display: inline-block;
         }
     }
@@ -38,9 +72,9 @@ aside {
     margin-top: 1%;
     margin-right: 2%;
     @include breakpoint(mobileonly) {
-      width:100%;
-      margin-right:0px;
-      padding-right:0px;
+        width: 100%;
+        margin-right: 0px;
+        padding-right: 0px;
     }
 }
 
@@ -51,21 +85,20 @@ article {
     margin-left: 1%;
     padding-left: 1%;
     @include breakpoint(mobileonly) {
-      width:100%;
-      margin-left:0px;
-      padding-left:0px;
+        width: 100%;
+        margin-left: 0px;
+        padding-left: 0px;
     }
 }
-
 
 footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding-top:60px;
-    padding-bottom:60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     height: 180px;
-    display:block;
+    display: block;
     .footer_contents {
         @include container;
         .foot_top {
