@@ -284,6 +284,8 @@ footer {
   height: 200px;
   display: block; }
   footer .footer_contents {
+    border-top: 1px solid #C8C7CC;
+    padding-top: 50px;
     width: 80%;
     margin: 0 auto;
     min-width: 300px;

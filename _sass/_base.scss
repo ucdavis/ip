@@ -84,15 +84,16 @@ footer {
     height: 200px;
     display: block;
     .footer_contents {
-
+        border-top: 1px solid $borders;
+        padding-top:50px;
         @include container;
-        margin-bottom:40px;
+        margin-bottom: 40px;
         .columns {
             border-left: 1px solid $borders;
-            padding-left:25px;
-            min-height:120px;
+            padding-left: 25px;
+            min-height: 120px;
             &:first-child {
-                border:none;
+                border: none;
             }
         }
     }
