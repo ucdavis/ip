@@ -17,6 +17,17 @@ a {
 ul,
 ol {
   padding-left: 0px; }
+  footer ul, footer
+  ol {
+    margin-top: 0px; }
+    footer ul li a, footer
+    ol li a {
+      color: #9b9b9b;
+      font-size: 1.4rem;
+      font-family: "proxima-nova", arial, sans-serif; }
+      footer ul li a:hover, footer
+      ol li a:hover {
+        color: #3887BE; }
   ul.two_col_list li,
   ol.two_col_list li {
     width: 49%;
@@ -67,6 +78,10 @@ p {
   font-size: 1.6rem;
   font-family: "proxima-nova", arial, sans-serif;
   color: #434343; }
+  footer p {
+    margin-top: 0px;
+    color: #9b9b9b;
+    font-size: 1.4rem; }
   p.lead {
     font-size: 1.8rem;
     color: #000;
@@ -164,6 +179,9 @@ h3,
 h4,
 .h4 {
   font-size: 1.4rem; }
+  footer h4, footer
+  .h4 {
+    color: #717272; }
 
 h5.feed-date {
   font-size: 1.5rem;
@@ -192,7 +210,6 @@ blockquote {
   box-sizing: border-box; }
 
 header {
-  border-bottom: 1px solid #C8C7CC;
   background-color: #3887BE;
   background-image: url(/media/blueprint.svg);
   background-position: right;
@@ -218,7 +235,8 @@ header {
     header .header_contents .nav_wrapper {
       width: 69%;
       display: inline-block;
-      vertical-align: top; }
+      vertical-align: top;
+      text-align: right; }
 
 .main .main_contents {
   width: 80%;
@@ -261,20 +279,27 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  height: 180px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  height: 200px;
   display: block; }
   footer .footer_contents {
     width: 80%;
     margin: 0 auto;
-    min-width: 300px; }
+    min-width: 300px;
+    margin-bottom: 40px; }
     @media (max-width: 850px) {
       footer .footer_contents {
         width: 85%; } }
     @media (max-width: 640px) {
       footer .footer_contents {
         width: 90%; } }
+    footer .footer_contents .columns {
+      border-left: 1px solid #C8C7CC;
+      padding-left: 25px;
+      min-height: 120px; }
+      footer .footer_contents .columns:first-child {
+        border: none; }
 
 /**
  * Code formatting

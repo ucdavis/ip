@@ -22,6 +22,19 @@ a {
 
 ul,
 ol {
+    footer & {
+        margin-top:0px;
+        li {
+            a {
+                color:$quinary-font;
+                font-size:1.4rem;
+                font-family: $sans-serif;
+                &:hover {
+                    color:$primary-color;
+                }
+            }
+        }
+    }
     &.two_col_list {
         li {
             width:49%;
@@ -87,6 +100,11 @@ p {
     font-size: 1.6rem;
     font-family: $sans-serif;
     color: $primary-font;
+    footer & {
+        margin-top:0px;
+        color: $quinary-font;
+        font-size:1.4rem;
+    }
     &.lead {
         font-size:1.8rem;
         color:#000;
@@ -195,7 +213,10 @@ h3,
 
 h4,
 .h4 {
-    font-size: 1.4rem
+    font-size: 1.4rem;
+    footer & {
+        color:$quarternary-font;
+    }
 }
 
 h5 {

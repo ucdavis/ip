@@ -1,4 +1,3 @@
-
 *,
 *:after,
 *:before {
@@ -8,7 +7,6 @@
 }
 
 header {
-    border-bottom: 1px solid $borders;
     background-color: $primary-color;
     background-image: url(/media/blueprint.svg);
     background-position: right;
@@ -20,16 +18,17 @@ header {
             display: inline-block;
             vertical-align: top;
             h1 a {
-                color:#fff;
-                font-weight:800;
-                font-size:2.8rem;
+                color: #fff;
+                font-weight: 800;
+                font-size: 2.8rem;
             }
         }
         .nav_wrapper {
-        width: 69%;
-        display: inline-block;
-        vertical-align: top;
-    }
+            width: 69%;
+            display: inline-block;
+            vertical-align: top;
+            text-align: right;
+        }
         // .search_wrapper {
         //     width: 49%;
         //     text-align: right;
@@ -80,13 +79,22 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding-top: 60px;
-    padding-bottom: 60px;
-    height: 180px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    height: 200px;
     display: block;
     .footer_contents {
+
         @include container;
-        
+        margin-bottom:40px;
+        .columns {
+            border-left: 1px solid $borders;
+            padding-left:25px;
+            min-height:120px;
+            &:first-child {
+                border:none;
+            }
+        }
     }
 }
 
