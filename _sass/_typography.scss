@@ -107,11 +107,8 @@ p {
     }
     &.lead {
         font-size:1.8rem;
-        color:#000;
+        color:$tertiary-font;
         margin-top:0px;
-        border-bottom:1px solid $borders;
-        padding-bottom:1%;
-        margin-bottom:3%;
     }
     &.page_description {
         border-bottom: 1px solid $borders;
@@ -150,14 +147,13 @@ h3,
 h4,
 h5,
 h6 {
-    color: $primary-font;
+    color: $secondary-font;
     font-family: $sans-serif;
     margin-top: 1rem;
     margin-bottom: 1rem;
     line-height: 1.5;
     font-family: $sans-serif;
     font-weight: 400;
-    color: $primary-font;
 }
 
 h1,

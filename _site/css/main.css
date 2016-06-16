@@ -84,11 +84,8 @@ p {
     font-size: 1.4rem; }
   p.lead {
     font-size: 1.8rem;
-    color: #000;
-    margin-top: 0px;
-    border-bottom: 1px solid #C8C7CC;
-    padding-bottom: 1%;
-    margin-bottom: 3%; }
+    color: #9FB3C3;
+    margin-top: 0px; }
   p.page_description {
     border-bottom: 1px solid #C8C7CC;
     margin-bottom: 4%;
@@ -119,14 +116,13 @@ h3,
 h4,
 h5,
 h6 {
-  color: #434343;
+  color: #373737;
   font-family: "proxima-nova", arial, sans-serif;
   margin-top: 1rem;
   margin-bottom: 1rem;
   line-height: 1.5;
   font-family: "proxima-nova", arial, sans-serif;
-  font-weight: 400;
-  color: #434343; }
+  font-weight: 400; }
 
 h1,
 .h1 {
@@ -1053,6 +1049,38 @@ label {
 
 .nivo-controlNav a.active {
   font-weight: bold; }
+
+.breadcrumb {
+  float: left;
+  padding-top: 16px;
+  list-style: none;
+  border-radius: 4px; }
+
+.breadcrumb > li {
+  display: inline-block; }
+
+.breadcrumb > li + li:before {
+  padding: 0 5px; }
+
+.breadcrumb {
+  border: 0px;
+  display: block; }
+
+.breadcrumb li {
+  font-size: 14px; }
+
+.breadcrumb a {
+  color: #3887BE; }
+
+.breadcrumb a:hover {
+  color: #214f6f; }
+
+.breadcrumb > .active a {
+  color: #555555; }
+
+.breadcrumb > li + li:before {
+  color: #3887BE;
+  content: "\003E\00a0"; }
 
 .tab-content > .tab-pane {
   display: none; }
