@@ -23,7 +23,13 @@ layout: default
             {% endif %}
         {% endfor %}
     {% endfor %}
+        <div class="searchwrapper searchwrapper--smallsearch">
+    <form class="small_search" action="/search" method="GET">
+        <input type="text" name="q" autocomplete="off" required>
+    </form>
+</div>
     </ol>
+
 </div>
 <div class="main">
     <div class="main_contents">
