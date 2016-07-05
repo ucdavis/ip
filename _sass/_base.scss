@@ -17,10 +17,15 @@ header {
             width: 30%;
             display: inline-block;
             vertical-align: top;
+            h1 {
+                margin:0px;
+                padding-top:14px;
+            }
             h1 a {
                 color: #fff;
                 font-weight: 800;
                 font-size: 2.8rem;
+                margin:0px; 
             }
         }
         .nav_wrapper {
@@ -79,12 +84,12 @@ footer {
     height: 200px;
     display: block;
     .footer_contents {
-        border-top: 1px solid $borders;
+        border-top: 1px solid #efefef;
         padding-top:50px;
         @include container;
         margin-bottom: 40px;
         .columns {
-            border-left: 1px solid $borders;
+            border-left: 1px solid #EFEFEF;
             padding-left: 25px;
             min-height: 120px;
             &:first-child {

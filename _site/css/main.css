@@ -10,7 +10,7 @@ html {
 
 a {
   text-decoration: none;
-  color: #196397; }
+  color: #3686BD; }
   a:hover {
     color: #DDB307; }
 
@@ -27,7 +27,7 @@ ol {
       font-family: "proxima-nova", arial, sans-serif; }
       footer ul li a:hover, footer
       ol li a:hover {
-        color: #196397; }
+        color: #3686BD; }
   ul.two_col_list li,
   ol.two_col_list li {
     width: 49%;
@@ -163,7 +163,7 @@ h2,
       color: #434343; }
       h2.feed-title a:hover,
       .h2.feed-title a:hover {
-        color: #196397; }
+        color: #3686BD; }
 
 h3,
 .h3 {
@@ -206,7 +206,7 @@ blockquote {
   box-sizing: border-box; }
 
 header {
-  background-color: #196397;
+  background-color: #3686BD;
   background-image: url(/media/blueprint.svg);
   background-position: right;
   background-repeat: no-repeat; }
@@ -224,10 +224,14 @@ header {
       width: 30%;
       display: inline-block;
       vertical-align: top; }
+      header .header_contents .logo_wrapper h1 {
+        margin: 0px;
+        padding-top: 14px; }
       header .header_contents .logo_wrapper h1 a {
         color: #fff;
         font-weight: 800;
-        font-size: 2.8rem; }
+        font-size: 2.8rem;
+        margin: 0px; }
     header .header_contents .nav_wrapper {
       width: 69%;
       display: inline-block;
@@ -280,7 +284,7 @@ footer {
   height: 200px;
   display: block; }
   footer .footer_contents {
-    border-top: 1px solid #C8C7CC;
+    border-top: 1px solid #efefef;
     padding-top: 50px;
     width: 80%;
     margin: 0 auto;
@@ -293,7 +297,7 @@ footer {
       footer .footer_contents {
         width: 90%; } }
     footer .footer_contents .columns {
-      border-left: 1px solid #C8C7CC;
+      border-left: 1px solid #EFEFEF;
       padding-left: 25px;
       min-height: 120px; }
       footer .footer_contents .columns:first-child {
@@ -681,7 +685,7 @@ ol.breadcrumb {
   ol.breadcrumb li {
     font-size: 1.2rem; }
   ol.breadcrumb a {
-    color: #196397; }
+    color: #3686BD; }
   ol.breadcrumb > li {
     display: inline-block; }
     ol.breadcrumb > li + li:before {
@@ -689,7 +693,7 @@ ol.breadcrumb {
   ol.breadcrumb > .active a {
     color: #373737; }
   ol.breadcrumb > li + li:before {
-    color: #196397;
+    color: #3686BD;
     content: "/"; }
 
 .section_divider {
@@ -873,7 +877,7 @@ label {
       cursor: pointer;
       color: #fff; }
       #main-nav ul li:hover a {
-        color: #196397; }
+        color: #3686BD; }
       #main-nav ul li a {
         color: #fff;
         font-weight: 600; }
