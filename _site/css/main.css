@@ -120,42 +120,13 @@ h1,
 .h1 {
   font-size: 2.8rem;
   margin-bottom: 5px;
-  font-weight: 400;
+  font-weight: 200;
   color: #434343; }
-  .news_landing h1, .news_landing
-  .h1 {
-    font-size: 2.8rem;
-    color: #373737;
-    font-family: "proxima-nova", arial, sans-serif;
-    font-weight: 300;
-    margin-bottom: 20px; }
 
 h2,
 .h2 {
   font-size: 2.2rem;
   font-weight: 400; }
-  .banner h2, .banner
-  .h2 {
-    color: #fff;
-    font-weight: 200; }
-  h2.form_title,
-  .h2.form_title {
-    font-size: 2rem;
-    margin-top: 0px;
-    margin-bottom: 20px; }
-  h2.feed-title,
-  .h2.feed-title {
-    margin-bottom: 0px;
-    font-size: 3.2rem; }
-    .news_landing h2.feed-title, .news_landing
-    .h2.feed-title {
-      font-size: 2.4rem; }
-    h2.feed-title a,
-    .h2.feed-title a {
-      color: #434343; }
-      h2.feed-title a:hover,
-      .h2.feed-title a:hover {
-        color: #3686BD; }
 
 h3,
 .h3 {
@@ -234,7 +205,7 @@ header {
   width: 80%;
   margin: 0 auto;
   min-width: 300px;
-  margin-top: 2%; }
+  margin-top: 1%; }
   @media (max-width: 850px) {
     .main .main_contents {
       width: 85%; } }
@@ -679,7 +650,7 @@ ol.breadcrumb {
   ol.breadcrumb li {
     font-size: 1.2rem; }
   ol.breadcrumb a {
-    color: #3686BD; }
+    color: #9FB3C3; }
   ol.breadcrumb > li {
     display: inline-block; }
     ol.breadcrumb > li + li:before {
@@ -687,7 +658,7 @@ ol.breadcrumb {
   ol.breadcrumb > .active a {
     color: #373737; }
   ol.breadcrumb > li + li:before {
-    color: #3686BD;
+    color: #9FB3C3;
     content: "/"; }
 
 .section_divider {

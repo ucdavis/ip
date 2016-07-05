@@ -149,43 +149,14 @@ h1,
 .h1 {
     font-size: 2.8rem;
     margin-bottom: 5px;
-    font-weight: 400;
+    font-weight: 200;
     color: $primary-font;
-    .news_landing & {
-        font-size: 2.8rem;
-        color: $secondary-font;
-        font-family: $sans-serif;
-        font-weight: 300;
-        margin-bottom: 20px;
-    }
 }
 
 h2,
 .h2 {
     font-size: 2.2rem;
     font-weight: 400;
-    .banner & {
-        color: #fff;
-        font-weight: 200;
-    }
-    &.form_title {
-        font-size: 2rem;
-        margin-top: 0px;
-        margin-bottom: 20px;
-    }
-    &.feed-title {
-        margin-bottom: 0px;
-        font-size: 3.2rem;
-        .news_landing & {
-            font-size: 2.4rem;
-        }
-        a {
-            color: $primary-font;
-            &:hover {
-                color: $primary-color;
-            }
-        }
-    }
 }
 
 h3,

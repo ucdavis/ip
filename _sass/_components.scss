@@ -20,7 +20,7 @@ ol.breadcrumb {
         font-size: 1.2rem;
     }
     a {
-        color: $primary-color;
+        color: $tertiary-font;
         // &:hover {
         //     color: darken($primary-color, 20%);
         // }
@@ -35,7 +35,7 @@ ol.breadcrumb {
         color: $secondary-font;
     }
     >li+li:before {
-        color: $primary-color;
+        color: $tertiary-font;
         content: "/";
     }
 }
