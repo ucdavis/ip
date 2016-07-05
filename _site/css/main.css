@@ -699,31 +699,31 @@ ol.breadcrumb {
 .section_divider {
   margin-bottom: 10%; }
 
-.image-wrapper {
+.imagewrapper {
   width: auto;
   margin-top: 7px; }
-  .image-wrapper img {
+  .imagewrapper img {
     margin: 0px;
     padding: 0px;
     padding-bottom: 10px; }
-  .image-wrapper.left {
+  .imagewrapper.imagewrapper--left {
     float: left;
     max-width: 300px;
     padding-right: 5%; }
-  .image-wrapper.right {
+  .imagewrapper.imagewrapper--right {
     float: right;
     max-width: 300px;
     padding-left: 5%; }
-  .image-wrapper.full-width {
-    max-width: 800px; }
-
-.img_article_thumb {
-  float: left;
-  max-width: 45%;
-  padding-right: 3%;
-  padding-top: 1%;
-  padding-bottom: 4%;
-  max-height: 240px; }
+  .imagewrapper.imagewrapper--fullwidth img {
+    width: 100%; }
+  .imagewrapper.imagewrapper--thumb {
+    float: left;
+    max-width: 45%;
+    padding-right: 3%;
+    padding-top: 0px;
+    padding-bottom: 4%;
+    max-height: 240px;
+    margin-top: 0px; }
 
 .btn {
   padding: 8px 20px;
@@ -794,7 +794,7 @@ ol.breadcrumb {
 form.small_search input {
   background-image: url(/media/search_form.svg);
   background-repeat: no-repeat;
-  background-size: 20px 20px;
+  background-size: 18px 18px;
   width: 200px;
   font-size: 1.6rem;
   color: #434343;

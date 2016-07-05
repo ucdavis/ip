@@ -1,15 +1,16 @@
 ---
 layout: project
-title:  "E China Apple"
-description: "UC Davis has provided technical assistance, education, training and materials to support Afghanistan. The focus has been primarily on horticulture and extension."
-author: "Frederick Ferguson"
-category: "news"
-contact-name: Dr. Mark Bell
-contact-phone: (916) 224-3885
+title:  E China Apple
+description: The goal of e-China Apple is to work as part of the larger Cornell-managed "China Apple" project to help increase incomes of poor farmers in China (especially women farmers) while producing safer apples for the millions of consumers in China and around the world.
+category: "project"
+contact: Mark Bell (UC Davis)
 contact-email: mozbell@ucdavis.edu
-more-info: echina-apple.com
-funding: $350,000 over the course of 5 years
-image: /media/placeholder2.jpg
+contact-two: Ralph Dean Christy (Cornell)
+contact-two-email: rdchrist@cornell.edu
+more-info: http://echina-apple.com/
+funding: Walmart Foundation
+sponsors: Cornell University, Shandong Agricultural University, Qingdao Agricultural University, and Shandong Extension Division of Fruits and Teas, Northwest Agriculture & Forestry University and Shaanxi Fruit Bureau
+image: /media/projects/echina/project_banner
 image-caption: Take a look at the source for this post
 permalink: /projects/echina-apple
 ---
