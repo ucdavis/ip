@@ -109,6 +109,7 @@ p {
         font-size:1.8rem;
         color:$tertiary-font;
         margin-top:0px;
+        line-height:1.5;
     }
     &.page_description {
         border-bottom: 1px solid $borders;
@@ -118,26 +119,14 @@ p {
     .banner & {
         color: #fff;
     }
-    &.image_caption {
+    &.image__caption {
         font-size: 1.4rem;
         line-height: 1.4;
         color: $tertiary-font;
         margin-bottom: 10px;
-        display: inline;
-    }
-    &.feed-description {
-        margin-top: 0px;
-        .news_landing & {
-            font-size: 1.4rem;
-        }
-    }
-    &.feed-summary {
-        color: $secondary-font;
-        font-size: 1.8rem;
-        border-bottom: 1px solid $borders;
-        margin-bottom: 2%;
-        padding-bottom: 2%;
-        margin-top: 0px;
+        margin-top:0px;
+        font-style: italic;
+        text-align:center;
     }
 }
 

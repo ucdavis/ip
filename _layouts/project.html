@@ -6,11 +6,6 @@ layout: default
         <li><a href="{{ site.baseurl }}/">Home</a></li>
         <li><a href="/projects">Projects</a></li>
         <li class="active"><a href="{{ page.url }}">{{ page.title }}</a></li>
-        <div class="searchwrapper searchwrapper--smallsearch">
-            <form class="small_search" action="/search" method="GET">
-                <input type="text" name="q" autocomplete="off" required>
-            </form>
-        </div>
     </ol>
 </div>
 <div class="main">
@@ -36,6 +31,11 @@ layout: default
             <p>{{ content }}</p>
         </article>
         <aside>
+        <div class="searchwrapper searchwrapper--smallsearch smallsearch--nofloat">
+            <form class="small_search" action="/search" method="GET">
+                <input type="text" name="q" autocomplete="off" required>
+            </form>
+        </div>
             <h3>Lagunitas</h3>
             <p>Adding new quotes to the generator nearly daily. Shareable quote images coming in a few days.</p>
         </aside>

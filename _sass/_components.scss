@@ -3,6 +3,9 @@
     &.searchwrapper--smallsearch {
         float:right;
     }
+    &.smallsearch--nofloat {
+        float:none;
+    }
 }
 
 ol.breadcrumb {
