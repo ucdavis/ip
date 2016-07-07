@@ -1,12 +1,4 @@
-// search
-.searchwrapper {
-    &.searchwrapper--smallsearch {
-        float:right;
-    }
-    &.smallsearch--nofloat {
-        float:none;
-    }
-}
+
 
 ol.breadcrumb {
     display: inline-block;
@@ -162,4 +154,7 @@ ol.breadcrumb {
         max-width: 60rem;
         margin-top: -100px;
     }
+}
+.alignitems--center {
+    align-self:center;
 }

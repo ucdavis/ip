@@ -635,11 +635,6 @@ input[type="button"].button-primary:focus {
   display: table;
   clear: both; }
 
-.searchwrapper.searchwrapper--smallsearch {
-  float: right; }
-.searchwrapper.smallsearch--nofloat {
-  float: none; }
-
 ol.breadcrumb {
   display: inline-block;
   padding-top: 16px;
@@ -748,6 +743,9 @@ ol.breadcrumb {
     width: 100%;
     max-width: 60rem;
     margin-top: -100px; }
+
+.alignitems--center {
+  align-self: center; }
 
 .main_search {
   width: 100%;
@@ -886,7 +884,9 @@ label {
 .breadsearch {
   width: 80%;
   margin: 0 auto;
-  min-width: 300px; }
+  min-width: 300px;
+  display: flex;
+  justify-content: space-between; }
   @media (max-width: 850px) {
     .breadsearch {
       width: 85%; } }
