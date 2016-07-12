@@ -753,6 +753,9 @@ ol.breadcrumb {
 .alignitems--center {
   align-self: center; }
 
+.alignitems--end {
+  align-self: flex-end; }
+
 .searchwrapper {
   margin-right: 13%; }
 

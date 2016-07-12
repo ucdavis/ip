@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  E China Apple
+title: E China Apple
 description: The goal of e-China Apple is to work as part of the larger Cornell-managed "China Apple" project to help increase incomes of poor farmers in China (especially women farmers) while producing safer apples for the millions of consumers in China and around the world.
 category: "project"
 contact: Mark Bell (UC Davis)
@@ -13,6 +13,8 @@ sponsors: Cornell University, Shandong Agricultural University, Qingdao Agricult
 image: /media/projects/echina/project_banner
 image-caption: Photo credit Steven Ascersion
 permalink: /projects/echina-apple
+tags: 
+- china
 ---
 
 ##Afghan Ski Club

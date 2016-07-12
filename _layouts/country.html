@@ -15,7 +15,7 @@ layout: default
             <li class="active"><a href="{{ page.url }}">{{ page.title }}</a></li>
         </ol>
     </div>
-    <div class="alignitems--center searchwrapper">
+    <div class="alignitems--end searchwrapper">
         <form class="small_search" action="/search" method="GET">
             <input type="text" name="q" autocomplete="off" required>
         </form>
@@ -26,22 +26,17 @@ layout: default
         <article>
             <h1>{{ page.title }}</h1>
             <p class="lead">{{ page.description }}</p>
-            {% if page.image %}
-            <div class="imagewrapper imagewrapper--fullwidth">
-                <a href="#" data-featherlight="#mylightbox">
-                    <img src="{{ page.image }}.jpg" alt="{{ page.image-caption }}" srcset="{{ page.image }}.jpg 1x, {{ page.image }}@2x.jpg 2x">
-                </a>
-                <div id="mylightbox"><img src="{{ page.image }}@2x.jpg" alt="{{ page.image-caption }}">
-                    <p>{{ page.image-caption }}</p>
-                </div>
-                {% if page.image-caption %}
-                <p class="image__caption">
-                    {{ page.image-caption }}
-                </p>
-                {% endif %}
-            </div>
-            {% endif %}
             <p>{{ content }}</p>
+            {% for post in site.tags.china limit:3 %}
+            <div class="news_landing_piece">
+                {% if post.image %}
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img class="img_article_thumb" src="{{ post.image }}"></a>{% endif %}
+                <h2 class="feed-title">
+                      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+                <p class="feed-description">{{ post.description }}</p>
+            </div>
+            {% endfor %}
         </article>
         <aside class="aside--project">
           

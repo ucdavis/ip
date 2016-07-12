@@ -6,8 +6,8 @@
 </description>
     <link>http://ip.ucdavis.edu/</link>
     <atom:link href="http://ip.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jul 2016 12:51:04 -0700</pubDate>
-    <lastBuildDate>Tue, 12 Jul 2016 12:51:04 -0700</lastBuildDate>
+    <pubDate>Tue, 12 Jul 2016 13:11:27 -0700</pubDate>
+    <lastBuildDate>Tue, 12 Jul 2016 13:11:27 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -21,6 +21,8 @@
         <pubDate>Tue, 01 Dec 2015 00:00:00 -0800</pubDate>
         <link>http://ip.ucdavis.edu/projects/echina-apple</link>
         <guid isPermaLink="true">http://ip.ucdavis.edu/projects/echina-apple</guid>
+        
+        <category>china</category>
         
         
         <category>project</category>
