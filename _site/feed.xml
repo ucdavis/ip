@@ -6,8 +6,8 @@
 </description>
     <link>http://ip.ucdavis.edu/</link>
     <atom:link href="http://ip.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Jul 2016 14:37:51 -0700</pubDate>
-    <lastBuildDate>Thu, 07 Jul 2016 14:37:51 -0700</lastBuildDate>
+    <pubDate>Tue, 12 Jul 2016 12:51:04 -0700</pubDate>
+    <lastBuildDate>Tue, 12 Jul 2016 12:51:04 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -28,28 +28,16 @@
       </item>
     
       <item>
-        <title>UC Davis Apple Harvest</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+        <title>China</title>
+        <description>&lt;p&gt;Funded by the Walmart foundation, the project aims to provide credible relevant information for the safe and sustainable production of apples in China. The majority of apples in china are produced by small-scale farmers (many of whom are women) and they are struggling with rising costs and reduced returns.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 22 Sep 2015 09:25:17 -0700</pubDate>
-        <link>http://ip.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://ip.ucdavis.edu/events/2015/09/22/welcome-to-jekyll/</guid>
-        
-        <category>Apple</category>
+        <pubDate>Sun, 01 Mar 2015 08:25:17 -0800</pubDate>
+        <link>http://ip.ucdavis.edu/countries/china</link>
+        <guid isPermaLink="true">http://ip.ucdavis.edu/countries/china</guid>
         
         
-        <category>events</category>
+        <category>country</category>
         
       </item>
     

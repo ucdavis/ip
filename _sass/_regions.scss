@@ -1,3 +1,18 @@
+.banner {
+    background-color: $secondary-color;
+    padding: 2% 0;
+    &.banner--text {}
+    &.banner--china_banner {
+        background-image: url(/media/banners/china_banner.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 270px;
+    }
+    .banner_contents {
+        @include container;
+    }
+}
+
 .breadsearch {
 	@include container;
 	display:flex;

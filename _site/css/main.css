@@ -890,6 +890,25 @@ label {
   visibility: visible;
   z-index: 99; }
 
+.banner {
+  background-color: #BE8738;
+  padding: 2% 0; }
+  .banner.banner--china_banner {
+    background-image: url(/media/banners/china_banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 270px; }
+  .banner .banner_contents {
+    width: 80%;
+    margin: 0 auto;
+    min-width: 300px; }
+    @media (max-width: 850px) {
+      .banner .banner_contents {
+        width: 85%; } }
+    @media (max-width: 640px) {
+      .banner .banner_contents {
+        width: 90%; } }
+
 .breadsearch {
   width: 80%;
   margin: 0 auto;
