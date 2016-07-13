@@ -132,7 +132,9 @@ h2,
 
 h3,
 .h3 {
-  font-size: 2rem; }
+  font-size: 2rem;
+  color: #9FB3C3;
+  font-weight: 200; }
   h3 + p,
   .h3 + p {
     margin-top: -5px; }
@@ -756,6 +758,12 @@ ol.breadcrumb {
 .alignitems--end {
   align-self: flex-end; }
 
+.align-right {
+  text-align: right; }
+
+.primary-color {
+  color: #3686BD !important; }
+
 .searchwrapper {
   margin-right: 13%; }
 
@@ -911,6 +919,23 @@ label {
     @media (max-width: 640px) {
       .banner .banner_contents {
         width: 90%; } }
+
+.relatedprojects .relatedprojects__card {
+  border: 1px solid #C8C7CC;
+  border-radius: 2px;
+  padding: 15px 20px;
+  display: inline-block;
+  width: 49%;
+  margin-top: 20px; }
+  @media (max-width: 640px) {
+    .relatedprojects .relatedprojects__card {
+      width: 100%; } }
+  .relatedprojects .relatedprojects__card h4 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #434343; }
+  .relatedprojects .relatedprojects__card p {
+    font-size: 1.4rem; }
 
 .breadsearch {
   width: 80%;

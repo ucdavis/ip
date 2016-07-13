@@ -6,8 +6,8 @@
 </description>
     <link>http://ip.ucdavis.edu/</link>
     <atom:link href="http://ip.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jul 2016 13:23:30 -0700</pubDate>
-    <lastBuildDate>Wed, 13 Jul 2016 13:23:30 -0700</lastBuildDate>
+    <pubDate>Wed, 13 Jul 2016 13:45:40 -0700</pubDate>
+    <lastBuildDate>Wed, 13 Jul 2016 13:45:40 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -33,14 +33,18 @@
         <title>China</title>
         <description>&lt;p&gt;Funded by the Walmart foundation, the project aims to provide credible relevant information for the safe and sustainable production of apples in China. The majority of apples in china are produced by small-scale farmers (many of whom are women) and they are struggling with rising costs and reduced returns.&lt;/p&gt;
 &lt;div class=&quot;relatedprojects&quot;&gt;
+&lt;h3&gt;Related Projects&lt;/h3&gt;
 	
-            &lt;div class=&quot;relatedprojects__card&quot;&gt;
-                &lt;h2&gt;
-                      &lt;a class=&quot;post-link&quot; href=&quot;/projects/echina-apple&quot;&gt;E China Apple&lt;/a&gt;
-                    &lt;/h2&gt;
-                &lt;p class=&quot;feed-description&quot;&gt;The goal of e-China Apple is to work as part of the larger Cornell-managed &quot;China Apple&quot; project to help increase incomes of poor farmers in China (especially women farmers) while producing safer apples for the millions of consumers in China and around the world.&lt;/p&gt;
-            &lt;/div&gt;
-            
+	&lt;a class=&quot;post-link&quot; href=&quot;/projects/echina-apple&quot;&gt;
+	    &lt;div class=&quot;relatedprojects__card&quot;&gt;
+	        &lt;h4&gt;
+	              E China Apple
+	            &lt;/h4&gt;
+	        &lt;p class=&quot;feed-description&quot;&gt;The goal of e-China Apple is to work as part of the larger Cornell-managed &quot;China Apple&quot; project to help increase incomes of poor farmers in China (especially women farmers) while producing safer apples for the millions of consumers in China and around the world.&lt;/p&gt;
+	        &lt;p class=&quot;primary-color&quot;&gt;Learn More&lt;/p&gt;
+	    &lt;/div&gt;
+    &lt;/a&gt;
+    
 &lt;/div&gt;
 
 </description>

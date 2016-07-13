@@ -18,14 +18,18 @@ image-banner: china_banner
 
 Funded by the Walmart foundation, the project aims to provide credible relevant information for the safe and sustainable production of apples in China. The majority of apples in china are produced by small-scale farmers (many of whom are women) and they are struggling with rising costs and reduced returns.
 <div class="relatedprojects">
+<h3>Related Projects</h3>
 	{% for post in site.tags.china limit:3 %}
-            <div class="relatedprojects__card">
-                <h2>
-                      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    </h2>
-                <p class="feed-description">{{ post.description }}</p>
-            </div>
-            {% endfor %}
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+	    <div class="relatedprojects__card">
+	        <h4>
+	              {{ post.title }}
+	            </h4>
+	        <p class="feed-description">{{ post.description }}</p>
+	        <p class="primary-color">Learn More</p>
+	    </div>
+    </a>
+    {% endfor %}
 </div>
 
 

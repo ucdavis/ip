@@ -12,7 +12,27 @@
         @include container;
     }
 }
-
+.relatedprojects {
+    .relatedprojects__card {
+        border:1px solid $borders;
+        border-radius:2px;
+        padding:15px 20px;
+        display:inline-block;
+        width:49%;
+        margin-top:20px;
+        @include breakpoint(mobileonly) {
+            width:100%;
+        }
+        h4 {
+            font-size:1.6rem;
+            font-weight:600;
+            color:$primary-font;
+        }
+        p {
+            font-size:1.4rem;
+        }
+    }
+}
 .breadsearch {
 	@include container;
 	display:flex;
