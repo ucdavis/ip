@@ -15,9 +15,10 @@ image-caption: Photo credit Steven Ascersion
 permalink: /projects/echina-apple
 tags: 
 - china
+
 ---
 
-##Afghan Ski Club
+<h2>Afghan Ski Club</h2>
 
 You want your tree to have some character. Make it special. Don't forget to tell these special people in your life just how special they are to you. Paint anything you want on the canvas. Create your  own world.
 
