@@ -18,6 +18,7 @@
 
 #slideout-nav ul {
     list-style: none;
+    text-align: left;
 }
 
 #main-nav {
@@ -26,7 +27,7 @@
         display: none;
     }
     ul {
-        text-align: left;
+        // text-align: left;
         display: inline;
         margin: 0;
         padding: 20px 4px 20px 0;
