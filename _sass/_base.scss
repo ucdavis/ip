@@ -76,6 +76,11 @@ article {
         margin-right: 0px;
         padding-right: 0px;
     }
+    &.article--fullwidth {
+        width:100%;
+        margin-right:0px;
+        padding-right:0px;
+    }
 }
 
 footer {
