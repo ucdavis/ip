@@ -13,10 +13,11 @@ header {
     background-repeat: no-repeat;
     .header_contents {
         @include container;
+        display:flex;
+        justify-content: space-between;
         .logo_wrapper {
-            width: 30%;
-            display: inline-block;
-            vertical-align: top;
+           
+           
             h1 {
                 margin:0px;
                 padding-top:14px;
@@ -29,10 +30,8 @@ header {
             }
         }
         .nav_wrapper {
-            width: 69%;
-            display: inline-block;
-            vertical-align: top;
-            text-align: right;
+           
+            
         }
     }
 }
