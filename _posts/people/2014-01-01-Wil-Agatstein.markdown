@@ -1,6 +1,7 @@
 ---
 layout: person
 Title: In Memory, Wilton (Wil) Agatstein MBA
+contact-name: Wil Agatstein, MBA
 contact-title: Co-PI e-Afghan Ag Executive Director Graduate School of Management
 category: "person"
 email: wagatstein@ucdavis.edu
