@@ -11,7 +11,7 @@ image: /media/projects/echina/project_banner
 image-caption: Photo credit Steven Ascersion
 permalink: /projects/echina-apple
 tags:
-- china
+- China
 
 ---
 
