@@ -40,33 +40,20 @@ layout: default
         <aside class="aside--project">
             {% if page.contact %}
             <h3>Contact</h3>
-            <p>
-                {{ page.contact }}
-                <br>
-                <a href="mailto:{{ page.contact-email }}">{{ page.contact-email }}</a>
-            </p>
-            {% if page.contact-two %}
-            <p>
-                {{ page.contact-two }}
-                <br>
-                <a href="mailto:{{ page.contact-two-email }}">{{ page.contact-two-email }}</a>
-            </p>
-            {% endif %} {% endif %}
-            {% if page.more-info %}
+            <p>{{ page.contact }}</p>
+
+
+
+            {% endif %} {% if page.more-info %}
             <h3>More information</h3>
             <p><a target="_blank" href="{{ page.more-info }}">{{ page.more-info }}</a></p>
-            {% endif %}
-            {% if page.funding %}
+            {% endif %} {% if page.funding %}
             <h3>Funding</h3>
             <p>{{ page.funding }}</p>
-            {% endif %}
-            {% if page.sponsors %}
+            {% endif %} {% if page.sponsors %}
             <h3>Sponsors</h3>
             <p>{{ page.sponsors }}</p>
             {% endif %}
         </aside>
     </div>
 </div>
-
-
-
