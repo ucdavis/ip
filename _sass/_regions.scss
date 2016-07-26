@@ -10,39 +10,39 @@
     }
     &.banner--afghanistan_banner {
         background-image: url(/media/banners/afghanistan_banner.jpg);
-        @extend banner--echina_banner;
+        @extend .banner--china_banner;
     }
     &.banner--chile_banner {
         background-image: url(/media/banners/chile_banner.jpg);
-        @extend banner--echina_banner;
+        @extend .banner--china_banner;
     }
     &.banner--guatemala_banner {
         background-image: url(/media/banners/guatemala_banner.jpg);
-        @extend banner--echina_banner;
+        @extend .banner--china_banner;
     }
     &.banner--india_banner {
         background-image: url(/media/banners/india_banner.jpg);
-        @extend banner--echina_banner;
+        @extend .banner--china_banner;
     }
     &.banner--iraq_banner {
         background-image: url(/media/banners/iraq_banner.jpg);
-        @extend banner--echina_banner;
+        @extend .banner--china_banner;
     }
     &.banner--japan_banner {
         background-image: url(/media/banners/japan_banner.jpg);
-        @extend banner--echina_banner;
+        @extend .banner--china_banner;
     }
     &.banner--kenya_banner {
         background-image: url(/media/banners/kenya_banner.jpg);
-        @extend banner--echina_banner;
+        @extend .banner--china_banner;
     }
     &.banner--pakistan_banner {
         background-image: url(/media/banners/pakistan_banner.jpg);
-        @extend banner--echina_banner;
+        @extend .banner--china_banner;
     }
     &.banner--vietnam_banner {
         background-image: url(/media/banners/vietnam_banner.jpg);
-        @extend banner--echina_banner;
+        @extend .banner--china_banner;
     }
     .banner_contents {
         @include container;
