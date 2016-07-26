@@ -38,3 +38,33 @@
 	display:flex;
 	justify-content: space-between;
 }
+
+//team
+.team__card {
+  text-align: center;
+  border: 1px solid $tertiary-font;
+  width:36%;
+  display:inline-block;
+  vertical-align: top;
+  padding-bottom:10px;
+  min-height:230px;
+  margin-top:100px;
+  &:nth-child(odd) {
+    margin-left:10%;
+  }
+  p {
+    font-size:1.4rem;
+    max-width:40rem;
+    margin:0 auto;
+  }
+  h2 {
+    font-size:1.8rem;
+    font-weight:600;
+  }
+}
+.image__team {
+  border-radius:50%;
+  width:100px;
+  border:2px solid $tertiary-font;
+  margin-top:-50px;
+}
