@@ -8,6 +8,12 @@
         background-repeat: no-repeat;
         height: 270px;
     }
+    &.banner--afghanistan_banner {
+        background-image: url(/media/banners/afghanistan_banner.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 270px;
+    }
     .banner_contents {
         @include container;
     }

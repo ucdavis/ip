@@ -2,24 +2,18 @@
 layout: country
 title:  "China"
 description: "IPO is presently collaborating with Cornell university to implement e-China Apple."
-author: "Cal Doval"
-date:   2015-03-01 16:25:17
+date:   2015-09-01 16:25:17
 category: "country"
-contact: Mark Bell (UC Davis)
-contact-email: mozbell@ucdavis.edu
-contact-two: Ralph Dean Christy (Cornell)
-contact-two-email: rdchrist@cornell.edu
-more-info: http://echina-apple.com/
-image: /media/projects/echina/project_banner
-image-caption: Photo credit Steven Ascersion
+contact: <a href="mailto:mhzhang@ucdavis.edu">Dr Minghua Zhang</a>, <a href="mailto:jehill@ucdavis.edu">Jim Hill</a> and <a href="mailto:mozbell@ucdavis.edu">Mark Bell</a>
 permalink: /countries/china
 image-banner: china_banner
 ---
 
 Funded by the Walmart foundation, the project aims to provide credible relevant information for the safe and sustainable production of apples in China. The majority of apples in china are produced by small-scale farmers (many of whom are women) and they are struggling with rising costs and reduced returns.
+
 <div class="relatedprojects">
 <h3>Related Projects</h3>
-	{% for post in site.tags.china limit:3 %}
+	{% for post in site.tags.China limit:3 %}
 	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
 	    <div class="relatedprojects__card">
 	        <h4>
@@ -31,5 +25,3 @@ Funded by the Walmart foundation, the project aims to provide credible relevant 
     </a>
     {% endfor %}
 </div>
-
-
