@@ -3,10 +3,12 @@ layout: person
 contact-name: Minghua Zhang, PhD
 contact-title: Associate Director, Far East Program Zhejiang University Student and Faculty Exchange
 category: "person"
-phone: 530-752-0628 
+phone: 530-752-0628
 email: mhzhang@ucdavis.edu
 image: /media/team/people_template
 permalink: /team/minghua-zhang
+tags:
+- Administration
 ---
 
 <h3>Interests</h3>
@@ -18,4 +20,3 @@ Ecology Graduate Group
 
 <h3>Courses</h3>
 HYD 182: Environmental Analysis with Geographical Information Systems (GIS) (5 Units, Spring Quarter)
-

@@ -12,6 +12,11 @@
         @include container;
     }
 }
+.article__team {
+  h1,h2,p {
+    text-align:center;
+  }
+}
 .relatedprojects {
     .relatedprojects__card {
         border:1px solid $borders;
