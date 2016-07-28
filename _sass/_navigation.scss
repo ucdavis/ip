@@ -8,7 +8,7 @@
 .menu-btn,
 .close-btn {
     font-size: 30px;
-    color: #333333;
+    color: #ffffff;
     display: none;
     margin-left: 5%;
     @include breakpoint(tablet) {
@@ -19,6 +19,7 @@
 #slideout-nav ul {
     list-style: none;
     text-align: left;
+    padding-left:15px;
 }
 
 #main-nav {
