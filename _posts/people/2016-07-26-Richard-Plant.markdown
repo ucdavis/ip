@@ -17,7 +17,7 @@ tags:
 <li>Ph.D. Theoretical and Applied Mechanics – Cornell Univeristy</li>
 </ul>
 
-Richard Plant is a UC Davis Professor Emeritus of Plant Sciences and Biological and Agricultural Engineering. His research interests include precision agriculture and applications of spatial data analysis to problems in agriculture and resource management. Current research projects include the adaptation of site specific management techniques to crop management in developing countries and analysis of the establishment and spread of invasive agricultural pests.
+<p>Richard Plant is a UC Davis Professor Emeritus of Plant Sciences and Biological and Agricultural Engineering. His research interests include precision agriculture and applications of spatial data analysis to problems in agriculture and resource management. Current research projects include the adaptation of site specific management techniques to crop management in developing countries and analysis of the establishment and spread of invasive agricultural pests.</p>
 
 <h3>Interests:</h3>
 <p>Precision agriculture, spatial data analysis, systems analysis.</p>

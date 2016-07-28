@@ -18,7 +18,7 @@ tags:
 <li>Ph.D. Soil Science - North Carolina State University, Raleigh</li>
 </ul>
 
-Richard Plant is a UC Davis Professor Emeritus of Plant Sciences and Biological and Agricultural Engineering. His research interests include precision agriculture and applications of spatial data analysis to problems in agriculture and resource management. Current research projects include the adaptation of site specific management techniques to crop management in developing countries and analysis of the establishment and spread of invasive agricultural pests.
+<p>Randy Southard is a UC Davis professor of soils. His research group studies the processes of soil formation, how those processes cause soil properties to vary across the landscape, and how soil properties affect soil management. Southard currently studies the influence of soil properties and management on agricultural dust production in the Central Valley; fixation of potassium by soil minerals; soil carbon-mineralogy interactions in forested ecosystems of the Sierra Nevada; and mineral alteration processes in California, Hawaii and Iceland.</p>
 
 <h3>Interests:</h3>
 <p>Soil genesis, morphology, and classification; soil-geomorphic relations; soil mineralogy; agricultural dust and PM-10.</p>

@@ -90,6 +90,11 @@
   padding-bottom:10px;
   min-height:230px;
   margin-top:100px;
+  @include breakpoint(tablet) {
+    width:80%;
+    margin-left:10%;
+    margin-right:10%
+  }
   &:nth-child(odd) {
     margin-left:10%;
   }
