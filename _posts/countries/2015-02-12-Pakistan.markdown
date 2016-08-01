@@ -2,7 +2,7 @@
 layout: country
 title:  "Pakistan"
 description: "AIP aims to help farmers in Pakistan by harnessing the benefits of traditional practices with modern science."
-date:   2015-12-01 16:25:17
+date:   2015-02-12 16:25:17
 category: "country"
 contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a><br/><a href="mailto:troast@ucdavis.edu">Tom Roast</a><br/><a href="mailto:lferguson@ucdavis.edu">Louise Ferguson</a><br/><a href="mailto:mozbell@ucdavis.edu">Mark Bell</a>
 permalink: /countries/pakistan
