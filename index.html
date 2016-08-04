@@ -18,3 +18,17 @@ layout: landing
     <img src="/media/sponsors/walmart.svg" alt="">
   </div>
 </div>
+<div class="homepageprojects">
+  <h3>Our Projects</h3>
+  <div class="homepageprojects__contents">
+
+    {% for post in site.categories.project limit:4 %}
+            <div class="homepage__project--item"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <h2>
+                      {{ post.title }}
+                    </h2>
+                <p>{{ post.description }}</p>
+            </a></div>
+            {% endfor %}
+  </div>
+</div>
