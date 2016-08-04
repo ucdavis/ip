@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include header.html %}
 <div class="breadsearch">
     <div class="alignitems--center breadwrapper">
         <ol class="breadcrumb">
@@ -22,7 +23,7 @@ layout: default
             <p>{{ page.contact-title }}
             <br/><a href="mailto:{{ page.email }}">{{ page.email }}</a>
             <br>{{ page.phone }}</p>
-          
+
             <p>{{ content }}</p>
         </article>
         <aside class="aside--project">
@@ -32,13 +33,10 @@ layout: default
                     <img src="{{ page.image }}.jpg" alt="{{ page.image-caption }}" srcset="{{ page.image }}.jpg 1x, {{ page.image }}@2x.jpg 2x">
                 </a>
                 <div id="mylightbox"><img src="{{ page.image }}@2x.jpg" alt="{{ page.image-caption }}">
-                 
+
                 </div>
             </div>
             {% endif %}
         </aside>
     </div>
 </div>
-
-
-

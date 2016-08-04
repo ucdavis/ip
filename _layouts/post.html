@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% include header.html %}
 <main>
     <div class="main_contents">
         <aside>
@@ -10,7 +10,7 @@ layout: default
         </aside>
         <article>
             <h1 class="">{{ page.title }}</h1>
-            
+
             <h2 class="document_description">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h2>
            	<p>{{ content }}</p>
         </article>

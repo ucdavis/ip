@@ -1,47 +1,79 @@
+.homepage__banner {
+    @include container;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    .homepage__banner--text {
+        display: inline-block;
+        vertical-align: middle;
+        width: 49%;
+
+
+        padding-top:3%;
+
+        h2 {
+            color: #fff;
+            font-size: 3.8rem;
+            text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+        }
+        p {
+            color: #fff;
+            font-size: 1.8rem;
+            max-width:400px;
+            text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+        }
+    }
+    .homepage__banner--image {
+        display: inline-block;
+        vertical-align: top;
+        width: 45%;
+
+        margin-right: 5%;
+    }
+}
 .banner {
     background-color: $secondary-color;
     padding: 2% 0;
     &.banner--text {}
     &.banner--china_banner {
-        background-image: url(/media/banners/china_banner.jpg);
+        background-image: url("/media/banners/china_banner.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         height: 270px;
     }
     &.banner--afghanistan_banner {
-        background-image: url(/media/banners/afghanistan_banner.jpg);
+        background-image: url("/media/banners/afghanistan_banner.jpg");
         @extend .banner--china_banner;
     }
     &.banner--chile_banner {
-        background-image: url(/media/banners/chile_banner.jpg);
+        background-image: url("/media/banners/chile_banner.jpg");
         @extend .banner--china_banner;
     }
     &.banner--guatemala_banner {
-        background-image: url(/media/banners/guatemala_banner.jpg);
+        background-image: url("/media/banners/guatemala_banner.jpg");
         @extend .banner--china_banner;
     }
     &.banner--india_banner {
-        background-image: url(/media/banners/india_banner.jpg);
+        background-image: url("/media/banners/india_banner.jpg");
         @extend .banner--china_banner;
     }
     &.banner--iraq_banner {
-        background-image: url(/media/banners/iraq_banner.jpg);
+        background-image: url("/media/banners/iraq_banner.jpg");
         @extend .banner--china_banner;
     }
     &.banner--japan_banner {
-        background-image: url(/media/banners/japan_banner.jpg);
+        background-image: url("/media/banners/japan_banner.jpg");
         @extend .banner--china_banner;
     }
     &.banner--kenya_banner {
-        background-image: url(/media/banners/kenya_banner.jpg);
+        background-image: url("/media/banners/kenya_banner.jpg");
         @extend .banner--china_banner;
     }
     &.banner--pakistan_banner {
-        background-image: url(/media/banners/pakistan_banner.jpg);
+        background-image: url("/media/banners/pakistan_banner.jpg");
         @extend .banner--china_banner;
     }
     &.banner--vietnam_banner {
-        background-image: url(/media/banners/vietnam_banner.jpg);
+        background-image: url("/media/banners/vietnam_banner.jpg");
         @extend .banner--china_banner;
     }
     .banner_contents {
@@ -49,68 +81,69 @@
     }
 }
 .article__team {
-  h1,h2,p {
-    text-align:center;
-  }
+    h1,
+    h2,
+    p {
+        text-align: center;
+    }
 }
 .relatedprojects {
     .relatedprojects__card {
-        border:1px solid $borders;
-        border-radius:2px;
-        padding:15px 20px;
-        display:inline-block;
-        width:49%;
-        margin-top:20px;
+        border: 1px solid $borders;
+        border-radius: 2px;
+        padding: 15px 20px;
+        display: inline-block;
+        width: 49%;
+        margin-top: 20px;
         @include breakpoint(mobileonly) {
-            width:100%;
+            width: 100%;
         }
         h4 {
-            font-size:1.6rem;
-            font-weight:600;
-            color:$primary-font;
+            font-size: 1.6rem;
+            font-weight: 600;
+            color: $primary-font;
         }
         p {
-            font-size:1.4rem;
+            font-size: 1.4rem;
         }
     }
 }
 .breadsearch {
-	@include container;
-	display:flex;
-	justify-content: space-between;
+    @include container;
+    display: flex;
+    justify-content: space-between;
 }
-
 //team
 .team__card {
-  text-align: center;
-  border: 1px solid $tertiary-font;
-  width:36%;
-  display:inline-block;
-  vertical-align: top;
-  padding-bottom:10px;
-  min-height:230px;
-  margin-top:100px;
-  @include breakpoint(tablet) {
-    width:80%;
-    margin-left:10%;
-    margin-right:10%
-  }
-  &:nth-child(odd) {
-    margin-left:10%;
-  }
-  p {
-    font-size:1.4rem;
-    max-width:40rem;
-    margin:0 auto;
-  }
-  h2 {
-    font-size:1.8rem;
-    font-weight:600;
-  }
+    text-align: center;
+    border: 1px solid $tertiary-font;
+    width: 36%;
+    display: inline-block;
+    vertical-align: top;
+    padding-bottom: 10px;
+    min-height: 230px;
+    margin-top: 100px;
+    @include breakpoint(tablet) {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    &:nth-child(odd) {
+        margin-left: 10%;
+    }
+    p {
+        font-size: 1.4rem;
+        max-width: 40rem;
+        margin: 0 auto;
+    }
+    h2 {
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
 }
 .image__team {
-  border-radius:50%;
-  width:100px;
-  border:2px solid $tertiary-font;
-  margin-top:-50px;
+    border-radius: 50%;
+    width: 100px;
+    border: 2px solid $tertiary-font;
+    margin-top: -50px;
 }

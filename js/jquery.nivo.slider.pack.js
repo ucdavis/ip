@@ -586,7 +586,7 @@
         })
     };
     e.fn.nivoSlider.defaults = {
-        effect: "random",
+        effect: "slideInRight",
         slices: 15,
         boxCols: 8,
         boxRows: 4,
