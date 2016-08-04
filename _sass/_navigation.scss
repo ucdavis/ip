@@ -114,6 +114,7 @@ ul.subdropdown li {
 
 #main-nav ul li ul li ul.subdropdown {
     position: absolute;
-    left: 5px;
-    top: -20px;
+    left: 70%;
+    top: 0px;
+    z-index:99;
 }
