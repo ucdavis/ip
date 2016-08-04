@@ -79,6 +79,10 @@ ol.breadcrumb {
         max-height: 240px;
         margin-top:0px;
     }
+    &.imagewrapper--sponsors {
+      display:flex;
+      justify-content: space-around;
+    }
 }
 
 
