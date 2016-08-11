@@ -183,6 +183,13 @@ h2,
 
 h3,
 .h3 {
+  .homepageprojects & {
+    margin-left:10%;
+    font-size:1.6rem;
+    text-transform: uppercase;
+    color:#fff;
+    font-weight:600;
+  }
     font-size: 2rem;
     color: $tertiary-font;
     font-weight:200;
