@@ -7,7 +7,7 @@ contact: <a href="mailto:mozbell@ucdavis.edu">Mark Bell (UC Davis)</a><br/><a hr
 more-info: http://echina-apple.com/
 funding: Walmart Foundation
 sponsors: Cornell University, Shandong Agricultural University, Qingdao Agricultural University, and Shandong Extension Division of Fruits and Teas, Northwest Agriculture & Forestry University and Shaanxi Fruit Bureau
-image: /media/projects/project_banner
+image: /media/projects//echina/project_banner
 permalink: /projects/echina-apple
 tags:
 - China
