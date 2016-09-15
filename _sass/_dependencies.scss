@@ -5,8 +5,8 @@ arial,
 sans-serif; // light 300, reg 400, medium 500, semibold 600
 
 
-$primary-color: #3686BD;
-$secondary-color: #1C5C89;
+$primary-color: #002855;
+$secondary-color: #C99700;
 
 $primary-font: #434343; //
 $secondary-font: #373737; //
@@ -109,10 +109,7 @@ $shingle-brown: #4f2c1d;
     width: 80%;
     margin: 0 auto;
     min-width: 300px;
-    @include breakpoint(rufus) {
-      width:85%;
-    }
-    @include breakpoint(mobileonly) {
+    @include breakpoint(laptop) {
         width: 90%;
     }
 }

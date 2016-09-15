@@ -24,12 +24,14 @@
 
 #main-nav {
     vertical-align: top;
+    padding-top:8px;
     @include breakpoint(tablet) {
         display: none;
     }
     ul {
         margin: 0;
         list-style: none;
+        padding-left:0px;
         li {
             display: inline-block;
             margin-right: -4px;
@@ -43,6 +45,9 @@
                 font-weight: 600;
                 padding: 15px;
                 display: block;
+                @include breakpoint(laptop) {
+                  font-size:1.2rem;
+                }
             }
         }
     }

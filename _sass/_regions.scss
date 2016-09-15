@@ -4,7 +4,7 @@
 }
 .callout {
     background-color: $bg-color;
-    padding: 60px 0px;
+    padding: 60px 0;
     .callout__contents {
         @include container;
         max-width: 666px;
@@ -12,28 +12,28 @@
     }
 }
 .homepageprojects {
-    background-color:darken($secondary-color,10);
+    background-color: darken($secondary-color,10);
     padding: 40px 0;
     .homepageprojects__contents {
         @include container;
-        display:flex;
+        display: flex;
         justify-content: space-around;
         flex-wrap: wrap;
-h3 {
-  color:#fff;
-}
+        h3 {
+            color: #fff;
+        }
         .homepage__project--item {
             border-radius: 2px;
             flex-grow: 1;
             flex-shrink: 1;
             flex-basis: 0;
-            padding: 15px 0px;
+            padding: 15px 0;
             vertical-align: top;
             margin-top: 20px;
-            margin-right:2%;
-          &:last-child {
-            margin-right:0px;
-          }
+            margin-right: 2%;
+            &:last-child {
+                margin-right: 0;
+            }
             @include breakpoint(mobileonly) {
                 width: 100%;
             }
@@ -48,7 +48,7 @@ h3 {
 }
 .homepage__banner {
     @include container;
-    padding-bottom: 60px;
+    padding-bottom: 40px;
     padding-top: 40px;
     .homepage__banner--text {
         display: inline-block;

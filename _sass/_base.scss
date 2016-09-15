@@ -8,17 +8,34 @@
 
 header {
     background-color: $primary-color;
-    background-image: url(/media/blueprint.svg);
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size:cover;
+    // background-image: url(/media/blueprint.svg);
+    // background-position: right;
+    // background-repeat: no-repeat;
+    // background-size:cover;
     .header_contents {
         @include container;
         display:flex;
         justify-content: space-between;
+        @include breakpoint(rufus) {
+          display:inherit;
+          .logo_wrapper {
+            text-align: center;
+            width:100%;
+          }
+          .nav_wrapper {
+            text-align: center;
+            width:100%;
+          }
+        }
+        @include breakpoint(mobileonly) {
+          .logo_wrapper {
+            text-align: left;
+          }
+          .nav_wrapper {
+            text-align: right;
+          }
+        }
         .logo_wrapper {
-
-
             h1 {
                 margin:0px;
                 padding-top:14px;
@@ -30,10 +47,7 @@ header {
                 margin:0px;
             }
         }
-        .nav_wrapper {
 
-
-        }
     }
 }
 
