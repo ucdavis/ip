@@ -15,9 +15,9 @@ tags:
 
 ---
 
-##Goals
+<h2>Goals</h2>
 
-AIP aims to help farmers in Pakistan by harnessing the benefits of traditional practices with modern science. UC Davis has responsibility for 4 areas:
+<p>AIP aims to help farmers in Pakistan by harnessing the benefits of traditional practices with modern science. UC Davis has responsibility for 4 areas:</p>
 
 * USAID logo
 
