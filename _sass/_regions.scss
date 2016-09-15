@@ -12,25 +12,25 @@
     }
 }
 .homepageprojects {
-    background-color: darken($secondary-color,10);
-    padding: 40px 0;
+    background: url(/media/bg.png) repeat;
+    padding: 40px 0 60px 0px;
+    border-top:5px solid $secondary-color;
     .homepageprojects__contents {
         @include container;
         display: flex;
         justify-content: space-around;
         flex-wrap: wrap;
-        h3 {
-            color: #fff;
-        }
         .homepage__project--item {
             border-radius: 2px;
             flex-grow: 1;
             flex-shrink: 1;
             flex-basis: 0;
-            padding: 15px 0;
+            padding: 10px 20px;
             vertical-align: top;
             margin-top: 20px;
             margin-right: 2%;
+            background-color:#fff;
+            border:1px solid #c7c8cc;
             &:last-child {
                 margin-right: 0;
             }
@@ -38,10 +38,10 @@
                 width: 100%;
             }
             h2 {
-                color: rgba(255,255,255,0.7);
+                color: darken($primary-color,5);
             }
             p {
-                color: rgba(255,255,255,0.7);
+                color: $primary-font;
             }
         }
     }
@@ -160,7 +160,7 @@
 //team
 .team__card {
     text-align: center;
-    border: 1px solid $tertiary-font;
+    // border: 1px solid $tertiary-font;
     width: 36%;
     display: inline-block;
     vertical-align: top;
