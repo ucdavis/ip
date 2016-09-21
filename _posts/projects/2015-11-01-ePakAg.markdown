@@ -7,7 +7,7 @@ contact: <a href="mailto:mozbell@ucdavis.edu">Mark Bell (UC Davis)</a>
 more-info: http://epakag.ucdavis.edu/
 funding: Supported by USAID
 sponsors: CIMMYT, IRRI, ILRI, AVRDC and PARC
-image: /media/projects/projects_template
+image: /media/projects/epakag/projects_template
 permalink: /projects/echina-apple
 tags:
 - Pakistan
