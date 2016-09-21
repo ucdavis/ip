@@ -1,0 +1,26 @@
+---
+layout: country
+title:  "Iraq"
+description: ""
+date:   2015-12-17 16:25:17
+category: "country"
+contact: <a href="mailto:mhzhang@ucdavis.edu">Dr Minghua Zhang</a>, <a href="mailto:jehill@ucdavis.edu">Jim Hill</a> and <a href="mailto:mozbell@ucdavis.edu">Mark Bell</a>
+permalink: /countries/iraq
+image-banner: iraq_banner
+---
+
+
+<div class="relatedprojects">
+<h3>Related Projects</h3>
+	{% for post in site.tags.Iraq limit:3 %}
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+	    <div class="relatedprojects__card">
+	        <h4>
+	              {{ post.title }}
+	            </h4>
+	        <p class="feed-description">{{ post.description }}</p>
+	        <p class="primary-color">Learn More</p>
+	    </div>
+    </a>
+    {% endfor %}
+</div>
