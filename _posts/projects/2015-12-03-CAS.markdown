@@ -7,6 +7,7 @@ contact: <a href="mailto:mozbell@ucdavis.edu">Jim Hill</a>
 funding: $10 Million
 sponsors: USAID, HEC
 image: /media/projects/CAS/project_banner
+image-caption: Photo credit: Steven Asercion
 permalink: /projects/CAS
 tags:
 - pakistan
