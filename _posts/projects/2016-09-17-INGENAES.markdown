@@ -7,7 +7,7 @@ contact: Mark Bell, Nikki Grey Rutamu, Edye Kuyper
 funding: Supported by USAID
 sponsors: USAID, University of Illinois at Urbana-Champaign (prime awardee), University of Florida, UC Davis, Cultural Practice, LLC
 image: /media/projects/INGENAES/project_banner
-image-caption: Photo credit: Mark Bell
+image-caption: Photo credit Mark Bell
 permalink: /projects/ingenaes
 more-info: http://ingenaes.illinois.edu/
 tags:

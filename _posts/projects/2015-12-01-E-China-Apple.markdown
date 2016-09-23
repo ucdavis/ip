@@ -8,7 +8,7 @@ more-info: http://echina-apple.com/
 funding: Walmart Foundation
 sponsors: Cornell University, Shandong Agricultural University, Qingdao Agricultural University, and Shandong Extension Division of Fruits and Teas, Northwest Agriculture & Forestry University and Shaanxi Fruit Bureau
 image: /media/projects/echina/project_banner
-image-caption: Photo credit: Nick Madden
+image-caption: Photo credit Nick Madden
 permalink: /projects/echina-apple
 tags:
 - China

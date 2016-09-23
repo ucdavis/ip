@@ -8,7 +8,7 @@ more-info: http://eafghanag.ucdavis.edu/
 funding: Supported by the USAID - through the United States Department of Agriculture, Foreign Agricultural Service
 sponsors: USAID
 image: /media/projects/eafghanag/project_banner
-image-caption: Photo credit: Steven Asercion
+image-caption: Photo credit Steven Asercion
 permalink: /projects/afghan_ag
 tags:
 - Afghanistan

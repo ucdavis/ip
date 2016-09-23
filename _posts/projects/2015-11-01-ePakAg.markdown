@@ -8,7 +8,7 @@ more-info: http://epakag.ucdavis.edu/
 funding: Supported by USAID
 sponsors: CIMMYT, IRRI, ILRI, AVRDC and PARC
 image: /media/projects/epakag/project_banner
-image-caption: Photo credit: Steven Asercion
+image-caption: Photo credit Steven Asercion
 permalink: /projects/epakag
 tags:
 - Pakistan
