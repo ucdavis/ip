@@ -25,6 +25,7 @@
 #main-nav {
     vertical-align: top;
     padding-top:8px;
+    z-index:999;
     @include breakpoint(tablet) {
         display: none;
     }
@@ -53,6 +54,7 @@
     }
     ul.dropdown {
         padding: 0;
+        z-index:99;
         position: absolute;
         top: 55px;
         left: 0;
