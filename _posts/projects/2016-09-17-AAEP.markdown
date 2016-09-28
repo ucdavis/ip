@@ -1,15 +1,29 @@
 ---
 layout: project
-title: AAEP
-description: The U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security (USPCAS-AFS) links the University of California, Davis (UC Davis), the leading agricultural and veterinary research university in the world with the University of Agriculture, Faisalabad (UAF), Pakistan's top agricultural university.
+title: AAEP II
+description: The second phase of the Afghanistan Agricultural Extension Project (AAEP II) seeks to build the capacity of Afghanistan’s Ministry of Agriculture, Irrigation, and Livestock (MAIL) and selected Directorates (DAILs) to deliver effective extension services to rural clientele in targeted regions across Afghanistan.
 category: "project"
-contact: <a href="mailto:mozbell@ucdavis.edu">Jim Hill</a>
-funding: $10 Million
-sponsors: USAID, HEC
+contact: Jim Hill, Nicholas Madden
+funding: Supported by USAID
+sponsors: USAID, UC Davis (leader), Purdue University, Washington State University, University of Maryland, Texas A&M
 image: /media/projects/AAEP/project_banner
 permalink: /projects/AAEP
 tags:
-- pakistan
+- Afghanistan
 
 ---
-The $10 million, five-year agriculture program, will enable faculty and graduate student exchanges and facilitate joint research between the universities. It will provide technical and curricular-reform assistance to UAF and will build the capacity of Pakistani agriculture to meet the country's food-security, economic and employment needs.
+The target beneficiaries of the $20 million project grant from USAID are Afghan government extension workers. AAEP II activities will operate from five key provinces, Kabul, Nangarhar, Herat, Balkh and Parwan, and eventually engage DAILs from up to 25 different provinces. AAEP II uses the same extension model employed by the first phase (AAEP I) which includes:
+
+* Training Workshops;
+
+* Thematic Workgroups;
+
+* Provincial Model Teaching Farms (PMTFs);
+
+* Farmer Field Schools (FFSs);
+
+* Farmer Field Demonstrations (FFDs); and
+
+* Mini-Fund Projects.
+
+By empowering Afghan extension workers to transfer useful information and technology to farmers, the desired project impacts of improved rural household food security and income generation, and improved nutritional status of farm households, can be achieved.

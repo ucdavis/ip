@@ -3,7 +3,7 @@ layout: project
 title: E Afghan Ag
 description: eAfghan Ag is an on-line project that provides credible, relevant information to those helping farmers in Afghanistan
 category: "project"
-contact: <a href="mailto:mozbell@ucdavis.edu">Mark Bell (UC Davis)</a>
+contact: Mark Bell (UC Davis)
 more-info: http://eafghanag.ucdavis.edu/
 funding: Supported by the USAID - through the United States Department of Agriculture, Foreign Agricultural Service
 sponsors: USAID

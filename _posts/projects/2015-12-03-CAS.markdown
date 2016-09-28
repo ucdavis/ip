@@ -3,7 +3,7 @@ layout: project
 title: Center for Advanced Studies
 description: The U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security (USPCAS-AFS) links the University of California, Davis (UC Davis), the leading agricultural and veterinary research university in the world with the University of Agriculture, Faisalabad (UAF), Pakistan's top agricultural university.
 category: "project"
-contact: <a href="mailto:mozbell@ucdavis.edu">Jim Hill</a>
+contact: Jim Hill
 funding: $10 Million
 sponsors: USAID, HEC
 image: /media/projects/CAS/project_banner
