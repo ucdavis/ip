@@ -9,7 +9,7 @@ sponsors: USAID, UC Davis (leader), Purdue University, Washington State Universi
 image: /media/projects/AAEP/project_banner
 permalink: /projects/AAEP
 tags:
-- Afghanistan
+- afghanistan
 
 ---
 The target beneficiaries of the $20 million project grant from USAID are Afghan government extension workers. AAEP II activities will operate from five key provinces, Kabul, Nangarhar, Herat, Balkh and Parwan, and eventually engage DAILs from up to 25 different provinces. AAEP II uses the same extension model employed by the first phase (AAEP I) which includes:
