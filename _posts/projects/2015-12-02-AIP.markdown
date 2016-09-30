@@ -4,9 +4,9 @@ title: Agricultural Innovation Project
 description: Along with CIMMYT, as the lead, AVRDC, ILRI and IRRI, UC Davis is providing support for the 5-year USAID funded AIP.
 category: "project"
 contact: Jim Hill<br/>Tom Rost<br/>Louise Ferguson<br/>Mark Bell
-more-info: http://echina-apple.com/
-funding: Walmart Foundation
-sponsors: Cornell University, Shandong Agricultural University, Qingdao Agricultural University, and Shandong Extension Division of Fruits and Teas, Northwest Agriculture & Forestry University and Shaanxi Fruit Bureau
+more-info: 
+funding: Supported by CIMMYT
+sponsors: CIMMYT, AVRDC, ILRI, IRRI, UC Davis
 image: /media/projects/AIP/project_banner
 image-caption: Photo credit Sarfraz Rizwan
 permalink: /projects/AIP
@@ -14,6 +14,7 @@ tags:
 - pakistan
 
 ---
+
 
 <h2>Goals</h2>
 
