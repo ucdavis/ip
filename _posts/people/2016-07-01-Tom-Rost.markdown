@@ -5,7 +5,7 @@ contact-title: Curricula Development Specialist, International Programs Office, 
 category: "person"
 phone: 530-752-0628
 email: tlrost@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/troast
 permalink: /team/tom-rost
 tags:
 - Administration

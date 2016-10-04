@@ -5,7 +5,7 @@ contact-title: Analyst - Manager
 category: "person"
 phone: (530) 754-0275
 email: rvabrenilla@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/chelo
 permalink: /team/rachel-abrenilla
 tags:
 - Office

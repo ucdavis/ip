@@ -5,7 +5,7 @@ contact-title: Director, Fruit and Nut Research and Information Center Cooperati
 category: "person"
 phone: (530) 752-0507
 email: lferguson@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/lferguson
 permalink: /team/louise-ferguson
 tags:
 - Faculty

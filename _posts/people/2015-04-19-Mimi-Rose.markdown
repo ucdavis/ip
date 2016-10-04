@@ -5,7 +5,7 @@ contact-title: Assitant to Associate Dean Jan Hopmans
 category: "person"
 email: msurose@ucdavis.edu
 phone: (530) 752-0464
-image: /media/team/people_template
+image: /media/team/mrose
 permalink: /team/mimi-rose
 tags:
 - Office

@@ -5,7 +5,7 @@ contact-title: Professor and Special Assistant to the Dean, College of Agricultu
 category: "person"
 phone: (530) 752-0110
 email: lsjarvis@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/tu
 permalink: /team/lovell-jarvis
 tags:
 - Faculty

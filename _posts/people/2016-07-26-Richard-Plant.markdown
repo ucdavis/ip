@@ -5,7 +5,7 @@ contact-title: Professor Emeritus of Plant Sciences and Biological and Agricultu
 category: "person"
 phone: (530) 752-1705
 email: replant@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/rplant
 permalink: /team/richard-plant
 tags:
 - Faculty

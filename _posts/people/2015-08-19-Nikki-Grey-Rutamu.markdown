@@ -5,7 +5,7 @@ contact-title: Project Co-Director, INGENAES
 category: "person"
 email: ngreyrutamu@ucdavis.edu
 phone: (530) 297-4650
-image: /media/team/people_template
+image: /media/team/nrutamu
 permalink: /team/nikki-grey-rutamu
 tags:
 - Office

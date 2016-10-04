@@ -5,7 +5,7 @@ contact-title:  Student Affairs Officer, Borlaug LEAP
 category: "person"
 email: ajwillia@ucdavis.edu
 phone: (530) 304-6963
-image: /media/team/people_template
+image: /media/team/awilliams
 permalink: /team/andra-williams
 tags:
 - Office

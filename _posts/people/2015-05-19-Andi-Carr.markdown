@@ -5,7 +5,7 @@ contact-title: Administrative Assistant, Borlaug LEAP
 category: "person"
 email: abcarr@ucdavis.edu
 phone: (530) 752-8977
-image: /media/team/people_template
+image: /media/team/acarr
 permalink: /team/andi-carr
 tags:
 - Office

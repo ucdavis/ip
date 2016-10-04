@@ -5,7 +5,7 @@ contact-title: Professor of Soil Science and Genesis/Morphologist Thai-Nguyen Cu
 category: "person"
 phone: (530) 752-7041
 email: rjsouthard@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/rsouthard
 permalink: /team/randall-southard
 tags:
 - Faculty

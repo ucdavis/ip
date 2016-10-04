@@ -5,7 +5,7 @@ contact-title: Program Director, Borlaug LEAP
 category: "person"
 phone:
 email: snjohnson@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/sjohnson
 permalink: /team/susan-johnson
 tags:
 - Administration

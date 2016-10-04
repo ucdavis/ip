@@ -5,7 +5,7 @@ contact-title: Project Co-Director, INGENAES
 category: "person"
 email: emkuyper@ucdavis.edu
 phone: (530) 754-5410
-image: /media/team/people_template
+image: /media/team/ekuyper
 permalink: /team/edye-kuyper
 tags:
 - Office

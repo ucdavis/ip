@@ -5,7 +5,7 @@ contact-title: Associate Director, Far East Programs
 category: "person"
 phone: 530-752-0628
 email: mhzhang@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/mzhang
 permalink: /team/minghua-zhang
 tags:
 - Administration

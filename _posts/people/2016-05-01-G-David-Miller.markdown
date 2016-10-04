@@ -5,7 +5,7 @@ contact-title: Project Director, RIFA Programs
 category: "person"
 phone:
 email: gdmiller@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/gmiller
 permalink: /team/g-david-miller
 tags:
 - Administration

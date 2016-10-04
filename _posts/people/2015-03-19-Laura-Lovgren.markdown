@@ -5,7 +5,7 @@ contact-title: Project Coordinator, AIP, Feed the Future Innovation Lab for Geno
 category: "person"
 email: lllovgren@ucdavis.edu
 phone: (530) 752-2712
-image: /media/team/people_template
+image: /media/team/llovrgen
 permalink: /team/laura-lovgren
 tags:
 - Office

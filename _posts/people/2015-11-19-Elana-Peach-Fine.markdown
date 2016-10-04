@@ -5,7 +5,7 @@ contact-title: Project Analyst, RIFA
 category: "person"
 email: elana.ipo@gmail.com
 phone: (650) 773-9119
-image: /media/team/people_template
+image: /media/team/epeach
 permalink: /team/elana-peach-fine
 tags:
 - Office

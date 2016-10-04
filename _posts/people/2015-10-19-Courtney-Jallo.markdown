@@ -5,7 +5,7 @@ contact-title: Program Representative, International Visitors Program
 category: "person"
 email: cjallo@ucdavis.edu
 phone: (530) 754-5410
-image: /media/team/people_template
+image: /media/team/cjallo
 permalink: /team/courtney-jallo
 tags:
 - Office
