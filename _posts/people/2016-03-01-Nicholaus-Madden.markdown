@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Nicholaus Madden, PhD
-contact-title: Associate Director
+contact-title: Associate Director, Central Asian Programs and Regional Site Manager for AAEP II
 category: "person"
 phone: (530) 752-4105
 email: nmmadden@ucdavis.edu

@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Andra Williams
-contact-title: Student Affairs Officer, Norman E. Borlaug Leadership Enhancement in Agriculture Program (Borlaug LEAP)
+contact-title:  Student Affairs Officer, Borlaug LEAP
 category: "person"
 email: ajwillia@ucdavis.edu
 phone: (530) 304-6963

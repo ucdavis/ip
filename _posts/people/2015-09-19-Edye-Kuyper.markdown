@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Edye Kuyper
-contact-title: Project Analyst, INGENAES Project
+contact-title: Project Co-Director, INGENAES
 category: "person"
 email: emkuyper@ucdavis.edu
 phone: (530) 754-5410

@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: G. David Miller, PhD
-contact-title: Program Director, Research and Innovation Fellowship for Agriculture (RIFA) Director, PACE Academic Coordinator and Lecturer
+contact-title: Project Director, RIFA Programs
 category: "person"
 phone:
 email: gdmiller@ucdavis.edu

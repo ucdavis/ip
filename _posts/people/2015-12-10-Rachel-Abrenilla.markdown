@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Rachel (Chelo) V. Abrenilla
-contact-title: Analyst - Supervisor, International Programs Office
+contact-title: Analyst - Manager
 category: "person"
 phone: (530) 754-0275
 email: rvabrenilla@ucdavis.edu

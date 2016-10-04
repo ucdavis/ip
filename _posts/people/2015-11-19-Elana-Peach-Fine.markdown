@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Elana Peach-Fine, MS, MS
-contact-title: Project Analyst, Research and Innovation Fellowship for Agriculture (RIFA)
+contact-title: Project Analyst, RIFA
 category: "person"
 email: elana.ipo@gmail.com
 phone: (650) 773-9119

@@ -5,7 +5,7 @@ contact-title: Associate Dean, International Programs Office
 category: "person"
 phone: (530) 752-9256
 email: jwhopmans@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/jhopmans
 permalink: /team/jan-hopmans
 tags:
 - Administration

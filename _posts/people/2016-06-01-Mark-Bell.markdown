@@ -2,10 +2,10 @@
 title: Mark Bell
 layout: person
 contact-name: Mark Bell, Phd
-contact-title: Director, International Learning Center Leader, Communication and Information Transfer, Hort CRSP
+contact-title: Director, International Learning Center
 category: "person"
 email: mark.andrew.bell@gmail.com
-image: /media/team/people_template
+image: /media/team/mozbell
 permalink: /team/mark-bell
 tags:
 - Administration

@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Nikki Grey Rutamu
-contact-title: CAssistant Director, Humphrey Fellowship Program, UC Davis Project Partner, INGENAES, International Programs Office, UC Davis
+contact-title: Project Co-Director, INGENAES
 category: "person"
 email: ngreyrutamu@ucdavis.edu
 phone: (530) 297-4650

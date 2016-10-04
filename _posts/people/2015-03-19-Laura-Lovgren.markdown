@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Laura Lovgren
-contact-title: Project Coordinator, International Programs Office
+contact-title: Project Coordinator, AIP, Feed the Future Innovation Lab for Genomics to Improve Poultry in Africa
 category: "person"
 email: lllovgren@ucdavis.edu
 phone: (530) 752-2712

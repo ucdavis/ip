@@ -8,5 +8,5 @@ email: njallen@ucdavis.edu
 image: /media/team/people_template
 permalink: /team/nancy-allen
 tags:
-- Faculty
+- Administration
 ---

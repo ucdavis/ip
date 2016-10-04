@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Andi Carr
-contact-title: Program Assistant, Norman E. Borlaug Leadership Enhancement in Agriculture Program (Borlaug LEAP)
+contact-title: Administrative Assistant, Borlaug LEAP
 category: "person"
 email: abcarr@ucdavis.edu
 phone: (530) 752-8977

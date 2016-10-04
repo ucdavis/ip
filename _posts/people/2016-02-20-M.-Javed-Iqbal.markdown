@@ -1,12 +1,12 @@
 ---
 layout: person
 contact-name: M. Javed Iqbal
-contact-title: Technical Coordinator, U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security
+contact-title: Technical Coordinator, U.S.-Pakistan Center for Advanced Stuides in Agriculture and Food Security
 category: "person"
 phone:
 email: mjiqbal@ucdavis.edu
 image: /media/team/people_template
 permalink: /team/javed-iqbal
 tags:
-
+- Administration
 ---

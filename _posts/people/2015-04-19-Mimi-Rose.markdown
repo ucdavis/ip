@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Mimi Rose
-contact-title: Program and Visitors Planning Coordinator, International Agricultural Visitors Program (IAVP)
+contact-title: Assitant to Associate Dean Jan Hopmans
 category: "person"
 email: msurose@ucdavis.edu
 phone: (530) 752-0464

@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Susan Johnson, MS
-contact-title: Program Director, Norman E. Borlaug Leadership Enhancement in Agriculture Program (Borlaug LEAP)
+contact-title: Program Director, Borlaug LEAP
 category: "person"
 phone:
 email: snjohnson@ucdavis.edu
