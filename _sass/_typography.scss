@@ -18,6 +18,9 @@ a {
     &:hover {
         color: $a-hover;
     }
+    &.learnmore {
+      font-weight:bold;
+    }
 }
 
 ul,
@@ -192,7 +195,7 @@ h3,
   }
     font-size: 2rem;
     color: $primary-color;
-    font-weight:200;
+    font-weight:bold;
     & + p {
         margin-top:-5px;
     }

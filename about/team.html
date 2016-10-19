@@ -8,7 +8,7 @@ search: true
 <article class="article--fullwidth article__team">
     <h1>{{ page.title }}</h1>
     <p class="lead">{{ page.description }}</p>
-    <h2 class="team--divider">Administration</h2> {% for post in site.tags.Administration %}
+    <h2 class="team--divider">Management</h2> {% for post in site.tags.Administration %}
     <a href="{{ post.url }}">
         <div class="team__card">
             <img class="image__team" src="{{ post.image }}.jpg" alt="{{ post.image-caption }}" srcset="{{ post.image }}.jpg 1x, {{ post.image }}@2x.jpg 2x">
