@@ -5,7 +5,7 @@ contact-title: Deputy Project Director, U.S.-Pakistan Center for Advanced Studie
 category: "person"
 phone:
 email: njallen@ucdavis.edu
-image: /media/team/people_template
+image: /media/team/nancy
 permalink: /team/nancy-allen
 tags:
 - Administration
