@@ -4,11 +4,11 @@ title: Agricultural Innovation Project
 description: Along with CIMMYT, as the lead, AVRDC, ILRI and IRRI, UC Davis is providing support for the 5-year USAID funded AIP.
 category: "project"
 contact: Jim Hill<br/>Tom Rost<br/>Louise Ferguson<br/>Mark Bell
-more-info: 
-funding: Supported by CIMMYT
+more-info:
+funding: Supported by USAID through CIMMYT
 sponsors: CIMMYT, AVRDC, ILRI, IRRI, UC Davis
 image: /media/projects/AIP/project_banner
-image-caption: Photo credit Sarfraz Rizwan
+image-caption:
 permalink: /projects/AIP
 tags:
 - pakistan
@@ -19,8 +19,6 @@ tags:
 <h2>Goals</h2>
 
 <p>AIP aims to help farmers in Pakistan by harnessing the benefits of traditional practices with modern science. UC Davis has responsibility for 4 areas:</p>
-
-* USAID logo
 
 * Graduate Training (C/- Dr Tom Rost)
 
