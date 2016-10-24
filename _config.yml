@@ -2,12 +2,12 @@
 title: International Programs Office at UC Davis
 email: seacersion@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is a Jekyll Starter template developed by cydoval.com.
-subject: UC Davis Starter template for CAES CRU and anyone else
+  International Programs brings agricultural knowledge and information to the world. We do training and workshops, research/extension projects, curricula development, sponsor global programs, offer educational opportunities, and capacity building.
+subject: International Programs at UC Davis College of Agricultural and Environmental Sciences
 classification: Web Design
-author: 
-designer: 
-replyto: 
+author:
+designer:
+replyto:
 themecolor: 22274d
 repo: "https://github.com/ucdavis/ip"
 baseurl: "" # the subpath of your site, e.g. /blog/
