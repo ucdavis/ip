@@ -1,14 +1,15 @@
 # Site settings
-title: International Programs at UC Davis
-email: seasercion@ucdavis.edu
+title: International Programs Office at UC Davis
+email: seacersion@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is a Jekyll Starter template developed by cydoval.com.
+  International Programs brings agricultural knowledge and information to the world. We do training and workshops, research/extension projects, curricula development, sponsor global programs, offer educational opportunities, and capacity building.
 subject: International Programs at UC Davis College of Agricultural and Environmental Sciences
-classification: Non Profit, International Aid, Education
-author: Steven Ascersion
-designer: Cal Doval, cydoval@ucdavis.edu
-replyto: 
+classification: Web Design
+author:
+designer:
+replyto:
 themecolor: 22274d
+repo: "https://github.com/ucdavis/ip"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ip.ucdavis.edu" # the base hostname & protocol for your site
 
@@ -18,3 +19,8 @@ paginate: 3
 
 # Build settings
 markdown: kramdown
+
+#gems
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate

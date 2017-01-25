@@ -1,0 +1,14 @@
+---
+layout: person
+contact-name: Andi Carr
+contact-title: Administrative Assistant, Borlaug LEAP
+category: "person"
+email: abcarr@ucdavis.edu
+phone: (530) 752-8977
+image: /media/team/acarr
+permalink: /team/andi-carr
+tags:
+- Office
+---
+
+Andi joined the the Borlaug LEAP program in the International Programs Office in March 2015 as her first position at UC Davis.  Prior to that, she  managed marketing, events and the Wine Club for a small (but growing) Davis winery.  She got her B.A. in Communications at U.C. Santa Barbara and worked in San Francisco as a Client Services manager for a (Consumer Packaged Goods) market research company analyzing data and providing actionable recommendations to her client’s marketing teams.  Then, as it was that first tech boom in San Francisco, she moved on to work with bank clients at a real estate dot com company before settling down in Davis.  Andi works part-time with Borlaug LEAP and looks forward to the many learning opportunities at UC Davis.

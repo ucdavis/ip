@@ -1,3 +1,40 @@
+.flexitem__centeralign {
+    align-self: center;
+}
+
+ol.breadcrumb {
+    display: inline-block;
+    // width: 66%;
+    padding-top: 16px;
+    list-style: none;
+    border-radius: 4px;
+    border: 0px;
+    display: block;
+    padding-left:0px;
+    li {
+        font-size: 1.2rem;
+    }
+    a {
+        color: $tertiary-font;
+        // &:hover {
+        //     color: darken($primary-color, 20%);
+        // }
+    }
+    > li {
+        display: inline-block;
+        & + li:before {
+            padding: 0 5px;
+        }
+    }
+    >.active a {
+        color: $secondary-font;
+    }
+    >li+li:before {
+        color: $tertiary-font;
+        content: "/";
+    }
+}
+
 .section_divider {
     margin-bottom: 10%;
 }
@@ -11,8 +48,8 @@
 //         }
 //     }
 // }
-//images 
-.image-wrapper {
+//images
+.imagewrapper {
     width: auto;
     margin-top: 7px;
     img {
@@ -20,28 +57,35 @@
         padding: 0px;
         padding-bottom: 10px;
     }
-    &.left {
+    &.imagewrapper--left {
         float: left;
         max-width: 300px;
-        padding-right:5%;
+        padding-right: 5%;
     }
-    &.right {
+    &.imagewrapper--right {
         float: right;
         max-width: 300px;
-        padding-left:5%;
+        padding-left: 5%;
     }
-    &.full-width {
-        max-width: 800px;
+    &.imagewrapper--fullwidth img {
+        width: 100%;
+    }
+    &.imagewrapper--thumb {
+        float: left;
+        max-width: 45%;
+        padding-right: 3%;
+        padding-top: 0px;
+        padding-bottom: 4%;
+        max-height: 240px;
+        margin-top:0px;
+    }
+    &.imagewrapper--sponsors {
+      display:flex;
+      justify-content: space-around;
     }
 }
-.img_article_thumb {
-    float: left;
-    max-width: 45%;
-    padding-right: 3%;
-    padding-top: 1%;
-    padding-bottom: 4%;
-    max-height:240px;
-}
+
+
 .btn {
     padding: 8px 20px;
     margin-top: 2.5%;
@@ -52,7 +96,7 @@
     font-size: 1.4rem;
     font-weight: 400;
     color: #fff;
-    cursor:pointer;
+    cursor: pointer;
     display: inline-block;
     // text-transform: uppercase;
     text-decoration: none;
@@ -80,6 +124,9 @@
 
 .bg-sunny-grass {
     background-color: $sunny-grass !important;
+}
+.bg-steve-green {
+    background-color: rgb(0,126,42) !important;
 }
 
 .bg-wine-grape {
@@ -117,4 +164,19 @@
         max-width: 60rem;
         margin-top: -100px;
     }
+}
+.t-center {
+  text-align:center;
+}
+.alignitems--center {
+    align-self:center;
+}
+.alignitems--end {
+    align-self:flex-end;
+}
+.align-right {
+    text-align:right;
+}
+.primary-color {
+    color:$primary-color !important;
 }

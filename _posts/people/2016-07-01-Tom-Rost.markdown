@@ -1,0 +1,22 @@
+---
+layout: person
+contact-name: Tom Rost, PhD
+contact-title: Curricula Development Specialist, International Programs Office, Professor Emeritus, Department of Plant Biology, College of Biological Sciences
+category: "person"
+phone: 530-752-0628
+email: tlrost@ucdavis.edu
+image: /media/team/troast
+permalink: /team/tom-rost
+tags:
+- Administration
+---
+
+Thomas (Tom) Rost retired in 2006 as Professor of Plant Biology.  His career started in 1972 and in the department he taught several subjects, but his primary course was developmental plant anatomy.  Professor Rost was an innovator in the early days of the application of teaching technologies and the use of new methods.  He was a co-author of a leading textbook in Botany that spanned several editions and use around the world.  His teaching excellence was recognized by the UC Davis Distinguished Teaching Award in 1998 and the Botanical Society of American, Charles Edwin Bessey Award in 2007. His research focused on plant structure and development, with special focus on plant roots, and resulted in over 160 papers in peer reviewed journals.  He has consulted extensively in the area of forensic botany.  He is an editor for the Annals of Botany and the online journal, the Plant Root.  His contributions to botany were acknowledged by the Botanical Society of America with the Merit Award for 2008.  Professor Rost served at various times as Faculty Assistant to the Chancellor, Chair of the Department of Plant Biology, Associate Dean and Executive Associate Dean in the College of Biological Sciences.  After retiring he was the Interim Director of the state-wide University of California Food Stamp Nutrition Education Program.  Rost was also the President of the International Honor Society of Agriculture, Gamma Sigma Delta.  Professor Rost has extensive experience internationally and has spoken, conducted research and taught in at least 25 countries.  Most recently he has participated in curriculum development and education projects in Vietnam, Afghanistan, India and Pakistan.
+
+<h3>Education:</h3>
+<ul>
+<li>B.S. Biology, St. John’s University, Collegeville, MN 1963</li>
+<li>M.A. Biology, Minnesota State University, Mankato, MN 1965</li>
+<li>Ph.D. Plant Biology, Iowa State University, IA 1971</li>
+<li>Post-Doctoral Fellow, Brookhaven National Laboratory, Upton, NY 1970-72</li>
+</ul>

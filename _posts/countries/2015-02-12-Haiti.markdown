@@ -1,0 +1,10 @@
+---
+layout: country
+title:  "Haiti"
+description: "Haiti Description"
+date:   2015-02-12 16:25:17
+category: "country"
+contact: TBD
+permalink: /countries/haiti
+image-banner: haiti_banner
+---

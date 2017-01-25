@@ -1,0 +1,17 @@
+---
+layout: project
+title: INGENAES
+description: INGENAES works to improve agricultural livelihoods focusing on strengthening extension and advisory services to empower and engage smallholder farmers, male and female.
+category: "project"
+contact: Mark Bell, Nikki Grey Rutamu, Edye Kuyper
+funding: Supported by USAID
+sponsors: USAID, University of Illinois at Urbana-Champaign (prime awardee), University of Florida, UC Davis, Cultural Practice, LLC
+image: /media/projects/INGENAES/project_banner
+image-caption: Photo credit Mark Bell
+permalink: /projects/ingenaes
+more-info: http://ingenaes.illinois.edu/
+tags:
+- Zambia
+
+---
+INGENAES team members work with USAID missions, civil society organizations, farmer organizations, universities, and private sector service providers in Feed The Future countries on action-oriented training, learning exchanges, and mentoring programs to promote gender-transformative agricultural development and nutrition-sensitive agricultural practices.
