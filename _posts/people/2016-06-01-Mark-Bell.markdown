@@ -1,7 +1,7 @@
 ---
 title: Mark Bell
 layout: person
-contact-name: Mark Bell, Phd
+contact-name: Mark Bell, PhD
 contact-title: Director, International Learning Center
 category: "person"
 email: mark.andrew.bell@gmail.com
