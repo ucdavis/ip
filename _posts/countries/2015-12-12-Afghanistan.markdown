@@ -4,12 +4,10 @@ title:  "Afghanistan"
 description: "AAEP II seeks to build the capacity of Afghanistan’s Ministry of Agriculture, Irrigation, and Livestock and selected Directorates to deliver effective extension services to rural clientele in targeted regions across Afghanistan."
 date:   2015-12-01 16:25:17
 category: "country"
-contact: <a href="mailto:mhzhang@ucdavis.edu">Dr Minghua Zhang</a><br/><a href="mailto:jehill@ucdavis.edu">Jim Hill</a><br/><a href="mailto:mozbell@ucdavis.edu">Mark Bell</a>
+contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a><br/><a href="mailto:mark.andrew.bell@gmail.com">Mark Bell</a>
 permalink: /countries/afghanistan
 image-banner: afghanistan_banner
 ---
-
-Funded by the Walmart foundation, the project aims to provide credible relevant information for the safe and sustainable production of apples in China. The majority of apples in china are produced by small-scale farmers (many of whom are women) and they are struggling with rising costs and reduced returns.
 
 <div class="relatedprojects">
 
