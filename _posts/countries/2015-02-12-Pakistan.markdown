@@ -1,7 +1,7 @@
 ---
 layout: country
 title:  "Pakistan"
-description: "AIP aims to help farmers in Pakistan by harnessing the benefits of traditional practices with modern science."
+description: "Educating the next generation of scientists, engineers, and policy makers through innovative academic programs."
 date:   2015-02-12 16:25:17
 category: "country"
 contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a><br/><a href="mailto:tlrost@ucdavis.edu">Tom Rost</a><br/><a href="mailto:lferguson@ucdavis.edu">Louise Ferguson</a><br/><a href="mailto:mark.andrew.bell@gmail.com">Mark Bell</a>
@@ -9,7 +9,7 @@ permalink: /countries/pakistan
 image-banner: pakistan_banner
 ---
 
-It aims to establish the governance structures, improve curriculum and teaching practices, and upgrade the graduate programs and research to meet client (industry, civil society, and government) needs.
+Through our partnerships and collaborations, UC Davis helps to address challenges in establishing governance structures, improving curriculum and teaching practices, and upgrading graduate programs and research to meet client (industry, civil society, and government) needs.
 
 <div class="relatedprojects">
 
