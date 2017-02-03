@@ -2,6 +2,11 @@
 layout: default
 ---
 {% include header.html %}
+{% if page.image-banner %}
+<div class="banner banner--{{ page.image-banner }}">
+</div>
+{% endif %}
+
 <div class="breadsearch">
     <div class="alignitems--center breadwrapper">
         <ol class="breadcrumb">

@@ -8,6 +8,7 @@ funding: $10 Million
 sponsors: U.S. Agency for International Development (USAID), Higher Education Commission of Pakistan (HEC)
 image: /media/projects/CAS/project_banner
 image-caption: Photo credit Steven Asercion
+image-banner: pakistan_banner
 permalink: /projects/CAS
 tags:
 - pakistan
