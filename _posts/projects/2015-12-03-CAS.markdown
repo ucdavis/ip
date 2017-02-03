@@ -6,7 +6,8 @@ category: "project"
 contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a>
 funding: $10 Million
 sponsors: U.S. Agency for International Development (USAID), Higher Education Commission of Pakistan (HEC)
-image: /media/projects/CAS/project_banner
+image-banner: pakistan_banner
+image: /media/projects/CAS/project_banner@2x
 image-caption: Photo credit Steven Asercion
 permalink: /projects/CAS
 tags:
