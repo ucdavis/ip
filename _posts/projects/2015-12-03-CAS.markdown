@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Center for Advanced Studies
+title: U.S.-Pakistan Centers for Advanced Studies
 description: The U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security (USPCAS-AFS) links the University of California, Davis (UC Davis), the leading agricultural and veterinary research university in the world with the University of Agriculture, Faisalabad (UAF), Pakistan's top agricultural university.
 category: "project"
-contact: Jim Hill
+contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a>
 funding: $10 Million
-sponsors: USAID, HEC
+sponsors: U.S. Agency for International Development (USAID), Higher Education Commission of Pakistan (HEC)
 image: /media/projects/CAS/project_banner
 image-caption: Photo credit Steven Asercion
 permalink: /projects/CAS
@@ -13,4 +13,4 @@ tags:
 - pakistan
 
 ---
-The $10 million, five-year agriculture program, will enable faculty and graduate student exchanges and facilitate joint research between the universities. It will provide technical and curricular-reform assistance to UAF and will build the capacity of Pakistani agriculture to meet the country's food-security, economic and employment needs.
+The U.S.-Pakistan Centers for Advanced Studies (USPCAS) have been designed by the United States Government and the Government of Pakistan to support Pakistan's economic development by strengthening universities and encouraging applied research. UC Davis has partnered with University of Agriculture, Faisalabad (UAF) to manage the U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security, which is educating the next generation of scientists, engineers, and policy makers through innovative academic programs. The $10 million, five-year agriculture program enables faculty and graduate student exchanges, facilitates joint research between the universities, provides technical and curricular-reform assistance, and aims to build the capacity of Pakistani agriculture to meet the country's food-security, economic and employment needs.
