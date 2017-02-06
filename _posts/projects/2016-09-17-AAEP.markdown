@@ -5,8 +5,9 @@ description: The second phase of the Afghanistan Agricultural Extension Project 
 category: "project"
 contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a>, <a href="mailto:nmmadden@ucdavis.edu">Nicholas Madden</a>
 funding: <a href="https://www.usaid.gov/news-information/fact-sheets/afghanistan-agriculture-extension-project-ii-aaep-ii">Supported by USAID</a>
-sponsors: USAID, UC Davis (leader), Purdue University, Washington State University, University of Maryland, Texas A&M
+sponsors: USAID<br>UC Davis (Project Lead)<br>Purdue University<br>Washington State University<br>University of Maryland<br>Texas A&M University<br>
 image: /media/projects/AAEP/project_banner
+image-banner: afghanistan_banner
 permalink: /projects/AAEP
 tags:
 - afghanistan

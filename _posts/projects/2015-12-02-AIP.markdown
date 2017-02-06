@@ -6,8 +6,9 @@ category: "project"
 contact: Jim Hill<br/>Tom Rost<br/>Louise Ferguson<br/>Mark Bell
 more-info:
 funding: Supported by USAID through CIMMYT
-sponsors: CIMMYT, AVRDC, ILRI, IRRI, UC Davis
+sponsors: International Maize & Wheat Improvement Center (CIMMYT)<br>World Vegetable Center (AVRDC)<br>International Livestock Research Institute (ILRI)<br>International Rice Research Institute (IRRI)<br>UC Davis
 image: /media/projects/AIP/project_banner
+image-banner: pakistan_banner
 image-caption:
 permalink: /projects/AIP
 tags:
