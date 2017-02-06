@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Afghanistan Agricultural Extension Project (AAEP II)
+title: AAEP II
 description: The second phase of the Afghanistan Agricultural Extension Project (AAEP II) seeks to build the capacity of Afghanistan’s Ministry of Agriculture, Irrigation, and Livestock (MAIL) and selected Directorates (DAILs) to deliver effective extension services to rural clientele in targeted regions across Afghanistan.
 category: "project"
 contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a>, <a href="mailto:nmmadden@ucdavis.edu">Nicholas Madden</a>
