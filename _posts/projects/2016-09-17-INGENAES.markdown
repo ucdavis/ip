@@ -5,9 +5,9 @@ description: Integrating Gender and Nutrition within Agricultural Extension Serv
 category: "project"
 contact: Mark Bell, Nikki Grey Rutamu, Edye Kuyper
 funding: Supported by USAID
-sponsors: USAID<br>University of Illinois at Urbana-Champaign<br>University of Florida<br>UC Davis<br>Cultural Practice, LLC
+sponsors: USAID<br>University of Illinois at Urbana-Champaign (Project Lead)<br>University of Florida<br>UC Davis<br>Cultural Practice, LLC
 image-banner: vietnam_banner
-image: /media/projects/INGENAES/project_banner@2x
+image: /media/projects/INGENAES/project_banner
 image-caption: Photo credit Mark Bell
 permalink: /projects/ingenaes
 more-info: http://ingenaes.illinois.edu/

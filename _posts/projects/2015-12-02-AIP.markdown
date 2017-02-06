@@ -7,7 +7,7 @@ contact: Jim Hill<br/>Tom Rost<br/>Louise Ferguson<br/>Mark Bell
 more-info:
 funding: Supported by USAID through CIMMYT
 sponsors: International Maize & Wheat Improvement Center (CIMMYT)<br>World Vegetable Center (AVRDC)<br>International Livestock Research Institute (ILRI)<br>International Rice Research Institute (IRRI)<br>UC Davis
-image: /media/projects/AIP/project_banner@2x
+image: /media/projects/AIP/project_banner
 image-banner: pakistan_banner
 image-caption:
 permalink: /projects/AIP
