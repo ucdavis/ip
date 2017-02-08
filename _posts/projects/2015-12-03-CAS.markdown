@@ -4,8 +4,8 @@ title: U.S.-Pakistan Centers for Advanced Studies
 description: The U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security (USPCAS-AFS) links the University of California, Davis (UC Davis), the leading agricultural and veterinary research university in the world with the University of Agriculture, Faisalabad (UAF), Pakistan's top agricultural university.
 category: "project"
 contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a>
-funding: $10 Million
-sponsors: U.S. Agency for International Development (USAID), Higher Education Commission of Pakistan (HEC)
+funding: <a href="https://www.usaid.gov/news-information/fact-sheets/centers-advanced-studies-program">USAID Fact Sheet</a>
+sponsors: U.S. Agency for International Development (USAID)<br>Higher Education Commission of Pakistan (HEC)
 image: /media/projects/CAS/project_banner
 image-caption: Photo credit Steven Asercion
 image-banner: pakistan_banner
@@ -14,6 +14,9 @@ tags:
 - pakistan
 
 ---
-The U.S.-Pakistan Centers for Advanced Studies (USPCAS) have been designed by the United States Government and the Government of Pakistan to support Pakistan's economic development by strengthening universities and encouraging applied research. UC Davis has partnered with University of Agriculture, Faisalabad (UAF) to manage the U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security, which is educating the next generation of scientists, engineers, and policy makers through innovative academic programs. The $10 million, five-year agriculture program enables faculty and graduate student exchanges, facilitates joint research between the universities, provides technical and curricular-reform assistance, and aims to build the capacity of Pakistani agriculture to meet the country's food-security, economic and employment needs.
+The U.S.-Pakistan Centers for Advanced Studies (USPCAS) have been designed by the United States Government and the Government of Pakistan to support Pakistan's economic development by strengthening universities and encouraging applied research. UC Davis has partnered with University of Agriculture, Faisalabad (UAF) to manage the U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security, which is educating the next generation of scientists, engineers, and policy makers through innovative academic programs. The five-year agriculture program enables faculty and graduate student exchanges, facilitates joint research between the universities, provides technical and curricular-reform assistance, and aims to build the capacity of Pakistani agriculture to meet the country's food-security, economic and employment needs.
+
+#### Media Mentions:
+<a href="https://www.ucdavis.edu/news/uc-davis-and-pakistan-launch-17-million-food-and-agricultural-partnership">UC Davis and Pakistan launch $17 million food and agricultural partnership<a/> (October 2015)
 
 <i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i>
