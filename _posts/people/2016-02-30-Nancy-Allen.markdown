@@ -1,6 +1,6 @@
 ---
 layout: person
-contact-name: Nancy Allen, PhD
+contact-name: Nancy J. Allen, PhD
 contact-title: Deputy Project Director, U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security
 category: "person"
 phone:
