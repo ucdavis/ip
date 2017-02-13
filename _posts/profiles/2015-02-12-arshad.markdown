@@ -1,11 +1,13 @@
 ---
 layout: profiles
 title:  Dr. Muhammed Arshad
-description: UAF Entomologist Returns to Pakistan with Pest Eradication Plans
+description: A UAF Entomologist returns to Pakistan with pest-eradication plans after six months as a visiting scholar to UC Davis. 
 date:   2015-02-12 16:25:17
-permalink: /profiles/dr_muhammed_arshad
+permalink: /profiles/USPCAS/dr_muhammed_arshad
 image: /media/profiles/arshad
+image-caption: Dr. Muhammed Arshad in the Entomology Lab at UC Davis
 image-banner: pakistan_banner
+more-info: <a href="/projects/USPCAS/">USPCAS-AFS Program Page</a>
 ---
 
 In the United States, the pink bollworm used to be one of the most destructive pests cotton growers had to battle every year. They’d spray insecticides heavily, but could still lose a significant amount of their crop to the bug each season.<br>
@@ -31,8 +33,7 @@ That’s the kind of success Arshad hopes to bring to Pakistan. <br>
 
 Dr. Arshad and his five colleagues from the University of Agriculture, Faisalabad are the first long-term visiting faculty at UC Davis in a program known as the U.S. Pakistan Center for Advanced Studies in Agriculture and Food Security. The program, funded by the U.S. Agency for International Development, links UC Davis, the leading agriculture research university in the world, with UAF, Pakistan’s top agriculture university.  <br>
 
-The $17 million, five-year program is part of a larger $127 million USAID program that links leading U.S. and Pakistani universities in energy and water, as well as agriculture. <br>
-The six scholars arrived at Davis in November, and will be returning to UAF this spring. Dr. James Hill, associate dean emeritus of International Programs for the College of Agricultural and Environmental Sciences at UC Davis, is in charge of the Center for Advanced Studies. <br>
+The $17 million, five-year program is part of a larger $127 million USAID program that links leading U.S. and Pakistani universities in energy and water, as well as agriculture. The six scholars arrived at Davis in November, and will be returning to UAF this spring. Dr. James Hill, associate dean emeritus of International Programs for the College of Agricultural and Environmental Sciences at UC Davis, is in charge of the Center for Advanced Studies. <br>
 
 “This first group of visiting scholars have already proved the value of this collaboration,” Dr. Hill said. “These young faculty will going back to their home university and their own research labs with new skills, resources, connections and ideas. They’re all eager to take what they started at UC Davis and develop it at UAF to benefit Pakistan’s agricultural sector and people.” <br>
 
