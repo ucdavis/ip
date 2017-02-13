@@ -7,7 +7,7 @@ permalink: /profiles/USPCAS/uaf_veterinary
 image: /media/profiles/DrsQureshi_Ijaz
 image-caption: Dr. Zafar Qureshi and Dr. Mishba Ijaz
 image-banner: pakistan_banner
-more-info: <a href="/projects/USPCAS/">USPCAS-AFS Program Page</a>
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a>
 ---
 
 After a month visiting the UC Davis School of Veterinary Medicine, two members of the Faculty of Veterinary Sciences at Pakistan’s leading agricultural school, the University of Agriculture, Faisalabad, returned home with a simple message: veterinarians in Pakistan need to improve their clinical skills.<br>
