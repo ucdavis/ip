@@ -9,7 +9,7 @@ sponsors: U.S. Agency for International Development (USAID)<br>Higher Education 
 image: /media/projects/CAS/project_banner
 image-caption: Photo credit Steven Asercion
 image-banner: pakistan_banner
-permalink: /projects/CAS
+permalink: /projects/USPCAS
 tags:
 - pakistan
 
