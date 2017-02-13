@@ -4,7 +4,7 @@ title:  Dr. Muhammed Arshad
 description: UAF Entomologist Returns to Pakistan with Pest Eradication Plans
 date:   2015-02-12 16:25:17
 permalink: /profiles/dr_muhammed_arshad
-image: media/profiles/arshad-lab
+image: /media/profiles/arshad
 image-banner: pakistan_banner
 ---
 
