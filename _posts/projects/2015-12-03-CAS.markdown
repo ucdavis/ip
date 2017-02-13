@@ -5,7 +5,7 @@ description: The U.S.-Pakistan Center for Advanced Studies in Agriculture and Fo
 category: "project"
 contact: <a href="mailto:jehill@ucdavis.edu">Dr. Jim Hill</a>
 funding: <a href="https://www.usaid.gov/news-information/fact-sheets/centers-advanced-studies-program">USAID Fact Sheet</a>
-sponsors: U.S. Agency for International Development (USAID)<br>Higher Education Commission of Pakistan (HEC)
+sponsors: U.S. Agency for International Development (USAID)<br>Higher Education Commission of Pakistan (HEC)<br>University of California, Davis<br>University of Agriculture, Faisalabad<br>Washington State University
 more-info: http://uspcasafs.uaf.edu.pk
 image: /media/projects/CAS/project_banner
 image-caption: Photo credit Steven Asercion
@@ -16,6 +16,9 @@ tags:
 
 ---
 The U.S.-Pakistan Centers for Advanced Studies (USPCAS) have been designed by the United States Government and the Government of Pakistan to support Pakistan's economic development by strengthening universities and encouraging applied research. UC Davis has partnered with University of Agriculture, Faisalabad (UAF) to manage the U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security, which is educating the next generation of scientists, engineers, and policy makers through innovative academic programs. The five-year agriculture program enables faculty and graduate student exchanges, facilitates joint research between the universities, provides technical and curricular-reform assistance, and aims to build the capacity of Pakistani agriculture to meet the country's food-security, economic and employment needs.
+
+### Visiting Scholar Profiles:
+<a href="/profiles/USPCAS/dr_muhammed_arshad/">Dr. Muhammed Arshad, Asst. Professor of Entomology, UAF</a>
 
 ### Media Mentions:
 <a href="https://www.ucdavis.edu/news/uc-davis-and-pakistan-launch-17-million-food-and-agricultural-partnership">UC Davis and Pakistan launch $17 million food and agricultural partnership<a/> (October 2015)
