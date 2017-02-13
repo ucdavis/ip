@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 title:  Dr. Muhammed Arshad
 description: UAF Entomologist Returns to Pakistan with Pest Eradication Plans
 date:   2015-02-12 16:25:17
@@ -9,27 +9,52 @@ image-banner: pakistan_banner
 ---
 
 In the United States, the pink bollworm used to be one of the most destructive pests cotton growers had to battle every year. They’d spray insecticides heavily, but could still lose a significant amount of their crop to the bug each season.<br>
+
 That’s almost ancient history for U.S. growers, especially in the desert Southwest where pink bollworm has been eradicated as a problem pest. But for cotton growers in Pakistan, pink bollworm remains one of the most common and destructive pests.<br>
+
 Dr. Muhammad Arshad hopes to change that.<br>
+
 “In Pakistan, we have an estimated three-to-four-million-bale loss in cotton every year due to the pink bollworm,” he explained. “I want to apply the same eradication plan in Pakistan they used in Arizona.”<br>
+
 Dr. Arshad is one of six faculty members from the University of Agriculture, Faisalabad who have spent the past six months at the University of California, Davis, working with faculty in their specialty areas.  Arshad has been partnered with Dr. Larry Godfrey, an extension entomologist in the UC Davis Department of Entomology and Nematology, whose specialty is integrated pest management in vegetable and field crops.<br>
+
 Arshad’s UC Davis research has been to develop non-chemical controls for common pests in Pakistan. <br>
+
 “In Pakistan, most farmers totally rely on insecticides for pest management,” he explained. “I want to help implement an integrated pest management program in cotton to change that.” <br>
 Integrated pest management is a science-based technique of pest management that de-emphasizes pesticides and encourages a multi-faceted approach to controlling pests. In integrated pest management, growers use crop rotations, plant variety selection, natural enemies and biological controls and selective pesticides to keep pest populations at levels that don’t cause economic harm. <br>
+
 In cotton, the results can be astonishing. Researchers in Arizona have documented the reductions in insecticide sprays growers have made as integrated pest management programs took hold in cotton. In the mid-1990s, growers were spraying their fields 10 or 12 times a season, and using over four pounds of insecticide active ingredient per acre. In recent years, they spray once or twice a season and use about 16 ounces of insecticide active ingredient per acre. At the same time, growers’ pest control costs have dropped from about $300 per acre to about $50. <br>
+
 That’s the kind of success Arshad hopes to bring to Pakistan. <br>
+
 <b>Supported by USAID</b><br>
+
 Dr. Arshad and his five colleagues from the University of Agriculture, Faisalabad are the first long-term visiting faculty at UC Davis in a program known as the U.S. Pakistan Center for Advanced Studies in Agriculture and Food Security. The program, funded by the U.S. Agency for International Development, links UC Davis, the leading agriculture research university in the world, with UAF, Pakistan’s top agriculture university.  <br>
+
 The $17 million, five-year program is part of a larger $127 million USAID program that links leading U.S. and Pakistani universities in energy and water, as well as agriculture. <br>
 The six scholars arrived at Davis in November, and will be returning to UAF this spring. Dr. James Hill, associate dean emeritus of International Programs for the College of Agricultural and Environmental Sciences at UC Davis, is in charge of the Center for Advanced Studies. <br>
+
 “This first group of visiting scholars have already proved the value of this collaboration,” Dr. Hill said. “These young faculty will going back to their home university and their own research labs with new skills, resources, connections and ideas. They’re all eager to take what they started at UC Davis and develop it at UAF to benefit Pakistan’s agricultural sector and people.” <br>
+
 Except the visiting scholars aren’t just going to take new ideas and techniques back to UAF – they already have. <br>
+
 Dr. Arshad, for instance, learned how to successfully (and cheaply) raise cotton bollworms. It’s not something most people think about, but entomologists looking for effective ways to kill agriculture pests first have to raise a lot of those pests for their experiments. And the cotton bollworm, which is also called the corn earworm, is difficult to raise in large numbers because they eat each other if reared in the same container. <br>
+
 “In Dr. Godfrey’s lab, one of the first things I learned was an inexpensive technique for rearing bollworms,” he said. “I’ve already talked with the students in my lab at UAF and have had them start raising them there. Instead of having to buy bollworm eggs in the future, I’ll be able to sell them to other labs and support my research.” <br>
+
 He’s not alone. Plant pathologist Dr. Imran ul-Haq learned a new way to preserve cultures of fusarium, a fungal disease. Instead of having to refresh cultures every two months or so, through a complex and time-consuming process, he’s now be able to safely store cultures for two years in a simple kitchen refrigerator – freeing up massive amounts of lab time. <br>
+
 “We’ve already started to do this in Pakistan at UAF,” he said. “I Skyped with my students and showed them how.” <br>
+
 <b>Unexpected Benefits</b><br>
+
 The Center for Advanced Studies in Agriculture and Food Security was designed to expose agriculture researchers at UAF to advanced technologies and techniques, and it has. Both Drs. Arshad and Haq, for instance, extracted DNA for the first time and learned those techniques. Dr. Arshad studied the effectiveness of using entomopathogenic nematodes native to Pakistan, tiny microscopic worms, as a biological control against bollworms and fruit fly. <br>
+
 Those lab results were positive, and he’ll conduct in-field trials back at UAF. But no one predicted some of the ideas they’re taking back. Like the insect museum gift shop Arshad plans to open after visiting the Bohart Museum of Entomology at UC Davis. <br>
+
 The museum, founded in 1946, holds more than seven million specimens. Dr. Arshad learned how to preserve his collection at UAF from a small beetle species that has been eating specimens, but also saw how the museum is used at Davis to expose kids to the fascinating world of insects. <br>
+
 “We don’t conduct such outreach activities at our insect museum at UAF,” he said. “Here’s there’s a lot of outreach, and we’re going to begin that at UAF.”
+
+
+  <p><i>Profile written by Steve Elliot.</i></p>
