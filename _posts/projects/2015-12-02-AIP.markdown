@@ -4,7 +4,6 @@ title: Agricultural Innovation Project
 description: UC Davis is providing support for the Agricultural Innovation Project, a 5-year USAID-funded program managed by the International Maize & Wheat Improvement Center (CIMMYT), the International Livestock Research Institute (ILRI), the International Rice Research Institute, and the World Vegetable Center (AVDRC).
 category: "project"
 contact: <a href="/team/james-e-hill">Jim Hill</a><br><a href="/team/tom-rost">Tom Rost</a><br><a href="/team/louise-ferguson">Louise Ferguson</a><br><a href="/team/mark-bell">Mark Bell</a>
-more-info:
 funding: <a href="https://www.usaid.gov/news-information/fact-sheets/agricultural-innovation-program>Supported by USAID through CIMMYT</a>
 sponsors: International Maize & Wheat Improvement Center (CIMMYT)<br>World Vegetable Center (AVRDC)<br>International Livestock Research Institute (ILRI)<br>International Rice Research Institute (IRRI)<br>UC Davis
 more-info: http://epakag.ucdavis.edu/
