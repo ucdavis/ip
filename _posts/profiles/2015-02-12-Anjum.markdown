@@ -1,6 +1,6 @@
 ---
 layout: profiles
-title:  Dr.Lubna Anjum
+title:  Dr. Lubna Anjum
 description: UAF Scholars return home with more than just lab experience. Dr. Anjum and other female scholars are breaking ground through their USPCAS-AFS scholar exchanges.
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/dr_lubna_anjum

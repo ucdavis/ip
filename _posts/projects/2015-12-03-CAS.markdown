@@ -15,7 +15,16 @@ tags:
 - pakistan
 
 ---
-The U.S.-Pakistan Centers for Advanced Studies (USPCAS) have been designed by the United States Government and the Government of Pakistan to support Pakistan's economic development by strengthening universities and encouraging applied research. UC Davis has partnered with University of Agriculture, Faisalabad (UAF) to manage the U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security, which is educating the next generation of scientists, engineers, and policy makers through innovative academic programs. The five-year agriculture program enables faculty and graduate student exchanges, facilitates joint research between the universities, provides technical and curricular-reform assistance, and aims to build the capacity of Pakistani agriculture to meet the country's food-security, economic and employment needs.
+The U.S.-Pakistan Centers for Advanced Studies (USPCAS) were launched by the United States Government and the Government of Pakistan to support Pakistan's economic development by educating the next generation of scientists, engineers, and policy makers through innovative academic programs. USPCAS connects three American universities with expertise in agriculture, water, and energy with four Pakistani universities with the goals of modernizing curricula, conducting joint applied and policy research, and fostering student and faculty exchanges. Building on a shared mission to engage and lead through education, research, and collaboration, USPCAS faculty and students leverage collective resources and expertise towards discovering solutions to challenges in food security, water scarcity, and energy demand.
+
+With a population of nearly 200 million, food security has been a protracted challenge in Pakistan. To strengthen a culture of applied research, USAID launched the U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security (USPCAS-AFS) at the University of Agriculture, Faisalabad (UAF), which is partnering with the University of California, Davis. The five-year agriculture program enables faculty and graduate student exchanges, facilitates joint research between the universities, provides technical and curricular-reform assistance, and aims to build the capacity of Pakistani agriculture to meet the country's food-security, economic and employment needs.
+
+### Applied Research Foci: Agriculture & Food Security
+- Agricultural policy
+- Biotechnology
+- Climate change
+- Precision agriculture
+- Agriculture outreach
 
 ### Visiting Scholar Profiles:
 - <a href="/profiles/USPCAS/adnan_adeel">Adnan Adeel, Lecturer, Institute of Business Management Sciences, UAF</a><br>
