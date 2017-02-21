@@ -1,31 +1,26 @@
 ---
 layout: profiles
-title:  Dr. Nadeem Akbar
-description: Utilizing resource conservation technologies and extension outreach to improve rice cultivation in Pakistan.
+title:  Dr. Syed Aftab Wajid
+description: Using quantitative methods to predict crop yield success in Pakistan.
 date:   2015-02-12 16:25:17
-permalink: /profiles/USPCAS/dr_nadeem_akbar
-image: /media/profiles/AkbarWaterPerc
-image-caption: Dr. Nadeem Akbar installs water percolation tubes to monitor groundwater behavior in rice paddies.
+permalink: /profiles/USPCAS/dr_syed_aftab_wajid
+image: /media/profiles/wajid
+image-caption: Dr. Syed Aftab Wajid speaks about crop prediction modeling tools.
 image-banner: pakistan_banner
-more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://linquistwp.plantsciences.ucdavis.edu/">Linquist Lab, Dept. of Plant Sciences, UC Davis</a>
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://desp.ucdavis.edu/people/robert-j-hijmans">Dr. Robert Hijmans, Dept. of Environmental Science and Policy, UC Davis</a>
 ---
-In Pakistan, cultivating rice can be laborious and cumbersome. Farmers often spend countless hours preparing their rice paddies for planting, using livestock and manpower to level fields with rudimentary implements. Rice seedlings are then manually transplanted from nurseries into the prepared paddies, a tedious task that requires considerable time and labor to complete. <br>
+Dr. Syed Aftab Wajid is an assistant professor in the Department of Agronomy at University of Agriculture, Faisalabad (UAF). His research interests focus on crop yield modeling and forecasting using satellite imaging and geospatial mapping, and he took full advantage of the opportunity provided by USPCAS-AFS. <br>
 
-Dr. Nadeem Akbar, of the University of Agriculture, Faisalabad (UAF), is addressing the challenges of the transplanting culture in Pakistani rice fields by looking towards resource conservation technologies. A researcher and lecturer in UAF’s Department of Agronomy, Dr. Akbar focuses on the techniques and methodologies of sowing rice through direct seeding. He recently completed a six-month scholar exchange through the U.S.-Pakistan Center for Advanced Studies in Agriculture & Food Security (USPCAS-AFS), which sent Dr. Akbar to the University of California, Davis, to learn more about the advanced production methods used by California rice farmers. <br>
+Dr. Wajid spent much of his exchange learning from Dr. Robert Hijmans, associate professor in the Department of Environmental Science and Policy at UC Davis. Dr. Hijmans’ laboratory specializes in using quantitative methods to study crop ecology, agricultural biodiversity, and the societal effects of agricultural development. Much of Dr. Wajid’s studies focused on modeling scripts, with special attention paid to a statistical computing language known as “R”, which allows for a range of data manipulation, calculation, and graphical display. <br>
 
-Dr. Akbar was hosted by Dr. Bruce Linquist, a campus rice specialist in the Department of Plant Sciences at UC Davis. Dr. Linquist specializes in efficient nutrient management practices that maintain or increase rice yields, and he immediately welcomed Dr. Akbar by involving him in ongoing research projects managed by his laboratory. Over the course of the scholar exchange, Dr. Akbar worked on alternative irrigation systems for rice paddies, used remote sensing technologies to determine midseason nitrogen levels in various rice crops, and studied how groundwater storage is affected by traditional rice cultivation. <br>
+“The R package was quite difficult at first, but after learning the interface, I could calibrate different parameters for various crops,” says Dr. Wajid. <br>
+Along with his experience in Dr. Hijmans’ lab, Dr. Wajid worked with university faculty from several different universities, including UC Davis, Stanford, and Columbia, to develop a curriculum plan which will integrate remote sensing techniques into his classes at UAF. <br>
 
-“Dr. Akbar is a very good agronomist,” says Dr. Linquist. “It’s nice to work with people who have a joy of working in the field and really understand plants and soils… he has a passion for this field, and he will be a big benefit to UAF.” <br>
+“Use of these new models and remote sensing techniques will bring revolutionary changes to our future agricultural production,” says Dr. Wajid. “My students will submit projects on these new techniques to forecast crop yields with the help of futuristic models and remotely sensed data.” <br>
 
-“Working with Dr. Linquist helped me accomplish my research goals,” said Dr. Akbar. “I was completely involved in major ongoing projects, which helped me improve my knowledge of flooding techniques and groundwater storage.” <br>
+Dr. Wajid is planning to overhaul his own class curricula, further integrating modern statistical tools into both undergraduate and graduate courses at UAF. He wants to develop two new courses on data science and geospatial modeling, and plans to engage his students through hands-on learning and immersion techniques. <br>
 
-“Traditional rice growing culture in California is resource-efficient, highly mechanized, and gives a high average crop yield,” states Dr. Akbar. “This knowledge will go a long way towards mitigating the ever rising challenge of food security in Pakistan.” <br>
-
-Dr. Akbar also experienced how collaboration with California rice farmers informs Dr. Linquist’s research.  “He maintains such a close relationship with the rice community; collaboration between them is very effective and makes his research so applicable to the farmers’ fields.” <br>
-
-Since his return to Pakistan, Dr. Akbar has used his experience to influence his own classroom and research. He has written a book chapter on the benefits of direct rice seeding in Pakistan, is teaching an advanced agronomy course at UAF titled “Modern Concepts in Crop Productivity”, and is involving his graduate students in communications with the local farmer community in Punjab. Dr. Akbar acknowledges that techniques developed at the university level should resolve ongoing challenges at the field level. “To me, there must be close coordination between students and teachers in education. Also, the research which is conducted and the technology developed should reach farmers for the sake of implementation, rather than remaining in academic publications.” <br>
-
-Dr. Akbar will continue to collaborate with his research counterparts at UC Davis by joining Dr. Linquist and other leading rice researchers at the International Temperate Rice Conference in Australia in March of 2017, deepening ties to international research and continuing to bring the best rice cultivation practices to Pakistan. <br>
+“My students will be guided to read the original papers and materials in advance, making easy discussion in the classroom. This will create awareness and educate them about climate anomalies, mitigation and adaptation with respect to crop growth and development.” <br>
 
 The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
 <br>
