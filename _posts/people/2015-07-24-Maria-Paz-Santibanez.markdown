@@ -1,6 +1,6 @@
 ---
 layout: person
-contact-name: Maria Paz Santibanez
+contact-name: María Paz Santibanez
 contact-title: Ingeniero Agronomo, Project Consultant
 category: "person"
 phone:
