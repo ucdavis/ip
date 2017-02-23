@@ -3,7 +3,7 @@ layout: project
 title: INGENAES
 description: Integrating Gender and Nutrition within Agricultural Extension Services (INGENAES) works to improve agricultural livelihoods focusing on strengthening extension and advisory services to empower and engage smallholder farmers, male and female.
 category: "project"
-contact: Mark Bell, Nikki Grey Rutamu, Edye Kuyper
+contact: <a href="/team/mark-bell">Mark Bell</a><br><a href="/team/nikki-grey-rutamu">Nikki Grey Rutamu</a><br><a href="/team/edye-kuyper">Edye Kuyper</a>
 funding: Supported by USAID
 sponsors: USAID<br>University of Illinois at Urbana-Champaign (Project Lead)<br>University of Florida<br>UC Davis<br>Cultural Practice, LLC
 image-banner: vietnam_banner
