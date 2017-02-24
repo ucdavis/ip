@@ -41,4 +41,5 @@ With a population of nearly 200 million, food security has been a protracted cha
 <br><br>
 
 
-<img src="/media/sponsors/usaid.svg"><i>    This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i>
+<img src="/media/sponsors/usaid.svg"><br>
+<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i>
