@@ -8,14 +8,14 @@ contact: <a href="/team/mark-bell">Mark Bell</a>
 permalink: /countries/guatemala
 image-banner: guatemala_banner
 ---
-Through the Feed the Future Horticulture Innovation Lab, UC Davis faculty are working on projects related to agricultural sector growth and development.
 
-<h3>Upcoming Events</h3>
+<p><h3>Upcoming Events</h3>
 
 - <a href="http://horticulture.ucdavis.edu/2017/">2017 Horticulture Innovation Lab Annual Meeting, Antigua, Guatemala</a><br>
-<br>
+
 <h3>Media Mentions</h3>
 - <a href="https://www.ucdavis.edu/news/bringing-more-irrigation-and-climate-smart-farming-guatemala">UC Davis News: "Bringing More Irrigation and Climate-Smart Farming to Guatemala"</a>
+</p>
 <br>
 For more information on the Feed the Future Horticulture Innovation Lab, visit <a href="http://horticulture.ucdavis.edu/">horticulture.ucdavis.edu</a>.
 
