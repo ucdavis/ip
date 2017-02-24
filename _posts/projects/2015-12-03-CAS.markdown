@@ -39,4 +39,6 @@ With a population of nearly 200 million, food security has been a protracted cha
 ### Media Mentions:
 <a href="https://www.ucdavis.edu/news/uc-davis-and-pakistan-launch-17-million-food-and-agricultural-partnership">UC Davis and Pakistan launch $17 million food and agricultural partnership<a/> (October 2015)
 
-<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i>
+
+
+<img src="/media/sponsors/usaid.svg"><i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i>
