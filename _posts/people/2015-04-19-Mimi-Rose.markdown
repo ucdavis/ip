@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Mimi Rose
-contact-title: Assitant to Associate Dean Jan Hopmans
+contact-title: Program Coordinator, International Visitors Program
 category: "person"
 email: msurose@ucdavis.edu
 phone: (530) 752-0464
