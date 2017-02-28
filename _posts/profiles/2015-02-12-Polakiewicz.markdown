@@ -1,7 +1,7 @@
 ---
 layout: profiles
-title:  Spotlight: Kate Polakiewicz
-description: A RIFA fellow is measuring interactions between soil health and coffee leaf rust disease in Central America.
+title: Kate Polakiewicz
+description: A RIFA fellow measuring interactions between soil health and coffee leaf rust disease in Central America.
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/kate
 image: /media/profiles/polakiewicz
