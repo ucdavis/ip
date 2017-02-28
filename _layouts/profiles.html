@@ -44,9 +44,10 @@ layout: default
             <p>{{ content }}</p>
         </article>
         <aside>
+            {% if page.sponsoring-agency %}
             <h3>Sponsoring Agency</h3>
-            <p><img src="/media/sponsors/usaid.svg"></p>
-            {% if page.contact %}
+            <p>{{ page.sponsoring-agency }}</p>
+            {% endif %}  {% if page.contact %}
             <h3>Contact</h3>
             <p>{{ page.contact }}</p>
             {% endif %} {% if page.funding %}
