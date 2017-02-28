@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_khuram_zia
 image: /media/profiles/Zia_Presentation
 image-caption: Dr. Khuram Zia presents his case study findings from his exchange visit to UC Davis.
 image-banner: pakistan_banner
+sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://www.pipra.org/en/page/Default/index">Public Intellectual Property Resource for Agriculture (PIPRA)</a>
 ---
 In November of 2015, USPCAS-AFS hosted a week-long series of meetings and workshops at University of Agriculture, Faisalabad (UAF), about how best to advance public-private partnerships in Pakistan with the goal of bringing new agricultural technologies to market. Presenters from the Public Intellectual Property Resource for Agriculture (PIPRA), a nonprofit program hosted at the University of California, Davis, discussed with members of the UAF Office of Research, Innovation, and Commercialization (known as ORIC) the benefits of patenting university innovations and transferring technology to the private sector.<br>

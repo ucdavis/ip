@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_aftab_ahmad
 image: /media/profiles/ahmad
 image-caption: Dr. Aftab Ahmad presents on how cotton leaf curl virus replicates within the cell.
 image-banner: pakistan_banner
+sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://ucdptf.ucdavis.edu/">Plant Transformations Facility, UC Davis</a>
 ---
 Cotton is one of the four major crops of Pakistan, accounting for 15% of cropland in the county and positioning Pakistan as the world’s third largest exporter of raw cotton. However, Cotton Leaf Curl Virus is listed as a serious threat to Pakistan’s cotton production, as it stunts the plant growth and affects overall yield. A major viral epidemic in the mid-1990s reduced cotton yields by almost 70%, resulting in a $5 billion economic loss to the country. But with the emergence of new genetic editing techniques and a focus on supporting small farmers, there is new hope for mitigating the worst effects of cotton leaf curl virus. <br>
