@@ -2,10 +2,10 @@
 layout: profiles
 title:  Spotlight: Kate Polakiewicz
 description: A RIFA fellow is measuring interactions between soil health and coffee leaf rust disease in Central America.
-date:   2015-02-12 16:25:17
-permalink: /profiles/RIFA/kate_polakiewicz
+date:   2015-04-01 16:25:17
+permalink: /profiles/RIFA/polakiewicz
 image: /media/profiles/polakiewicz
-image-caption: Kate Polakiewicz, RIFA Fellow and UC Davis IAD graduate students, works with community members in Guatemala.
+image-caption: Kate Polakiewicz, RIFA Fellow and UC Davis IAD graduate student, works with community members in Guatemala.
 image-banner: guatemala_banner
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
 ---
@@ -19,4 +19,4 @@ Polakiewicz has been stoked to be working with CRS because of their groundbreaki
 <br>
 
 
-<p><i>Profile written by Kate Wilkens.</i></p>
+<p><i>Profile written by Kate Wilkins.</i></p>
