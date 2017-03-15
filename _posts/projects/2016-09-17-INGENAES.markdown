@@ -1,7 +1,7 @@
 ---
 layout: project
 title: INGENAES
-description: Integrating Gender and Nutrition within Agricultural Extension Services (INGENAES) works to improve agricultural livelihoods focusing on strengthening extension and advisory services to empower and engage smallholder farmers, male and female.
+description: Integrating Gender and Nutrition within Agricultural Extension Services (INGENAES) is developing the capacity of agricultural extension in select low-income countries to provide gender-responsive, nutrition-sensitive services.
 category: "project"
 contact: <a href="/team/mark-bell">Mark Bell</a><br><a href="/team/nikki-grey-rutamu">Nikki Grey Rutamu</a><br><a href="/team/edye-kuyper">Edye Kuyper</a>
 funding: Supported by USAID
@@ -15,6 +15,6 @@ tags:
 - Zambia
 
 ---
-Globally, women make up approximately 43% of the agricultural labor force and typically bear more burden than men, as they are responsible for both field chores and household duties. However, most developing country extension systems neglect to address the needs of female farmers or rural workers.
+INGENAES team members work with USAID missions, civil society organizations, farmer organizations, universities, and private sector service providers in Feed The Future countries on action-oriented training, learning exchanges, and mentoring programs to promote gender-transformative agricultural development and nutrition-sensitive agricultural practices.
 
-INGENAES helps to build robust extension advisory services capable of assessing and responding to the needs of both men and women farmers. INGENAES team members work with USAID missions, civil society organizations, farmer organizations, universities, and private sector service providers in Feed The Future countries on action-oriented training, learning exchanges, and mentoring programs to promote gender-transformative agricultural development and nutrition-sensitive agricultural practices.
+Globally, women make up approximately 43% of the agricultural labor force and typically bear more burden than men, as they are responsible for both field chores and household duties. However, most developing country extension systems neglect to address the needs of female farmers or rural workers. INGENAES helps to build robust extension advisory services capable of empowering women to contribute to household incomes, increase productivity and reduce gender gaps in agriculture, and improve nutrition outcomes for farming families.
