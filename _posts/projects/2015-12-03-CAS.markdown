@@ -6,7 +6,7 @@ category: "project"
 contact: <a href="/team/james-e-hill">Dr. Jim Hill</a><br><a href="/team/nancy-allen">Dr. Nancy Allen</a>
 funding: <img src="/media/sponsors/usaid.svg"><br><a href="https://www.usaid.gov/news-information/fact-sheets/centers-advanced-studies-program">USAID Fact Sheet</a>
 sponsors: U.S. Agency for International Development (USAID)<br>Higher Education Commission of Pakistan (HEC)<br>University of California, Davis<br>University of Agriculture, Faisalabad<br>Washington State University
-more-info: http://uspcasafs.uaf.edu.pk <br><br><a href="http://eepurl.com/cHuaUP">Subscribe to USPCAS-AFS e-Newsletters</a>
+more-info: <a href="http://uspcasafs.uaf.edu.pk">USPCAS-AFS at University of Agriculture, Faisalabad</a><br><a href="http://eepurl.com/cHuaUP">Subscribe to USPCAS-AFS e-Newsletters</a>
 image: /media/projects/CAS/project_banner
 image-caption: Photo credit Steven Asercion
 image-banner: pakistan_banner
