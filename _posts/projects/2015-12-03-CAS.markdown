@@ -7,6 +7,27 @@ contact: <a href="/team/james-e-hill">Dr. Jim Hill</a><br><a href="/team/nancy-a
 funding: <img src="/media/sponsors/usaid.svg"><br><a href="https://www.usaid.gov/news-information/fact-sheets/centers-advanced-studies-program">USAID Fact Sheet</a>
 sponsors: U.S. Agency for International Development (USAID)<br>Higher Education Commission of Pakistan (HEC)<br>University of California, Davis<br>University of Agriculture, Faisalabad<br>Washington State University
 more-info: http://uspcasafs.uaf.edu.pk
+<br>
+<br>
+<br>
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+</style>
+<div id="mc_embed_signup">
+<form action="//ucdavis.us15.list-manage.com/subscribe/post?u=29d90a2ec1d4171e36b1bc48c&amp;id=638934e81a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe to the USPCAS-AFS e-newsletter:</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_29d90a2ec1d4171e36b1bc48c_638934e81a" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
 image: /media/projects/CAS/project_banner
 image-caption: Photo credit Steven Asercion
 image-banner: pakistan_banner
