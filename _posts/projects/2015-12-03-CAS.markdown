@@ -8,7 +8,7 @@ funding: <a href="https://www.usaid.gov/news-information/fact-sheets/centers-adv
 sponsors: U.S. Agency for International Development (USAID)<br>Higher Education Commission of Pakistan (HEC)<br>University of California, Davis<br><a href="http://uspcasafs.uaf.edu.pk">University of Agriculture, Faisalabad</a><br>Washington State University
 more-info: <a href="http://eepurl.com/cHuaUP" target="_blank">Subscribe to USPCAS-AFS e-Newsletters</a>
 image: /media/projects/CAS/USPCAS_LogoBlock
-image-caption: 
+image-caption:
 image-banner: pakistan_banner
 permalink: /projects/USPCAS
 tags:
@@ -28,6 +28,7 @@ With a population of nearly 200 million, food security has been a protracted cha
 
 ### Activities and Events:
 - <a href="/profiles/USPCAS/farmers_tour">2016 Pakistani Farmers & Admnistrators Tour of California Agriculture</a><br>
+- <a href="/profiles/USPCAS/policy_workshop">2017 Policy Workshop on Issues in Pakistani Agriculture</a><br>
 
 ### Visiting Scholar Profiles:
 - <a href="/profiles/USPCAS/adnan_adeel">Adnan Adeel, Lecturer, Institute of Business Management Sciences, UAF</a><br>
