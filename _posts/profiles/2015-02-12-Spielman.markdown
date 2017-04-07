@@ -3,7 +3,7 @@ layout: profiles
 title:  Policy Workshop on Issues of Pakistani Agriculture
 description: Scholars from University of Agriculture, Faisalabad, begin their exchange at UC Davis with a two-day policy workshop.
 date:   2015-02-12 16:25:17
-permalink: /profiles/USPCAS/2017_policy_workshop
+permalink: /profiles/USPCAS/policy_workshop
 image: /media/profiles/policy_workshop
 image-caption: David Spielman of the International Food Policy Research Institute (IFPRI) presents to Pakistan's policy scholars and UC Davis faculty on Feb. 27th.
 image-banner: pakistan_banner
