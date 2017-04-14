@@ -5,14 +5,14 @@ description: Four UAF Assistant Professors visit UC Davis to analyze current agr
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/policy_scholars
 image: /media/profiles/Ag_Policy_Scholars
-image-caption: Clockwise, from upper left: Dr. Tahira Sadaf, Mr. Abdul Ghafoor, Dr. M. Uzair Qamar, & Dr. Azhar Abbas.
+image-caption: Clockwise, from upper left- Dr. Tahira Sadaf, Mr. Abdul Ghafoor, Dr. M. Uzair Qamar, & Dr. Azhar Abbas.
 image-banner: pakistan_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
-more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://are.ucdavis.edu/">UC Davis Dept. of Agricultural and Resource Economics (ARE)</a>
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---
-USPCAS-AFS recently hosted four policy exchange scholars from the University of Agriculture, Faisalabad (UAF), who visited UC Davis for six weeks of immersive agricultural and economic policy discussions. Dr. Azhar Abbas and Dr. Tahira Sadaf from the Institute of Agricultural & Resource Economics, Dr. M. Uzair Qamar from the Department of Irrigation & Drainage, and Mr. Abdul Ghafoor from the Institute of Business Management Sciences arrived in February, each with an specific area of policy that they planned to investigate. The four UAF assistant professors were matched with UC Davis mentoring faculty from the Department of Agricultural and Resource Economics (ARE) and the Center for Watershed Sciences. <br>
+USPCAS-AFS recently hosted four policy exchange scholars from the University of Agriculture, Faisalabad (UAF), who visited UC Davis for six weeks of immersive agricultural and economic policy discussions. Dr. Azhar Abbas and Dr. Tahira Sadaf from the Institute of Agricultural & Resource Economics, Dr. M. Uzair Qamar from the Department of Irrigation & Drainage, and Mr. Abdul Ghafoor from the Institute of Business Management Sciences arrived in February, each with an specific area of policy that they planned to investigate. The four UAF assistant professors were matched with UC Davis mentoring faculty from the Department of Agricultural and Resource Economics (ARE) and the Department of Civil and Environmental Engineering. <br>
 
-As part of the exchange visit, a <a href="http://ip.ucdavis.edu/profiles/USPCAS/policy_workshop">two day policy workshop on February 27-28</a> was hosted by USPCAS-AFS and the Department of Agricultural and Resource Economics at UC Davis. The workshop, which focused on agriculture policies in Punjab and Pakistan, featured research presentations by David Spielman from the International Food Policy Research Institute (IFPRI) and from each of the visiting policy scholars. <br>
+As part of the exchange visit, a two day policy workshop on February 27-28 was hosted by USPCAS-AFS and the Department of Agricultural and Resource Economics at UC Davis. The workshop, which focused on agriculture policies in Punjab and Pakistan, featured research presentations by David Spielman from the International Food Policy Research Institute (IFPRI) and from each of the visiting policy scholars. <br>
 
 Recently, the government of Punjab tasked the University of Agriculture, Faisalabad, with helping draft agriculture policies that would stimulate production and food security in the province of Punjab. The Vice-Chancellor of UAF, Dr. Iqrar Ahmad Khan, created a committee of UAF faculty members with the expertise needed for actionable recommendations. Each of the four visiting Assistant Professors are members of that guidance committee. <br>
 
