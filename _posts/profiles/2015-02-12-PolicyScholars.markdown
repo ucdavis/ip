@@ -18,6 +18,8 @@ Recently, the government of Punjab tasked the University of Agriculture, Faisala
 
 During their six-week exchange visit, the four policy scholars worked closely with their UC Davis faculty mentors to develop specific policy recommendations for agriculture in Punjab. More broadly, the scholars observed how education and research are conducted at UC Davis, and all plan to return to UAF with ideas and insights into improving the delivery of higher education. <br>
 
+<h3>Dr. Azhar Abbas</h3><br>
+
 Dr. Azhar Abbas, an Assistant Professor in the Institute of Agricultural and Resource Economics at UAF, investigated the international competitiveness of cotton production in Pakistan. Dr. Abbas’s main objective was to analyze the recent trends in the cotton trade and evaluate the effects of policy interventions, such as tariffs or subsidies. He was mentored by Dr. Dan Sumner, Director of the UC Agricultural Issues Center and member of the ARE faculty. <br>
 
 Pakistan is the world’s fourth largest producer of cotton, and yarn & cloth exports account for 55% of the country’s export earnings. Yet, cotton production in the country has declined recently, resulting in an increase of raw cotton imports from 0.98 million bales in 2014 to 2.5 million bales in 2015-16. Over 1.6 million farmers in Pakistan raise cotton, and the textile and garment industry employs over 14 million workers. By estimating the international competitiveness of Pakistan’s cotton production, Dr. Abbas hopes to recommend specific resource allocations which will maintain production levels. <br>
@@ -26,15 +28,21 @@ Pakistan is the world’s fourth largest producer of cotton, and yarn & cloth ex
 
 One of the conclusions reached by Dr. Abbas was that improving cotton storage and marketing systems may strengthen domestic production, and recommended that local textile demands be met by increased domestic production rather than imports. “After many discussions with my mentor, Dr. Dan Sumner, I have modified my analytical approach and revised my draft report. I plan to include an account on the nature of subsidies on cotton production and transportation costs, which will be useful for policy officials.” <br>
 
+<h3>Dr. Tahira Sadaf</h3><br>
+
 Dr. Tahira Sadaf, also an Assistant Professor of the Institute of Agricultural and Resource Economics at UAF, addressed trade liberalization of the wheat crop of Pakistan. Wheat makes up over 75% of total food grain production in Pakistan, and Dr. Sadaf worked to determine how various policies influenced wheat supply and economic demand. She identified problematic issues in current wheat price policy, including current wheat procurement mechanisms, pricing support systems, and protectionist interventions that adversely affect Pakistan’s wheat production and trade. Dr. Sadaf drafted a policy document that suggested opening up Pakistan’s wheat markets, and discussed her analysis extensively with Dr. Colin Carter, Distinguished Professor of the Dept. of Agricultural & Resource Economics, UC Davis. <br>
 
 One outcome of Dr. Sadaf’s exchange visit was an idea for a new research project analyzing the welfare effect of collective policies along the wheat value chain in Pakistan. By examining the disaggregated nominal rate of assistance among various groups, she hopes to learn more about who exactly benefits the most from current economic interventions. Dr. Sadaf also praised the efforts of the UC Davis faculty and USPCAS-AFS staff, and urged the current USPCAS students to “take as many positive things as you can from UC Davis, and return to UAF with a positive change in both your attitude and work ethic.” <br>
+
+<h3>Dr. M. Uzair Qamar</h3><br>
 
 Dr. Muhammad Uzair Qamar, an Assistant Professor in the Department of Irrigation and Drainage at UAF, studied and examined the Punjab irrigation system and pricing structure. After determining current operation and maintenance costs of the irrigation system in Punjab and analyzing current data, Dr. Qamar came up with specific recommendations to finance maintenance of the irrigation canals that cross Punjab. Dr. Qamar worked closely with Dr. Jay Lund in the Department of Civil & Environmental Engineering to complete the pricing analysis and finalize policy suggestions. <br>
 
 Reliable irrigation from canals is vital to the food security of Pakistan, but the irrigation network in Punjab is managed through several provincial infrastructure agencies. These agencies are legally obligated to reclaim operating and maintenance costs from farmers based on water usage, but only 20% of O&M costs are being recaptured through the current pricing structure. The pricing discrepancy affects the ability to maintain and repair canal infrastructure, adversely affecting the water supply in the irrigation system. When irrigation canals cannot meet local demand, farmers rely on pumping groundwater, depleting critical aquifers. This vicious cycle of water scarcity could be prevented by correctly valuing the cost of canal-driven irrigation water, says Dr. Qamar. <br>
 
 “After our analysis, we found that water costs are being severely underpriced in almost all distribution branches of the canal systems. One of our policy recommendations would be to incrementally increase the water costs to farmers, which would recover the cost of infrastructure maintenance,” stated Dr. Qamar. “We can provide reasonable subsidies to farmers for other inputs, but charging more for water would also encourage farmers to invest in water-saving technologies. However, we should teach farmers about the importance of pricing water use to sustain the irrigation system before actually increasing irrigation prices.” <br>
+
+<h3>Mr. Abdul Ghafoor</h3><br>
 
 Mr. Abdul Ghafoor, an Assistant Professor in the Institute of Business Management Sciences at UAF, identified agricultural input policy options affecting food security in the Punjab province of Pakistan. He collected data on agricultural marketing in Punjab and drafted a list of proposed policy recommendations, which he then shared with Dr. Travis Lybbert, a Professor in ARE. <br>
 
