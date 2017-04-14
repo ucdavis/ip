@@ -1,14 +1,14 @@
 ---
 layout: profiles
-title: Agricultural & Economic Policy Scholars
+title: Agricultural and Economic Policy Scholars
 description: Four UAF Assistant Professors visit UC Davis to analyze current agricultural policies in Punjab and across Pakistan.
 date:   2015-02-12 16:25:17
-permalink: /profiles/USPCAS/ag_policy_scholars
+permalink: /profiles/USPCAS/policy_scholars
 image: /media/profiles/Ag_Policy_Scholars
 image-caption: Clockwise, from upper left: Dr. Tahira Sadaf, Mr. Abdul Ghafoor, Dr. M. Uzair Qamar, & Dr. Azhar Abbas.
 image-banner: pakistan_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
-more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="https://are.ucdavis.edu/">UC Davis Dept. of Agricultural and Resource Economics (ARE)</a>
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://are.ucdavis.edu/">UC Davis Dept. of Agricultural and Resource Economics (ARE)</a>
 ---
 USPCAS-AFS recently hosted four policy exchange scholars from the University of Agriculture, Faisalabad (UAF), who visited UC Davis for six weeks of immersive agricultural and economic policy discussions. Dr. Azhar Abbas and Dr. Tahira Sadaf from the Institute of Agricultural & Resource Economics, Dr. M. Uzair Qamar from the Department of Irrigation & Drainage, and Mr. Abdul Ghafoor from the Institute of Business Management Sciences arrived in February, each with an specific area of policy that they planned to investigate. The four UAF assistant professors were matched with UC Davis mentoring faculty from the Department of Agricultural and Resource Economics (ARE) and the Center for Watershed Sciences. <br>
 
@@ -43,7 +43,6 @@ Mr. Ghafoor’s two-year research project examines whether agricultural input ma
 “If we use improved inputs, it will give you increased yields. But the farmers show concern about government policies on seed, as well as higher prices for certified seed,” said Mr. Ghafoor. “When we talked with farmers about the major problems they are facing, over twenty percent said that current research and development in Pakistan is not addressing non-resistant seed cultivars. This is a major concern.” Other inputs examined were fertilizer use and access to finance and credit. <br>
 
 In summarizing his exchange visit, Mr. Ghafoor emphasized that policies in Pakistan should focus broadly on nutritional security, rather than simply crop productivity. He also extolled his experience with Dr. Lybbert and the Department of Agricultural and Resource Economics. “This is an entry into a new collaborative relationship,” stated Mr. Ghafoor during his exit presentation. “I have found new passion for my work.” <br>
-
 
 The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
 <br>
