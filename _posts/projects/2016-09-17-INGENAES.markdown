@@ -10,7 +10,7 @@ image-banner: vietnam_banner
 image: /media/projects/INGENAES/project_banner
 image-caption: Photo credit Mark Bell
 permalink: /projects/ingenaes
-more-info: http://ingenaes.illinois.edu/
+more-info: http://www.ingenaes.illinois.edu/
 tags:
 - Zambia
 
