@@ -1,7 +1,7 @@
 ---
 layout: profiles
-title: Kate Polakiewicz
-description: A RIFA fellow measuring interactions between soil health and coffee leaf rust disease in Central America.
+title: 2017 RIFA Fellows Conference
+description: Gathering RIFA alumni and current 2017 Fellows together for insights into international development practices.
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/2017conference
 image: /media/profiles/rifaconference
