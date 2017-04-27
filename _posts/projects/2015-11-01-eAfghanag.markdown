@@ -11,6 +11,6 @@ image: /media/projects/eafghanag/project_banner
 image-caption: Photo credit Steven Asercion
 permalink: /projects/afghan_ag
 tags:
-- afghanistan
+- Afghanistan
 
 ---
