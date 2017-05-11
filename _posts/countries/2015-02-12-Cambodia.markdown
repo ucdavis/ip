@@ -11,9 +11,15 @@ image-banner: cambodia_banner
 image: /media/partners/Cambodia_Partners
 ---
 
-<b>The partnership between UC Davis, Royal University of Agriculture (RUA), and University of Battambang (UBB) builds on a USAID project aiming to develop and cultivate a safe vegetable value chain (SVVC) within Cambodia to ease food security issues. </b><br>
+<b>The partnership between the Royal University of Agriculture (RUA), UC Davis, and University of Battambang (UBB) builds on a USAID project aiming to develop and cultivate a safe vegetable value chain (SVVC) within Cambodia to ease food security issues. </b><br>
 
 Collaboration between UC Davis and RUA begain in Kandal province in 2010 with funding from the Horticulture Innovation Lab. Since then, the team has expanded to include University of Battambang in Battambang province, the Integrated Pest Management (IPM) Innovation Lab, the USAID Borlaug Global Food Security Program, the University of California Office of the President (UCOP), and the International Society for Horticulture Science. <br>
+
+<b>What is a safe vegetable value chain (SVVC)?</b><br>
+Safe vegetables promote health, as they are typically free from chemical and microbiological hazards. A safe vegetable value chain (SVVC) includes all of the linked market actors, from local farmers to agricultural suppliers to market purveyors to consumers themselves. <br>
+Recent estimates have determined that more than 65-70% of vegetables in Cambodia are imported, mostly from China, Vietnam and Thailand. Demand for domestically produced vegetables is strong due to Cambodian consumers’ national pride and perception that domestically produced vegetables are better and safer due to lower chemical use. The existing consumer perceptions about imported products presents an opportunity for Cambodian farmers to capture a significant portion of the market share and support the domestic demand for safe vegetables. <br>
+Small-landholder farmers are key actors within Cambodia’s domestic vegetable market, and are primed to achieve a higher living standard through improvements within the value chain. Yet, farmers face several obstacles, including access to high-quality seeds, access to pest control technology, and access to market knowledge and linkages. <br>
+Our team’s approach to identifying and solving challenges is based on participatory research, where we engage local people as partners in testing, assessing, refining and innovating both hard and soft technologies as well as scaling strategies. Hard technologies include new seed varieties, integrated pest management techniques, low-cost water distribution, and postharvest & packaging centers; soft technologies include leadership & mentorship training, production & risk evaluation skills, and robust options of self-governing organizations. The RUA/UCD/UBB team focuses a significant effort on facilitating relationship building among local people, working with them to develop solutions that function at multiple stakeholder levels within existing systems. <br>
 
 
 <b>Thematically, the UC Davis & RUA team addresses:</b>
