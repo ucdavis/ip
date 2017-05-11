@@ -5,7 +5,7 @@ description: "**"
 date:   2015-02-12 16:25:17
 category: "country"
 contact: <a href="/team/karen-legrand">Dr. Karen LeGrand</a><br><a href="/team/glenn-young">Dr. Glenn Young</a><br><a href="/team/cary-trexler">Dr. Cary Trexler</a><br><a href="/team/g-david-miller">Dr. David Miller</a><br>
-partners: <img src="/media/partners/RUA_Seal"><br><a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phnom Penh</a><br><img src="/media/partners/UBB_Seal"><br><a href="http://ubb.edu.kh/">University of Battambang</a><br>
+partners: <a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phnom Penh</a><br><a href="http://ubb.edu.kh/">University of Battambang</a><br>
 permalink: /countries/cambodia
 image-banner: cambodia_banner
 ---
