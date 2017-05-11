@@ -6,8 +6,8 @@ date:   2015-02-12 16:25:17
 category: "country"
 contact: <a href="/team/karen-legrand">Dr. Karen LeGrand</a><br><a href="/team/glenn-young">Dr. Glenn Young</a><br><a href="/team/cary-trexler">Dr. Cary Trexler</a><br><a href="/team/g-david-miller">Dr. David Miller</a><br>
 partners: <a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phnom Penh</a><br><a href="http://ubb.edu.kh/">University of Battambang</a><br><a href="http://horticulture.ucdavis.edu/">Horticulture Innovation Lab</a><br><a href="http://www.oired.vt.edu/ipmil/">Integrated Pest Management (IPM) Innovation Lab</a><br><a href="http://www.ucop.edu/">University of California Office of the President</a><br>
-image: /media/partners/Cambodia_Partners
 permalink: /countries/cambodia
+image: /media/partners/Cambodia_Partners
 image-banner: cambodia_banner
 ---
 
