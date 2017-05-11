@@ -8,22 +8,21 @@ contact: <a href="/team/karen-legrand">Dr. Karen LeGrand</a><br><a href="/team/g
 partners: <a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phnom Penh</a><br><a href="http://ubb.edu.kh/">University of Battambang</a><br><a href="http://horticulture.ucdavis.edu/">Horticulture Innovation Lab</a><br><a href="http://www.oired.vt.edu/ipmil/">Integrated Pest Management (IPM) Innovation Lab</a><br><a href="http://www.ucop.edu/">University of California Office of the President</a><br>
 permalink: /countries/cambodia
 image-banner: cambodia_banner
+image: /media/partners/Cambodia_Partners
 ---
-
-<img src="/media/partners/Cambodia_partners.png">
 
 The partnership between UC Davis, Royal University of Agriculture (RUA), and University of Battambang (UBB) builds on a USAID project aiming to develop and cultivate a safe vegetable value chain (SVVC) within Cambodia to ease food security issues. <br>
 
 Collaboration between UC Davis and RUA begain in Kandal province in 2010 with funding from the Horticulture Innovation Lab. Since then, the team has expanded to include University of Battambang in Battambang province, the Integrated Pest Management (IPM) Innovation Lab, the USAID Borlaug Global Food Security Program, the University of California Office of the President (UCOP), and the International Society for Horticulture Science. <br>
 
 
-### Thematically, the UC Davis & RUA team addresses:
+<b>Thematically, the UC Davis & RUA team addresses:</b>
 -	Limitations in horticulture and postharvest practices that affect phyto-sanitation and year-round availability of safe vegetables, focusing on market linkages and how problems can be solved through innovative technologies and training.
 -	Promotion of trust and long-term business relationships between actors in the safe vegetable value chain.
 -	Limitations in cold-chain distribution, marketing and selling of safe vegetables to access domestic markets for safe vegetables, increasing local economic activity.
 -	Scaling of successful technologies, practices and market linkages across Kandal and Battambang Provinces, and eventually country-wide. <br>
 
-### Integrated and interdependent objectives of ongoing activities include:
+<b>Integrated and interdependent objectives of ongoing activities include:</b>
 -	Pilot- and field-testing various horticulture and postharvest technologies with potential to improve the safe vegetable value chain
 -	Researching approaches that promote innovation and adoption of useful technologies
 -	Strengthening market linkages that support the emerging safe vegetable market in Cambodia
