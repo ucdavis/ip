@@ -9,6 +9,7 @@ partners: <a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phno
 permalink: /countries/cambodia
 image-banner: cambodia_banner
 image: /media/partners/Cambodia_Partners
+image-caption: Royal Univeristy of Agriculture (RUA), UC Davis, University of Battambang (UBB)
 ---
 
 <b>The partnership between the Royal University of Agriculture (RUA), UC Davis, and University of Battambang (UBB) builds on a USAID project aiming to develop and cultivate a safe vegetable value chain (SVVC) within Cambodia to ease food security issues. </b><br>
