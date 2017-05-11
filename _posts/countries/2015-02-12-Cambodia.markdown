@@ -11,7 +11,7 @@ image-banner: cambodia_banner
 image: /media/partners/Cambodia_Partners
 ---
 
-The partnership between UC Davis, Royal University of Agriculture (RUA), and University of Battambang (UBB) builds on a USAID project aiming to develop and cultivate a safe vegetable value chain (SVVC) within Cambodia to ease food security issues. <br>
+<b>The partnership between UC Davis, Royal University of Agriculture (RUA), and University of Battambang (UBB) builds on a USAID project aiming to develop and cultivate a safe vegetable value chain (SVVC) within Cambodia to ease food security issues. </b><br>
 
 Collaboration between UC Davis and RUA begain in Kandal province in 2010 with funding from the Horticulture Innovation Lab. Since then, the team has expanded to include University of Battambang in Battambang province, the Integrated Pest Management (IPM) Innovation Lab, the USAID Borlaug Global Food Security Program, the University of California Office of the President (UCOP), and the International Society for Horticulture Science. <br>
 
