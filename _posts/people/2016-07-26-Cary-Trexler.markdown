@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Cary J. Trexler, PhD
-contact-title: Associate Professor, School of Education and Joint Appointment in the College and Agricultural and Environmental Sciences Vietnam/Cambodia/Haiti
+contact-title: Associate Professor, School of Education and Joint Appointment in the College and Agricultural and Environmental Sciences
 category: "person"
 phone:
 email: cjtrexler@ucdavis.edu

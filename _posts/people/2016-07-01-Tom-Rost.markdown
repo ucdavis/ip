@@ -1,11 +1,11 @@
 ---
 layout: person
 contact-name: Tom Rost, PhD
-contact-title: Curricula Development Specialist, International Programs Office, Professor Emeritus, Department of Plant Biology, College of Biological Sciences
+contact-title: Curricula Development Specialist, CA&ES Intl Programs<br>Professor Emeritus, Department of Plant Biology, College of Biological Sciences
 category: "person"
 phone: 530-752-0628
 email: tlrost@ucdavis.edu
-image: /media/team/troast
+image: /media/team/trost
 permalink: /team/tom-rost
 tags:
 - Administration

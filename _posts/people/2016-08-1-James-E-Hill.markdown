@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: James E. Hill, PhD
-contact-title: Associate Dean Emeritus, International Programs Office, College of Agricultural and Environmental Sciences, Rice Specialist, CE Extension
+contact-title: Associate Dean Emeritus, International Programs Office, College of Agricultural and Environmental Sciences<br>Rice Specialist, CE Extension
 category: "person"
 email: jehill@ucdavis.edu
 image: /media/team/jehill
