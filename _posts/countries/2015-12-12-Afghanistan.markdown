@@ -4,7 +4,7 @@ title:  "Afghanistan"
 description: "AAEP II seeks to build the capacity of Afghanistan’s Ministry of Agriculture, Irrigation, and Livestock and selected Directorates to deliver effective extension services to rural clientele in targeted regions across Afghanistan."
 date:   2015-12-01 16:25:17
 category: "country"
-contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a><br/><a href="mailto:mark.andrew.bell@gmail.com">Mark Bell</a>
+contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a><br>
 permalink: /countries/afghanistan
 image-banner: afghanistan_banner
 ---

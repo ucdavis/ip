@@ -4,7 +4,7 @@ title:  "China"
 description: "IPO is presently collaborating with Cornell University to implement e-China Apple."
 date:   2015-09-01 16:25:17
 category: "country"
-contact: <a href="mailto:mhzhang@ucdavis.edu">Dr Minghua Zhang</a>, <a href="mailto:jehill@ucdavis.edu">Jim Hill</a> and <a href="mailto:mark.andrew.bell@gmail.com">Mark Bell</a>
+contact: <a href="mailto:mhzhang@ucdavis.edu">Dr Minghua Zhang</a>, <a href="mailto:jehill@ucdavis.edu">Jim Hill</a>
 permalink: /countries/china
 image-banner: china_banner
 ---

@@ -4,7 +4,7 @@ title:  "Pakistan"
 description: "Educating the next generation of scientists, engineers, and policy makers through innovative academic programs."
 date:   2015-02-12 16:25:17
 category: "country"
-contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a><br/><a href="mailto:tlrost@ucdavis.edu">Tom Rost</a><br/><a href="mailto:lferguson@ucdavis.edu">Louise Ferguson</a><br/><a href="mailto:mark.andrew.bell@gmail.com">Mark Bell</a>
+contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a><br/><a href="mailto:tlrost@ucdavis.edu">Tom Rost</a><br/><a href="mailto:lferguson@ucdavis.edu">Louise Ferguson</a><br/>
 permalink: /countries/pakistan
 image-banner: pakistan_banner
 ---
