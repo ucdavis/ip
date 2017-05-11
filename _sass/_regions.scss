@@ -92,6 +92,10 @@
         background-image: url("/media/banners/chile_banner.jpg");
         @extend .banner--china_banner;
     }
+    &.banner--cambodia_banner {
+        background-image: url("/media/banners/cambodia_banner.jpg");
+        @extend .banner--china_banner;
+    }
     &.banner--guatemala_banner {
         background-image: url("/media/banners/guatemala_banner.jpg");
         @extend .banner--china_banner;

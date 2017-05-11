@@ -1,0 +1,40 @@
+---
+layout: country
+title:  "Cambodia"
+description: "**"
+date:   2015-02-12 16:25:17
+category: "country"
+contact: <a href="/team/karen-legrand">Dr. Karen LeGrand</a><br><a href="/team/glenn-young">Dr. Glenn Young</a><br><a href="/team/cary-trexler">Dr. Cary Trexler</a><br><a href="/team/g-david-miller">Dr. David Miller</a><br>
+partners: <img class="align-self:center" src="/media/partners/RUA_Seal"><br><a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phnom Penh</a><br><img class="align-self:center" src="/media/partners/UBB_Seal"><br><a href="http://ubb.edu.kh/">University of Battambang</a><br>
+permalink: /countries/cambodia
+image-banner: cambodia_banner
+---
+
+Through our partnerships and collaborations, UC Davis helps to address challenges in establishing governance structures, improving curriculum and teaching practices, and upgrading graduate programs and research to meet client (industry, civil society, and government) needs.
+
+<div class="relatedprojects">
+
+<h3>Related Activities</h3>
+	{% for post in site.tags.cambodia limit:3 %}
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+	    <div class="relatedprojects__card">
+	        <h4>
+	              {{ post.title }}
+	            </h4>
+	        <p class="feed-description">{{ post.description }}</p>
+	        <p class="primary-color">Learn More</p>
+	    </div>
+    </a>
+    {% endfor %}
+</div>
+
+<h3>Associated Training</h3>
+<ul>
+<li>Graduate Training (C/- Dr Tom Rost)</li>
+<li>Perennial tree research (C/- Dr Louise Ferguson)</li>
+<li>e-Pak Ag looking at the application of ICT to enhance project impact (C/- Dr Mark Bell), and e-Pak Ag</li>
+<li>Vocational Training (C/- Dr Mark Bell)</li>
+</ul>
+
+
+The USPCAS-AFS will serve as a focal point for collaborative research and training among all nodes of agricultural sciences related to food security. It will build a cohesive scientific community and provide a suitable platform to enable cutting edge agricultural research to address current problems being faced by the society at large.

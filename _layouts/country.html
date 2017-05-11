@@ -34,6 +34,16 @@ layout: default
           {% if page.contact %}
           <h3>Contact</h3>
           <p>{{ page.contact }}</p>
+          {% endif %} {% if page.partners %}
+          <h3>Partners</h3>
+          <p>{{ page.partners }}</p>
+          {% endif %} {% if page.sponsors %}
+          <h3>Sponsors</h3>
+          <p>{{ page.sponsors }}</p>
+          {% endif %} {% if page.more-info %}
+          <h3>More information</h3>
+          <p><a target="_blank">{{ page.more-info }}</a></p>
+
           {% endif %}
   {% include countrylist.html %}
         </aside>
