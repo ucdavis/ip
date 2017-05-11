@@ -16,12 +16,13 @@ The partnership between UC Davis, Royal University of Agriculture (RUA), and Uni
 Collaboration between UC Davis and RUA begain in Kandal province in 2010 with funding from the Horticulture Innovation Lab. Since then, the team has expanded to include University of Battambang in Battambang province, the Integrated Pest Management (IPM) Innovation Lab, the USAID Borlaug Global Food Security Program, the University of California Office of the President (UCOP), and the International Society for Horticulture Science. <br>
 
 
-Thematically, the UC Davis & RUA team addresses:
+#### Thematically, the UC Davis & RUA team addresses:
 -	Limitations in horticulture and postharvest practices that affect phyto-sanitation and year-round availability of safe vegetables, focusing on market linkages and how problems can be solved through innovative technologies and training.
 -	Promotion of trust and long-term business relationships between actors in the safe vegetable value chain.
 -	Limitations in cold-chain distribution, marketing and selling of safe vegetables to access domestic markets for safe vegetables, increasing local economic activity.
 -	Scaling of successful technologies, practices and market linkages across Kandal and Battambang Provinces, and eventually country-wide. <br>
-Integrated and interdependent objectives of ongoing activities include:
+
+#### Integrated and interdependent objectives of ongoing activities include:
 -	Pilot- and field-testing various horticulture and postharvest technologies with potential to improve the safe vegetable value chain
 -	Researching approaches that promote innovation and adoption of useful technologies
 -	Strengthening market linkages that support the emerging safe vegetable market in Cambodia
