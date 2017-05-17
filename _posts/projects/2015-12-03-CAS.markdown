@@ -43,6 +43,18 @@ With a population of nearly 200 million, food security has been a protracted cha
 - <a href="/profiles/USPCAS/dr_syed_aftab_wajid">Dr. Syed Aftab Wajid, Asst. Professor, Dept. of Agronomy, UAF</a><br>
 - <a href="/profiles/USPCAS/dr_khuram_zia">Dr. Khuram Zia, Manager of Technology Transfer, Office of Research, Innovation, and Commercialization, UAF</a>
 
+### e-Newsletter Archives
+
+<style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 12px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+<script language="javascript" src="//ucdavis.us15.list-manage.com/generate-js/?u=29d90a2ec1d4171e36b1bc48c&fid=1403&show=10" type="text/javascript"></script>
+
+
+
 ### Media Mentions:
 - <a href="https://www.ucdavis.edu/news/uc-davis-and-pakistan-launch-17-million-food-and-agricultural-partnership">UC Davis and Pakistan launch $17 million food and agricultural partnership<a/> (October 2015)<br>
 
