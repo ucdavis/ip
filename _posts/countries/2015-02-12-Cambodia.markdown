@@ -16,6 +16,12 @@ image-caption:
 
 Collaboration between UC Davis and RUA began in Kandal province in 2010 with funding from the Horticulture Innovation Lab. Since then, the team has expanded to include University of Battambang in Battambang province, the Integrated Pest Management (IPM) Innovation Lab, the USAID Borlaug Global Food Security Program, the University of California Office of the President (UCOP), and the International Society for Horticulture Science. <br>
 
+### Media Mentions
+- <a href="https://feedthefuture.gov/article/cambodian-farmers-reach-new-buyers-fresh-approach">Feed the Future Newsletter: Cambodian Farmers Reach New Buyers with a Fresh Approach</a> (May 2017) <br>
+- <a href="https://horticultureinnovationlab.exposure.co/cambodia-vegetables-from-field-to-market">Horticulture Innovation Lab Photo Essay: Vegetables from Field to Market</a> (July 2016) <br>
+
+<br>
+
 <b>What is a safe vegetable value chain (SVVC)?</b><br>
 Safe vegetables promote health, as they are typically free from chemical and microbiological hazards. A safe vegetable value chain (SVVC) includes all of the linked market actors, from local farmers to agricultural suppliers to market purveyors to consumers themselves. <br>
 
@@ -39,6 +45,8 @@ Our team’s approach to identifying and solving challenges is based on particip
 
 
 
+
+<!--
 <div class="relatedprojects">
 
 <h3>Related Activities</h3>
@@ -53,4 +61,4 @@ Our team’s approach to identifying and solving challenges is based on particip
 	    </div>
     </a>
     {% endfor %}
-</div>
+</div>   -->
