@@ -5,22 +5,19 @@ description: "The University of California, Davis, is partnering with the Royal 
 date:   2015-02-12 16:25:17
 category: "country"
 contact: <a href="/team/karen-legrand">Dr. Karen LeGrand</a><br><a href="/team/glenn-young">Dr. Glenn Young</a><br><a href="/team/cary-trexler">Dr. Cary Trexler</a><br><a href="/team/g-david-miller">Dr. David Miller</a><br>
-partners: <a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phnom Penh</a><br><a href="http://ubb.edu.kh/">University of Battambang</a><br><a href="http://horticulture.ucdavis.edu/">Horticulture Innovation Lab</a><br><a href="http://www.oired.vt.edu/ipmil/">Integrated Pest Management (IPM) Innovation Lab</a><br><a href="http://www.ucop.edu/">University of California Office of the President</a><br>
+partners: <a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phnom Penh</a><br><a href="http://ubb.edu.kh/">University of Battambang</a><br><a href="http://horticulture.ucdavis.edu/main/projects/cambodia-safe-vegetables.html">Horticulture Innovation Lab</a><br><a href="http://www.oired.vt.edu/ipmil/">Integrated Pest Management (IPM) Innovation Lab</a><br><a href="http://www.ucop.edu/">University of California Office of the President</a><br>
 permalink: /countries/cambodia
 image-banner: cambodia_banner
 image: /media/partners/Cambodia_Partners
 image-caption:
 ---
 
-<b>The partnership between the Royal University of Agriculture (RUA), UC Davis, and University of Battambang (UBB) builds on a USAID project aiming to develop and cultivate a safe vegetable value chain (SVVC) within Cambodia to ease food security issues. </b><br>
+<b>The partnership between the Royal University of Agriculture (RUA), UC Davis, and University of Battambang (UBB) aims to develop and cultivate a safe vegetable value chain (SVVC) within Cambodia to ease food security issues, and is supported by the Horticulture Innovation Lab with funding from the U.S. Agency for International Development, as part of the U.S. government’s global hunger and food security initiative called <a href="https://feedthefuture.gov/">Feed the Future</a>.</b><br>
 
 Collaboration between UC Davis and RUA began in Kandal province in 2010 with funding from the Horticulture Innovation Lab. Since then, the team has expanded to include University of Battambang in Battambang province, the Integrated Pest Management (IPM) Innovation Lab, the USAID Borlaug Global Food Security Program, the University of California Office of the President (UCOP), and the International Society for Horticulture Science. <br>
 
 ### Media Mentions
-- <a href="https://feedthefuture.gov/article/cambodian-farmers-reach-new-buyers-fresh-approach">Feed the Future Newsletter: Cambodian Farmers Reach New Buyers with a Fresh Approach</a> (May 2017) <br>
-- <a href="https://horticultureinnovationlab.exposure.co/cambodia-vegetables-from-field-to-market">Horticulture Innovation Lab Photo Essay: Vegetables from Field to Market</a> (July 2016) <br>
-
-<br>
+- <a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=23237">UCANR Food Blog: Building Trust in Food Systems in the US and in Cambodia</a> (February 2017) <br>
 
 <b>What is a safe vegetable value chain (SVVC)?</b><br>
 Safe vegetables promote health, as they are typically free from chemical and microbiological hazards. A safe vegetable value chain (SVVC) includes all of the linked market actors, from local farmers to agricultural suppliers to market purveyors to consumers themselves. <br>
