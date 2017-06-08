@@ -1,6 +1,6 @@
 ---
 layout: person
-contact-name: M. Javed Iqbal
+contact-name: M. Javed Iqbal, PhD
 contact-title: Technical Coordinator, U.S.-Pakistan Center for Advanced Stuides in Agriculture and Food Security
 category: "person"
 phone:
@@ -10,3 +10,10 @@ permalink: /team/javed-iqbal
 tags:
 - Administration
 ---
+
+Dr. M. Javed Iqbal coordinates the student and scholar exchanges and research grants provided under the USPCAS-AFS, a USAID funded program at the UC Davis and University of Agriculture, Faisalabad, Pakistan. After getting his PhD from UIUC, he worked on developing DNA markers for disease resistance in soybean and studied plant pathogen interactions at molecular level. He is author/co-author of over <a href="https://scholar.google.com/citations?user=8_-bggcAAAAJ&hl=en">50 research publications in the fields of plant sciences, food and nutrition and microbiology</a>. His research experience includes working with major crops such as wheat, soybean and cotton; ornamental plants like rhododendron, daylily and orchids; animal models of obesity such as Obese Zucker Rats; and fungal plant pathogen Fusarium virguliforme.  His research has been funded by state and federal funding agencies. Dr. Iqbal managed a NSF funded research project “Transformative research on the construction of high-resolution physical maps for large plant genomes” for three years, and coordinated international research activities of another NSF funded project on “Development of forage and cereal crops for agriculture on salinized soils”.
+
+EDUCATION
+PhD; Plant Molecular Genetics, Department of Agronomy, University of Illinois at Urbana-Champaign, IL; 1994
+MSc; Botany, University of the Punjab, Lahore, Pakistan; 1987
+BSc; Biological Sciences, University of the Punjab, Lahore, Pakistan; 1985
