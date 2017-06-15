@@ -4,7 +4,7 @@ title: Sarah Adcock
 description: A RIFA fellow researching diary cattle identification methods in Sri Lanka
 permalink: /profiles/RIFA/sarah
 image: /media/profiles/Adcock
-image-caption: Saah Adcock, interviewing dairy farmers in Sri Lanka.
+image-caption: Sarah Adcock, interviewing dairy farmers in Sri Lanka.
 image-banner: india_banner
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
 ---
