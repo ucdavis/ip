@@ -5,7 +5,7 @@ description: A RIFA fellow researching forest conservation in faxinal communitie
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/flavia
 image: /media/profiles/Oliveira
-image-caption: Flavia, holding a box of pine nuts from at an agricultural fair in Brazil.
+image-caption: Flavia, holding a box of pine nuts from an agricultural fair in Brazil.
 image-banner: chile_banner
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
 ---
