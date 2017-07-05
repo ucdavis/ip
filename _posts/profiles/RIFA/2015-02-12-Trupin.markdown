@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title: Ian Trupin
-description: A RIFA fellow's experience with a HALI course in Tanzania
+description: A RIFA fellow's experience with "One Health" problem solving in Tanzania and Rwanda
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/ian
 image: /media/profiles/Ian
