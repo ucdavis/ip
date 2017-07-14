@@ -1,0 +1,27 @@
+---
+layout: profiles
+title: Israel Jimenez Luna
+description: A RIFA fellow researching the spread of root rot in the Chilean walnut industry
+date:   2015-02-12 16:25:17
+permalink: /profiles/RIFA/israel
+image: /media/profiles/Israel
+image-caption: Israel (left) with RIFA fellow Graeme Baird and PUCV master's student Jeanette Guajardo surveying a 120 hectare walnut orchard and colelcting samples for lab analysis.
+image-banner: chile_banner
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+---
+
+Israel Jimenez Luna is a Plant Biology PhD student at UC Riverside and a RIFA fellow at Pontificia Universidad Católica de Valparaíso (PUCV) in Chile. He arrived to Chile mid-June to focus his research on the effects of root rot in walnut trees and the potential management techniques or biological interventions that may reduce the susceptibility of walnuts to this widespread pathogen. In Chile, the Phytophthora species produces spores that can penetrate the root, branches and crown of trees and cause tissue decay when the soil is wet. This pathogen currently accounts for up to a 25% loss in total annual production of walnuts grown in Chile for the processing industry. The orchards for the processing industry are usually direct-seeded and furrow irrigated, likely increasing the infection of trees by Phytophtora  due to the fact that water stagnates and thus providing the environmental conditions for zoospores to develop. <br>
+
+Israel is working with a RIFA fellow from UC Santa Cruz, Graeme Baird, to develop an integrated management plan that includes recommendations about irrigation management, nitrogen fertilization, fungicide use, and rootstocks resistant to Phytophthora. He hopes to create a manual detailing this management plan as well as the team’s research methods. Perhaps the most critical part of the project will be developing a strategy to get the recommendation manual in the hands of Chilean farmers. Israel wants to convey the appropriate knowledge and techniques that will help walnut growers minimize the spread and infection of rot root. <br>
+
+Israel began farmer surveys to assess the degree of pathogenicity in different walnut cultivars. He asks questions about the trees’ symptoms, current management strategies and treatments used, and yield of each orchard. He also collects samples from trees in each field and analyzes them to confirm if Phytophthora is present. <br>
+
+According to Israel, one of the project’s early challenges is getting farmers’ buy-in and cooperation. Farmers have been unwilling to share information about their management practices and degree of input use, and sometime block Israel and his colleagues from taking walnut samples back to the lab to test. The team is trying to overcome this issue by being very transparent about the purpose of the data collection and what the hope to accomplish by evaluating different orchards. They are also giving farmers advice about beneficial management strategies for walnut production that can improve tree health and yield. <br>
+
+Another component of Israel’s project is to attend workshops such as ChileNut that took place in Termas del Corazon in Los Andes. The goal is to gain more knowledge through national and international seminars, workshops, courses, field activities about walnut production. Through ChileNut, publications and reports and the execution of all kinds of initiatives will allow to deliver technical information that will be available to the walnut community for better grow and commercialization of walnuts. <br> 
+
+Israel will return to UC Riverside in mid-September, by which time he hopes to have his final report and recommendations completed. <br>
+	
+<br>
+
+<p><i>Written by Kate Wilkins.</i></p>
