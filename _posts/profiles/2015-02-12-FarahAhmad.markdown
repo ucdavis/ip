@@ -16,9 +16,8 @@ Farah Ahmad has become infamous among other USPCAS-AFS doctoral students because
 
 Seven months later, the chemistry student from UAF showed none of that nervousness when she presented whole-wheat chapatis to Bill Gates. Ms. Ahmad was invited to the Bread Lab, an interdisciplinary kitchen research unit of Washington State University, by Dr. Steve Jones, a USPCAS-AFS research grant collaborator.  Her visit to the Bread Lab allowed her to present some of her project research on modified cereal brans in edible form. <br>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/mbhXJLCdXaU" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/mbhXJLCdXaU" frameborder="0" allowfullscreen></iframe>
 
-<br>
 
 Ms. Ahmad’s research focuses on analyzing the enzymes and proteins within cereal brans, with the end goal of improving bran consumption in the Pakistani diet and marketplace. Brans are an important component of any whole grain flour, and bran is rich in phytochemicals, minerals, and dietary fiber. <br>
 
