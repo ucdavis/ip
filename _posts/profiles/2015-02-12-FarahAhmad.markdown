@@ -4,7 +4,7 @@ title:  Farah Ahmad
 description: A UAF doctoral candidate works on biochemical, functional, and end-use perspectives of modified cereal brans.
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/farah_ahmad
-image: /media/profiles/farah_ahmad
+image: /media/profiles/Farah_Ahmad
 image-caption: Doctoral candidate Farah Ahmad works to analyze monosaccarides while in the lab of Dr. Carlito Lebrilla.
 image-banner: pakistan_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
