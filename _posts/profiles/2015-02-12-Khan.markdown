@@ -1,0 +1,33 @@
+---
+layout: profiles
+title:  Dr. Imran Khan
+description: A UAF researcher investigates the potential to strengthen perennial grasses as a climate-resistant source of biofuels.
+date:   2015-02-12 16:25:17
+permalink: /profiles/USPCAS/dr_imran_khan
+image: /media/profiles/Imran_Khan
+image-caption: Dr. Imran Khan presents his research findings during his USPCAS-AFS exit seminar.
+image-banner: pakistan_banner
+sponsoring-agency: <img src="/media/sponsors/usaid.svg">
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a>
+---
+
+With the onset of changing climate conditions, the need for renewable energy sources that require minimal inputs is rapidly becoming a key area for research investigation. One UAF professor decided to address that avenue of research during his six-month visit to UC Davis.  
+Dr. Imran Khan is a Lecturer in the Department of Agronomy at the University of Agriculture, Faisalabad. He spent the first six months of 2017 working in the Plant Reproductive Biology Lab managed by Dr. Eduardo Blumwald, studying the various mechanisms of salt tolerance in perennial grasses. Dr. Khan was one of the awarded grant recipients from the Round 1 Research Grants funded through the USPCAS-AFS. Originally visiting UC Davis to conduct research on drought tolerance in wheat, Dr. Khan quickly found other avenues for his investigative inquiry. <br>
+
+“Perennial grasses are very important because in the near future, they will be used as a renewable energy sources,” states Dr. Khan. “They intercept more solar radiation, making them more efficient than other plants. They also require less fertilizer and less water, and increase soil organic matter. Worldwide, perennial grasses are predicted to account for approximately 16 billion gallons of biofuels by the year 2022.”<br>
+
+Salinity is a major abiotic stressor on crops, and is associated with both soil erosion and drought stress. In Pakistan, over six million hectares are affected by high salinity levels. Excessive soil salinity has caused several different adaptations within perennial grasses: some plants have developed specific metabolic reactions to synthesize solutes, and others have developed anatomical or developmental adaptations such as salt glands on leaves or a slower overall growth rate.<br>
+
+Dr. Khan’s research focused on <i>Brachypodium Sylvaticum</i>, which is used is a model for other perennial grasses in the Plant Sciences lab. The genus brachypodium is related to both wheat and rice, and the grass (also known as false brome) is easy to grow and has a small genome which recently was catalogued.  When Dr. Khan arrived at Dr. Blumwald’s lab, thirteen accessions of <i>Brachypodium Sylvaticum<i> genotypes were available, and experiments on sodium-to-potassium uptake ratios were underway. Dr. Khan decided to focus on understanding the salt tolerance mechanism of two contrasting Brachypodium Sylvaticum accessions at the gene, cell, and whole plant levels. <br>
+
+To investigate the salt tolerance of the grass varieties, Dr. Khan started several seedlings and then transferred the starts to a hydroponic grow system. When the starts were three weeks old, he began to apply different levels of salt stress to the growth media and recorded measurements on the levels of shoot biomass, root biomass, and levels of potassium and sodium ions expressed in both the roots and stalks of the grasses. Dr. Khan also collected xylem sap from the grasses for a secondary measure of potassium and sodium ions present in the young plants. His results showed that grass varieties with a greater potassium-to-sodium ratio in a controlled setting tend to be more salt tolerant than varieties with a low potassium-to-sodium ratio.  <br>
+
+Since Dr. Khan teaches classes at UAF, he sought to improve his teaching methods by attending several workshops hosted by the UC Davis Center for Educational Effectiveness. “These workshops will help me improve my lecturing when I return to my university,” stated Dr. Khan. Alongside the CEE workshops, Dr. Khan also participated in laboratory safety trainings, workshops hosted by the California Crop Improvement Association and the Seed Central Forums. <br>
+
+
+The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
+<br>
+
+<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i><br>
+
+<p><i>Profile written by Levi McGarry.</i></p>
