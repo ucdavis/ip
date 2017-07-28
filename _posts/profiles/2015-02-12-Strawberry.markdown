@@ -4,7 +4,7 @@ title:  Dr. Ishtiaq Rajwana and Dr. Raheel Anwar
 description: Two Pakistani horticulturists travel to California to examine postharvest practices and strawberry cultivation.
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/strawberry
-image: /media/profiles/farmers_delegation
+image: /media/profiles/Rajwana_Anwar
 image-caption: Dr. Rajwana and Dr. Anwar speak to Dr. Steve Fennimore, UC Extension Specialist, and examine strawberry fields.
 image-banner: pakistan_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
