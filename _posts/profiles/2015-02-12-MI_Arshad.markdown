@@ -1,0 +1,58 @@
+---
+layout: profiles
+title:  Dr. M. Imran Arshad
+description: A UAF researcher spends three months at UC Davis investigating disease vectors through the lens of "One Health".
+date:   2015-02-12 16:25:17
+permalink: /profiles/USPCAS/dr_imran_arshad
+image: /media/profiles/Imran_Arshad
+image-caption: Dr. M. Imran Arshad
+image-banner: pakistan_banner
+sponsoring-agency: <img src="/media/sponsors/usaid.svg">
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a>
+---
+As part of the development of a One Health Certificate at the University of Agriculture, Faisalabad (UAF), Dr. Muhammad Imran Arshad spent over three months on exchange at the University of California, Davis (UCD) as part of the research team in Dr. Janet Foley’s laboratory in the Department of Medicine and Epidemiology. USPCAS-AFS spoke with Dr. Arshad in July to learn more about his experiences and research interests. <br>
+
+USPCAS-AFS: Can you describe your specific area of research? <br>
+
+Dr. Arshad: I focus on vector-transmitted diseases: you can say mosquito-borne diseases or tick-borne diseases. These can be bacterial diseases or viral diseases transmitted at the human/animal interface. So (in Pakistan) we are dealing with zoonotic diseases, and the purpose of my visit here was part of the project to complete hands-on training for techniques to diagnose these vector-borne diseases and at the same time, to prevent and control these diseases. <br>
+
+Secondly, my plan was to work on the One Health curriculum at UAF. For that, actually, I got funding and a fellowship from the National Academy of Sciences here in the U.S. for one year. After that, I was taken under the umbrella of the USPCAS project and began working on the One Health Initiative at UAF. One Health is an interdisciplinary approach to tackle or to manage or control the diseases at the animal/environmental/human interface. So these diseases have many factors of transmissions, and they can be controlled by this approach. We can incorporate, for example, plant biologists, environmental scientists, animal scientists, and medical professionals together to prevent diseases which are faced by human beings.  The ultimate goal is to enhance the quality of life for humans. <br>
+
+USPCAS-AFS: Who is your mentor who you are working with while at UC Davis?<br>
+
+Dr. Arshad:  Here I am working with Janet Foley—she has expertise in vector-borne diseases, especially tick-borne diseases. So here I’ve worked on diseases which are transmitted by ticks on the animal/human interface, and have looked into the vector ecology of those transmissions.<br>
+
+Did you have any interesting lab experiences or research activities while at Davis?<br>
+
+Regarding research, it was a nice experience. It is a good and reputable lab, and luckily I am here to collaborate and to serve. The main areas of training that I received was about the ecological part of the disease. So, that—so, to see how we can correlate the disease common factors with the ecological factors or the environmental factors. This was the major addition to my knowledge and addition in the thematic area of my research, aside from some other techniques that I learned. Working in Dr. Foley’s lab was a great experience—very friendly environment, open discussions, club seminars, lab meetings, brainstorming all the time. <br>
+
+USPCAS-AFS: Can you be more specific about the ecological disease factors you investigated?<br>
+
+Dr. Arshad:  This refers to the climatic changes, the geo-climactic conditions… the variations in environment that we’ve seen in Pakistan and here in Davis—for example, there was a rainy winter in California this year where there were drought conditions before, so these driving conditions either enhance or decrease instances of disease. <br>
+
+We have the same time of conditions in Pakistan, where we have four seasons, and in some seasons the vector density is increased, so when the vector density is increased, there is more risk of a disease spreading, or an outbreak of a disease. In Dr. Foley’s lab they are working on many vectors, and many host species; at UAF we have just been working on one or two diseases. It’s a wider experience here, because we have many hosts and many vectors here to study. If you take the example of tick-borne diseases, like lyme disease with many vectors and ecological conditions that spread the disease. For example, rodent species, dog species, even squirrels, woodrats, voles… the species diversity is greater, so you have more diverse host species and more chances to spread a disease.<br>
+
+In our country, similarly, during some seasons we have increased vector density—for example, on the Eid festival, there is a large movement of animals (for consumption), so that can enhance the spread of a disease because vectors are transported to different areas. During Eid, animals are moved from all over the country, even across the border from Afghanistan to Pakistan, so this migration, along with other variations in geo-climatic conditions, enhances the occurrence of diseases.<br>
+
+USPCAS-AFS: How did you begin your research interests? Did you focus on a specific species, or were you interested in disease vectors?<br>
+
+Dr. Arshad: In Pakistan, I focused on two vectors: mosquitos or ticks. I also focused specific hosts, either cattle or buffalo, animals affected by ticks. It was a limited and focused study. But here, it’s very much been expanded. Luckily, we have many UCD students working on diverse species, like wild rodents, and they are correlating theses populations with the ecological factors. After my stay here in Davis, I am planning to build a project with Dr. Foley to work on disease mapping and related vectors which are present in Pakistan. It will be the same model used here, applied to research in my country, to study greater diversity. Previously, my study was focused on one species, but I’ve learned a lot and expanded my understanding of the complexity involved.<br>
+
+USPCAS-AFS: Did you have any remarkable field experiences during your exchange visit?<br>
+
+Dr. Arshad: I did participate in field experiences as well—we went to the Napa Valley, as well as outside of Vacaville and Lake Berryessa, to track rodent populations. We placed traps in the mountains, left them for three nights, and then captured the animals, tagging them and studying the ticks that were on them. Mostly, we found seasonal variations in the rodent population, and we can extrapolate from that an increase in the insect population. The point of the field project was to correlate the seasonal variations with the rodent populations, which is an intermediate host between a tick population and human populations. It’s a remarkable experience to participate in this type of research—it was my first experience working in the field, trapping animals for three nights and then collecting all those samples for lab analysis and being able to build a mathematical model on population increases and predictions for next season. Once you estimate the size of the tick population, you can estimate the incidence of disease transmission from those vectors. <br>
+
+Part of my exchange here to UC Davis is to work on the One Health Certificate that UAF is offering for its graduate students—I’ve been consulting with the faculty here at the School of Veterinary Medicine to determine the contents and course load for that certificate. I’ve gotten good feeback—in our program, we need to support more practical experience and greater case studies. However, we can do that as the collaboration between UAF and UCD continues in the future. Aside from science, I’ve enjoyed California state very much; there’s a lot of diversity in fauna and flora, so that was remarkable. It was a short stay, but I learned a lot. <br>
+
+Dr. Arshad participated in conversations about One Health activities at both UC Davis and Washington State University in Pullman, and presented at the American Society for Microbiology conference in New Orleans. He has returned to Faisalabad and is working on finalizing recommendations for the UAF proposed One Health Certificate, due to start in September of 2017. <br>
+
+“We cannot have just one or two professors teaching this topic,” says Dr. Arshad. “It should be an interdisciplinary effort, with much of the younger faculty entrusted to teach these topics. Secondly, we can engage our graduate students with the case study research, enabling them to learn more about the topics within the One Health umbrella. We can develop interdisciplinary groups of students- veterinary students, medical students, environmental students, management students- and ask them to think about how to solve disease outbreaks on the local, regional, and national levels. What is their plan? What is their role in addressing these issues? Educating students through these case study analyses will make them strong and effective in the interdisciplinary approach; we cannot simply review the theory of disease spread. This is the whole theme of One Health.” <br>
+
+
+
+The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
+<br>
+
+<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i><br>
+
+<p><i>Profile written by Levi McGarry.</i></p>
