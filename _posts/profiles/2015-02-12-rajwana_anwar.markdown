@@ -3,7 +3,7 @@ layout: profiles
 title: Dr. Ishtiaq Rajwana and Dr. Raheel Anwar
 description: Pakistani researchers from UAF and MNSUAM investigate the best practices for strawberry cultivation and postharvest production.
 date:   2015-02-12 16:25:17
-permalink: /profiles/USPCAS/rajwana_anwar
+permalink: /profiles/USPCAS/strawberry
 image: /media/profiles/Rajwana_Anwar
 image-caption: Top: Dr. Rajwana & Dr. Anwar speak with Dr. Steve Fennimore, UC Extension Specialist. Bottom: Dr. Rajwana inspects strawberry production fields in California.
 image-banner: pakistan_banner
@@ -11,6 +11,7 @@ sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---
 As part of an ongoing effort to expand agricultural knowledge and improve fruit production, USPCAS-AFS recently approved an initial research project investigating how effective planting and postharvest practices can improve strawberry cultivation in Pakistan. <br>
+
 Dr. Ishtiaq Rajwana, Dean of Faculty of Agriculture and Environmental Science at Muhammad Nawaz Shareef University of Agriculture (MNSUAM) in Multan, and Dr. Raheel Anwar, Assistant Professor in Institute of Horticulture Sciences at University of Agriculture, Faisalabad, were selected to travel to California for a three-week intensive short course on fruit postharvest practices and tour of California strawberry cultivation. They, along with Dr. Louise Ferguson of UC Davis, first proposed the concept of investigating strawberry management as a USPCAS-AFS research project. <br>
 
 “We are interested in all aspects of strawberry industry in Pakistan: starting from nursery to transplants to husbandry, harvesting, marketing,” stated Dr. Rajwana. “Our purpose is to see how different segments compare with the California value chain.” <br>
