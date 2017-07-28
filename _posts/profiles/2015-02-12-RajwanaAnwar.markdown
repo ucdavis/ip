@@ -3,7 +3,7 @@ layout: profiles
 title: Dr. Ishtiaq Rajwana and Dr. Raheel Anwar
 description: Pakistani researchers from UAF and MNSUAM investigate the best practices for strawberry cultivation and postharvest production.
 date:   2015-02-12 16:25:17
-permalink: /profiles/USPCAS/rajwana_anwar
+permalink: /profiles/USPCAS/Rajwana_Anwar
 image: /media/profiles/Rajwana_Anwar
 image-caption: Top: Dr. Rajwana & Dr. Anwar speak with Dr. Steve Fennimore, UC Extension Specialist. Bottom: Dr. Rajwana inspects strawberry production fields in California.
 image-banner: pakistan_banner
