@@ -1,0 +1,20 @@
+---
+layout: profiles
+title:  Hafiz Ghulam Muhu Din Ahmad
+description: A UAF doctoral student...
+date:   2015-02-12 16:25:17
+permalink: /profiles/USPCAS/muhu_din_ahmad
+image: /media/profiles/Muhu_Din_Ahmad
+image-caption: Hafiz Ghulam Muhu Din Ahmad, UAF doctoral scholar...
+image-banner: pakistan_banner
+sponsoring-agency: <img src="/media/sponsors/usaid.svg">
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
+---
+
+
+The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
+<br>
+
+<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i><br>
+
+<p><i>Profile written by Levi McGarry.</i></p>
