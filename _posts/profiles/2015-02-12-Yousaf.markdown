@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title:  Haroon Yousaf
-description: A UAF doctoral student...
+description: Working to apply modern social science techniques to quantify food insecurity in rural Pakistan. 
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/haroon_yousaf
 image: /media/profiles/Haroon_Yousaf
@@ -10,6 +10,25 @@ image-banner: pakistan_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---
+Haroon Yousaf is a doctoral student from the Department of Rural Sociology at the University of Agriculture, Faisalabad. His research focus is on food security conditions among farmers and non-farmers in rural households of Punjab. In 2014, the Food and Agriculture Organization of the United Nations (FAO) reported that 26% of households in Pakistan were food insecure, while other reports cited even higher percentages. <br>
+
+“I’m interested in researching why there are still issues of food insecurity in households in Punjab, yet we are producing food surpluses,” states Mr. Yousaf. “Punjab is responsible for over 60% of the food production for the nation of Pakistan. You can say that the province is our national bread basket.” <br>
+
+Mr. Yousaf arrived for his exchange at UC Davis with three objectives in mind. First, he wanted to learn and apply modern research techniques in social science research. Second, he wanted to improve his research thesis. Finally, he wanted to compare and interpret results of different measures of food security. To achieve that end, he was mentored by Dr. William Lacy, Professor of Sociology in the UC Davis Department of Human Ecology and a published expert within the field. <br>
+
+Mr. Yousaf found eleven different methods of quantifying food security, so he focused on familiarizing himself with three methods which he found appropriate for Pakistan: the Household Food Insecurity Access Scale (HFIAS), which investigates the household perspective and anxiety of food access through a series of nine questions; the Household Dietary Diversity Score (HDDS), which looks at personal dietary intake during a 24-hour period; and the Dietary Intake Assessment (DIA), which looks at the caloric consumption of a household on a weekly basis.  <br>
+
+Along with his research into collection techniques and methods for measuring food insecurity, Mr. Yousaf audited classes in socio-spatial analysis, quantitative geography, and an introductory writing course for graduate students. <br>
+
+Dr. Lacy, Mr. Yousaf’s mentor during his time at UC Davis, extolled the value of the USPCAS-AFS. “I think the value of this program, as Haroon talks about food security in terms of availability, access, and utilization, is that not only does USPCAS-AFS provide access to and availability of knowledge, but it teaches scholars how to use that knowledge. You can have a comprehensive training regimen, but if you don’t know how to utilize the knowledge, you cannot access those concepts.”  <br>
+
+At the end of his Mr. Yousaf’s exchange, Dr. Lacy praised his tenacity and thirst for knowledge. “Haroon took more advantage of a program like this than I could have possibly imagined. I wondered how the USPCAS-AFS experience would work, and with his initiative and motivation, he just ran with the opportunity. Haroon took what was a local and regional project about rural farmers and food insecurity, and took it to another level in terms of analysis, sophistication, and utilization of the resources that are available. His literature review was one of the most sophisticated and comprehensive reviews I’ve seen.” <br>
+
+During his exit seminar, Dr. Jan Hopmans asked Mr. Yousaf: “What is your assessment of our library facilities here at UC Davis, and are you planning to try to utilize more access once you return to Faisalabad?” <br>
+
+Mr. Yousaf replied: “The library here is fantastic—in Pakistan, we only have one librarian and we don’t have access to a lot of online databases or journals. Here at UC Davis, you have librarians who have specialized knowledge and who are experts in their field. They can show you how to find and access specific data or articles that pertain to your research. <br>
+
+“Here, it is like heaven for research literature.” <br>
 
 
 The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
