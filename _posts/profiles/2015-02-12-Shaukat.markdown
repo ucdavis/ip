@@ -1,15 +1,26 @@
 ---
 layout: profiles
 title:  Shadab Shaukat
-description: UAF doctoral scholar...
+description: A UAF doctoral student investigates the genes responsible for tiller growth in wheat. 
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/shadab_shaukat
 image: /media/profiles/Shadab_Shaukat
-image-caption: Shadab Shaukat, UAF doctoral scholar...
+image-caption: Shadab Shaukat works to plant wheat populations for molecular study while on exchange in the WSU lab of Dr. Kulvinder Gill.
 image-banner: pakistan_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---
+Shadab Shaukat is a doctoral student in the Department of Plant Breeding and Genetics at the University of Agriculture, Faisalabad. He recently spent six months as a USPCAS-AFS exchange scholar under the tutelage of Dr. Kulvinder Gill, who manages the Feed the Future Innovation Lab for Drought-Resistant Wheat at Washington State University. <br>
+
+Mr. Shaukat’s research focuses on advanced molecular techniques to improved heat-stress tolerance in wheat. While researching in Dr. Gill’s lab at WSU, he focused on examining wheat genotypes for specific traits. <br>
+
+One of the main focal points of Mr. Shaukat’s exploration was investigating for genes that control the tillering trait in wheat varieties. When wheat initially sprouts, it begins to form lateral shoots called tillers. This usually begins once a wheat plant has three or more fully developed leaves. Each wheat tiller has the potential to produce grain heads, so higher tiller quantities usually correlate to higher grain yields. <br>
+
+“Tiller numbers in wheat are an important contributor to the wheat yield,” says Mr. Shaukat. “It is also an important trait for the success of hybrid wheat. By understanding the expression and structure analysis of the controlling gene, we will be able to enhance wheat yield by replacing non-productive varieties with more productive traits.” <br>
+
+Along with the tiller genetic investigation, Mr. Shaukat also screened over 300 wheat genotypes for heat tolerance and planted 151 doubled-haploid populations of wheat varieties for further molecular studies. He plans to continue his research through ongoing collaborations with Dr. Gill and the Feed the Future Innovation Lab for Drought-Resistant Wheat. <br>
+
+Mr. Shaukat states: “We are looking for wheat varieties that show high biomass yield in both the control and high-heat situations, because they have the highest probability of being able to withstand a changing climate.” <br>
 
 
 The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>

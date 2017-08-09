@@ -57,7 +57,7 @@ With a population of nearly 200 million, food security has been a protracted cha
 - <a href="/profiles/USPCAS/muhammad_mohsin_waqas">Muhammad Mohsin Waqas, Doctoral Candidate, Dept. of Irrigation and Drainage, UAF</a>
 - <a href="/profiles/USPCAS/haroon_yousaf">Haroon Yousaf, Doctoral Candidate, Dept. of Rural Sociology, UAF</a>
 - <a href="/profiles/USPCAS/muhu_din_ahmad">Hafiz Ghulam Muhu Din Ahmad, Doctoral Candidate, Dept. of Plant Breeding and Genetics, UAF</a>
-- Shadab Shaukat, Doctoral Candidate, Dept. of Plant Breeding and Genetics, UAF
+- <a href="/profiles/USPCAS/shadab_shaukat">Shadab Shaukat, Doctoral Candidate, Dept. of Plant Breeding and Genetics, UAF</a>
 
 
 ### e-Newsletter Archives
