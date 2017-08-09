@@ -1,10 +1,10 @@
 ---
 layout: profiles
 title:  Shadab Shaukat
-description: A UAF doctoral student investigates the genes responsible for tiller growth in wheat. 
+description: A UAF doctoral student investigates the genes responsible for tiller growth in wheat.
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/shadab_shaukat
-image: /media/profiles/Shadab_Shaukat
+image: /media/profiles/Shaukat
 image-caption: Shadab Shaukat works to plant wheat populations for molecular study while on exchange in the WSU lab of Dr. Kulvinder Gill.
 image-banner: pakistan_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
