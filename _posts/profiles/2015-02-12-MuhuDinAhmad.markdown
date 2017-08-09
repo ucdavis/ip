@@ -1,11 +1,11 @@
 ---
 layout: profiles
-title:  Hafiz Ghulam Muhu Din Ahmad
+title:  Hafiz Ghulam Muhu-Din Ahmad
 description: A UAF doctoral student...
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/muhu_din_ahmad
-image: /media/profiles/Muhu_Din_Ahmad
-image-caption: Hafiz Ghulam Muhu Din Ahmad, UAF doctoral scholar...
+image: /media/profiles/Muhu-Din_Ahmad
+image-caption: Hafiz Ghulam Muhu-Din Ahmad, UAF doctoral scholar in the Dept. of Plant Breeding & Genetics at UAF.
 image-banner: pakistan_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
