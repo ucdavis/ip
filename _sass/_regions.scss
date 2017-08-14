@@ -124,6 +124,10 @@
         background-image: url("/media/banners/vietnam_banner.jpg");
         @extend .banner--china_banner;
     }
+    &.banner--market_banner {
+        background-image: url("/media/banners/market_banner.jpg");
+        @extend .banner--china_banner;
+    }
     .banner_contents {
         @include container;
     }
