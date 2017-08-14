@@ -3,7 +3,7 @@ layout: project
 title: INGENAES
 description: Integrating Gender and Nutrition within Agricultural Extension Services (INGENAES) is developing the capacity of agricultural extension in select low-income countries to provide gender-responsive, nutrition-sensitive services.
 category: "project"
-contact: <a href="/team/nikki-grey-rutamu">Nikki Grey Rutamu</a><br><a href="/team/edye-kuyper">Edye Kuyper</a>
+contact: <a href="/team/edye-kuyper">Edye Kuyper</a><br><a href="/team/laina-schneider">Laina Schneider</a><br>
 funding: Supported by USAID
 sponsors: USAID<br>University of Illinois at Urbana-Champaign (Project Lead)<br>University of Florida<br>UC Davis<br>Cultural Practice, LLC
 image-banner: vietnam_banner
@@ -21,5 +21,9 @@ Globally, women make up approximately 43% of the agricultural labor force and ty
 
 ### Recent Articles:
 
-- <a href="/media/files/nutrition-gender/INGENAES_Nutrition_and_Gender_in_Extension_Competency_Framework_(2017_08).pdf">Competency Framework for Integrating Gender and Nutrition within Agriclture Extension Services</a> (August 2017)
-- <a href="/media/files/nutrition-gender/INGENAES_EAS in Zambia_Structures_Services_Roles_Incentives_(2017_08).pdf">Extension and Advisory Services in Zambia: Understanding Structures, Services, Roles, and Incentives</a> (August 2017)
+- <a href="/media/files/nutrition-gender/INGENAES_Nutrition_and_Gender_in_Extension_Competency_Framework_(2017_08).pdf">Competency Framework for Integrating Gender and Nutrition within Agriclture Extension Services</a><br>(Published August 2017; Authors: R. Davis, E. Kuyper, A. Bohn, C. Manfre, S. Russo, D. Rubin)
+- <a href="/media/files/nutrition-gender/INGENAES_EAS in Zambia_Structures_Services_Roles_Incentives_(2017_08).pdf">Extension and Advisory Services in Zambia: Understanding Structures, Services, Roles, and Incentives</a><br>(Published August 2017; Authors: E. Burrows, M. Bell, N. Grey Rutamu)<br>
+
+<br>
+
+<b><a href="http://ingenaes.illinois.edu/library/">Complete Library of INGENAES Publications and Articles (external link)</a></b>
