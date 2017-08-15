@@ -3,7 +3,7 @@ layout: project
 title: INGENAES
 description: Integrating Gender and Nutrition within Agricultural Extension Services (INGENAES) is developing the capacity of agricultural extension in select low-income countries to provide gender-responsive, nutrition-sensitive services.
 category: "project"
-contact: <a href="/team/edye-kuyper">Edye Kuyper</a><br><a href="/team/laina-schneider">Laina Schneider</a><br>
+contact: <a href="/team/edye-kuyper">Edye Kuyper</a><br>
 funding: Supported by USAID
 sponsors: USAID<br>University of Illinois at Urbana-Champaign (Project Lead)<br>University of Florida<br>UC Davis<br>Cultural Practice, LLC
 image-banner: vietnam_banner
