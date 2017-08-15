@@ -1,0 +1,35 @@
+---
+layout: page
+title: Associated Scholar Profiles
+breadcrumbs: Scholar Profiles
+---
+<article>
+
+  <h1>{{ page.title }}</h1>
+
+    <p class="lead">UC Davis offers scholars and students a number of opportunities to pursue international research and experiences, and
+      the CAES International Programs posts links to those opportunities that are most relevant and timely.</p>
+
+    <h3>Scholar Profiles</h3>
+
+    <div class="homepageprojects__contents">
+
+      {% for post in site.categories.profiles limit:3 %}
+              <div class="homepage__project--item"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                  <h2>
+                        {{ post.title }}
+                      </h2>
+                  <p>{{ post.description }}</p>
+              </a></div>
+              {% endfor %}
+    </div>
+</article>
+ <aside>
+   <div class="imagewrapper imagewrapper--fullwidth">
+       <a href="#" data-featherlight="#mylightbox">
+           <img src="/media/scholarsandstudents@2x.jpg" alt="Reviewing vegetables in field" srcset="/media/scholarsandstudents.jpg 1x, /media/scholarsandstudents@2x.jpg 2x">
+       </a>
+       <div id="mylightbox"><img src="/media/scholarsandstudents@2x.jpg" >
+       </div>
+   </div>
+</aside>
