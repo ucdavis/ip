@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/muhammad_mohsin_waqas
 image: /media/profiles/Mohsin_Waqas
 image-caption: Muhammad Mohsin Waqas, UAF doctoral scholar in the Dept. of Irrigation and Drainage, UAF.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---

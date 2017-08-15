@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_imran_arshad
 image: /media/profiles/Imran_Arshad
 image-caption: Dr. M. Imran Arshad
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a>
 ---

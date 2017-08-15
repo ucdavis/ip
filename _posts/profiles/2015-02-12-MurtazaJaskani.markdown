@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/murtaza_jaskani
 image: /media/profiles/Murtaza_Jaskani
 image-caption: Dr. Murtaza and Dr. Jaskani pose with Robert Arneson's "Eye on Mrak" Egghead sculpture outside Mrak Hall.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://cee.ucdavis.edu/">UC Davis Center for Educational Effectiveness (CEE)</a>
 ---

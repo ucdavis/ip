@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_lubna_anjum
 image: /media/profiles/Lubna_IR
 image-caption: Dr. Lubna Anjum operates an infrared camera as part of her field training.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a>
 ---

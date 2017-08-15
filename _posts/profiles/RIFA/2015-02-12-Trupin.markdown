@@ -5,8 +5,9 @@ description: A RIFA fellow's experience with "One Health" problem solving in Tan
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/ian
 image: /media/profiles/Ian
-image-caption: 
+image-caption:
 image-banner: guatemala_banner
+category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
 ---
 After over one month in Tanzania as a RIFA fellow with the Health for Animals and Livelihood Improvement (HALI) Project, I have found myself going in unexpected, though very interesting, directions. My original plan was to interview pastoralists, livestock officers, and university researchers about disease risk factors in the Greater Ruaha Landscape of southern Tanzania, and to map local perceptions of land use change and livestock disease risk with farmer and pastoralist focus groups. Instead, I am in the historic coastal town of Bagamoyo, taking part in a 4-week applied course on “One Health” approaches to zoonotic disease, and preparing to join HALI’s field team on a study tour in northwestern Tanzania when I return. <br>

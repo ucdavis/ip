@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_syed_aftab_wajid
 image: /media/profiles/wajid
 image-caption: Dr. Syed Aftab Wajid speaks about crop prediction modeling tools.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://desp.ucdavis.edu/people/robert-j-hijmans">Dr. Robert Hijmans, Dept. of Environmental Science and Policy, UC Davis</a>
 ---

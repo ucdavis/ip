@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_imran_khan
 image: /media/profiles/Imran_Khan
 image-caption: Dr. Imran Khan presents his research findings during his USPCAS-AFS exit seminar.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a>
 ---

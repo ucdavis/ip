@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/sabin_aslam
 image: /media/profiles/Sabin_Aslam
 image-caption: Sabin Aslam, UAF doctoral scholar in genetic engineering.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---

@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/policy_scholars
 image: /media/profiles/Ag_Policy_Scholars
 image-caption: Clockwise, from upper left- Dr. Tahira Sadaf, Dr. Abdul Ghafoor, Dr. M. Uzair Qamar, & Dr. Azhar Abbas.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://are.ucdavis.edu">Dept. of Agricultural and Resource Economics, UC Davis</a>
 ---

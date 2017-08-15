@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/farah_ahmad
 image: /media/profiles/Farah_Ahmad
 image-caption: Farah Ahmad analyzes monosaccarides while in the lab of Dr. Carlito Lebrilla.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---

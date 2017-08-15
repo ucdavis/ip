@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/uaf_veterinary
 image: /media/profiles/DrsQureshi_Ijaz
 image-caption: Dr. Zafar Qureshi and Dr. Mishba Ijaz
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a>
 ---

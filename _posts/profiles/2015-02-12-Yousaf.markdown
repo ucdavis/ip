@@ -1,12 +1,13 @@
 ---
 layout: profiles
 title:  Haroon Yousaf
-description: Working to apply modern social science techniques to quantify food insecurity in rural Pakistan. 
+description: Working to apply modern social science techniques to quantify food insecurity in rural Pakistan.
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/haroon_yousaf
 image: /media/profiles/Haroon_Yousaf
 image-caption: Haroon Yousaf, UAF doctoral scholar in the Department of Rural Sociology.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---

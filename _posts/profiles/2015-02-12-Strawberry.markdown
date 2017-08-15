@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/strawberry
 image: /media/profiles/Rajwana_Anwar
 image-caption: Dr. Rajwana and Dr. Anwar speak to Dr. Steve Fennimore, UC Extension Specialist, and examine strawberry fields.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---

@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/nabeela_farah
 image: /media/profiles/Nabeela_Farah
 image-caption: Nabeela Farah, UAF doctoral scholar in rural sociology.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---

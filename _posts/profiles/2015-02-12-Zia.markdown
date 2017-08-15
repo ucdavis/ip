@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_khuram_zia
 image: /media/profiles/Zia_Presentation
 image-caption: Dr. Khuram Zia presents his case study findings from his exchange visit to UC Davis.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://www.pipra.org/en/page/Default/index">Public Intellectual Property Resource for Agriculture (PIPRA)</a>
 ---

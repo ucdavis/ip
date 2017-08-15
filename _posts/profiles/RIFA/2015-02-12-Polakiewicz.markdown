@@ -7,6 +7,7 @@ permalink: /profiles/RIFA/kate
 image: /media/profiles/polakiewicz
 image-caption: Kate Polakiewicz, RIFA Fellow and UC Davis IAD graduate student, works with community members in Guatemala.
 image-banner: guatemala_banner
+category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
 ---
 As a graduate student in International Agricultural Development at UC Davis, Kate Polakiewicz works with Catholic Relief Services’ Agriculture, Soils, Water program team to host her graduate field research – a study measuring interactions between soil health and the coffee leaf rust disease. Coffee rust has had widespread detrimental effects in Central America since 2012 and increasingly in México, where producers’ yields and incomes have been significantly reduced. Within a relatively recent timespan, complex races of rust have been shown to break down resistance genes used in C. arabica breeding. As a result, resistant varieties alone cannot be considered the only way to control rust – they should be combined with holistic management strategies, starting with soil.<br>

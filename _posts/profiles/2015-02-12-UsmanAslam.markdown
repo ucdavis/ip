@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/hm_usman_aslam
 image: /media/profiles/Usman_Aslam
 image-caption: Hafiz Muhammad Usman Aslam, UAF doctoral scholar in plant pathology.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
 ---

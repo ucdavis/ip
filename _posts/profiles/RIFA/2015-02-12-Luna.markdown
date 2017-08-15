@@ -7,6 +7,7 @@ permalink: /profiles/RIFA/israel
 image: /media/profiles/Israel
 image-caption: Israel (left) with RIFA fellow Graeme Baird and PUCV master's student Jeanette Guajardo surveying a 120 hectare walnut orchard and colelcting samples for lab analysis.
 image-banner: chile_banner
+category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
 ---
 
@@ -18,10 +19,10 @@ Israel began farmer surveys to assess the degree of pathogenicity in different w
 
 According to Israel, one of the project’s early challenges is getting farmers’ buy-in and cooperation. Farmers have been unwilling to share information about their management practices and degree of input use, and sometime block Israel and his colleagues from taking walnut samples back to the lab to test. The team is trying to overcome this issue by being very transparent about the purpose of the data collection and what the hope to accomplish by evaluating different orchards. They are also giving farmers advice about beneficial management strategies for walnut production that can improve tree health and yield. <br>
 
-Another component of Israel’s project is to attend workshops such as ChileNut that took place in Termas del Corazon in Los Andes. The goal is to gain more knowledge through national and international seminars, workshops, courses, field activities about walnut production. Through ChileNut, publications and reports and the execution of all kinds of initiatives will allow to deliver technical information that will be available to the walnut community for better grow and commercialization of walnuts. <br> 
+Another component of Israel’s project is to attend workshops such as ChileNut that took place in Termas del Corazon in Los Andes. The goal is to gain more knowledge through national and international seminars, workshops, courses, field activities about walnut production. Through ChileNut, publications and reports and the execution of all kinds of initiatives will allow to deliver technical information that will be available to the walnut community for better grow and commercialization of walnuts. <br>
 
 Israel will return to UC Riverside in mid-September, by which time he hopes to have his final report and recommendations completed. <br>
-	
+
 <br>
 
 <p><i>Written by Kate Wilkins.</i></p>

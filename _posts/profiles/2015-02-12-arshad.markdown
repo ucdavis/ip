@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_muhammed_arshad
 image: /media/profiles/arshad
 image-caption: Dr. Muhammed Arshad in the Entomology Lab at UC Davis
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a>
 ---

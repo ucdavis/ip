@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_rana_atif
 image: /media/profiles/Rana_Atif
 image-caption: Dr. Rana Atif works on chickpea cultivars in the Feed the Future Innovation Lab for Climate-Resistant Chickpea at UC Davis.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://chickpealab.ucdavis.edu/">Feed the Future Innovation Lab for Climate-Resistant Chickpea</a><br>
 ---

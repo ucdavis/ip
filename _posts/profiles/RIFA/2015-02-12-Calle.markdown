@@ -7,6 +7,7 @@ permalink: /profiles/RIFA/alicia
 image: /media/profiles/Alicia
 image-caption: RIFA Fellow Alicia walking around in a recovering pasture
 image-banner: pakistan_banner
+category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
 ---
 

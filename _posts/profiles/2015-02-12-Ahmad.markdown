@@ -7,6 +7,7 @@ permalink: /profiles/USPCAS/dr_aftab_ahmad
 image: /media/profiles/ahmad
 image-caption: Dr. Aftab Ahmad presents on how cotton leaf curl virus replicates within the cell.
 image-banner: pakistan_banner
+category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://ucdptf.ucdavis.edu/">Plant Transformations Facility, UC Davis</a>
 ---
