@@ -5,7 +5,7 @@ description: Integrating Gender and Nutrition within Agricultural Extension Serv
 category: "project"
 contact: <a href="/team/edye-kuyper">Edye Kuyper</a><br>
 funding: Supported by USAID
-sponsors: USAID<br>University of Illinois at Urbana-Champaign (Project Lead)<br>University of Florida<br>UC Davis<br>Cultural Practice, LLC
+partners: USAID<br>University of Illinois at Urbana-Champaign (Project Lead)<br>University of Florida<br>UC Davis<br>Cultural Practice, LLC
 image-banner: vietnam_banner
 image: /media/projects/INGENAES/project_banner
 image-caption: Photo credit Mark Bell
