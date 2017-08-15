@@ -124,8 +124,8 @@
         background-image: url("/media/banners/vietnam_banner.jpg");
         @extend .banner--china_banner;
     }
-    &.banner--cornfield_banner {
-        background-image: url("/media/banners/cornfield_banner.jpg");
+    &.banner--vegetables_banner {
+        background-image: url("/media/banners/vegetables_banner.jpg");
         @extend .banner--china_banner;
     }
     .banner_contents {
