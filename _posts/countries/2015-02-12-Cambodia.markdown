@@ -4,7 +4,7 @@ title:  "Cambodia"
 description: "The University of California, Davis, is partnering with the Royal University of Agriculture and University of Battambang to assist Cambodian small-landholder farmers, linking farm production to market demand. "
 date:   2015-02-12 16:25:17
 category: "country"
-contact: <a href="/team/karen-legrand">Dr. Karen LeGrand</a><br><a href="/team/glenn-young">Dr. Glenn Young</a><br><a href="/team/cary-trexler">Dr. Cary Trexler</a><br><a href="/team/g-david-miller">Dr. David Miller</a><br>
+contact: <a href="/team/karen-legrand">Dr. Karen LeGrand</a><br><a href="/team/glenn-young">Dr. Glenn Young</a><br><a href="/team/cary-trexler">Dr. Cary Trexler</a><br><a href="/team/g-david-miller">Dr. David Miller</a><br><a href="/team/james-e-hill">Dr. Jim Hill</a><br>
 partners: <a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phnom Penh</a><br><a href="http://ubb.edu.kh/">University of Battambang</a><br><a href="http://horticulture.ucdavis.edu/main/projects/cambodia-safe-vegetables.html">Horticulture Innovation Lab</a><br><a href="http://www.oired.vt.edu/ipmil/">Integrated Pest Management (IPM) Innovation Lab</a><br><a href="http://www.ucop.edu/">University of California Office of the President</a><br>
 permalink: /countries/cambodia
 image-banner: cambodia_banner
@@ -20,7 +20,12 @@ Collaboration between UC Davis and RUA began in Kandal province in 2010 with fun
 - <a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=23237">UCANR Food Blog: Building Trust in Food Systems in the US and in Cambodia</a> (February 2017) <br>
 - <a href="https://blog.horticulture.ucdavis.edu/2017/06/5-ways-relationships-promote-innovation-food-safety/">Horticulture Innovation Lab Blog: Five Ways Relationships Promote Innovation and Improve Food Safety</a> (June 2017) <br>
 
-<b>What is a safe vegetable value chain (SVVC)?</b><br>
+### Cambodia Video Chosen as Finalist in World Food Day Video Challenge
+As part of the World Food Center's "World Food Day Video Challenge", students from UC Davis prepared a three-minute video highlighting the importance of safe vegetables and the project's efforts to establish a safe vegetable value chain. Their entry, "Building Trust and Resiliance in Cambodia", was named as a finalist in the World Food Day Video Challenge. Congradulations to Elyssa Lewis, Thort Chuong, and Katerine Hoeberling!
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/M9QeU2O-8cU" frameborder="0" allowfullscreen></iframe><br>
+
+### What is a safe vegetable value chain (SVVC)?
 Safe vegetables promote health, as they are typically free from chemical and microbiological hazards. A safe vegetable value chain (SVVC) includes all of the linked market actors, from local farmers to agricultural suppliers to market purveyors to consumers themselves. <br>
 
 Recent estimates have determined that more than 65-70% of vegetables in Cambodia are imported, mostly from China, Vietnam and Thailand. Demand for domestically produced vegetables is strong due to Cambodian consumers’ national pride and perception that domestically produced vegetables are better and safer due to lower chemical use. The existing consumer perceptions about imported products presents an opportunity for Cambodian farmers to capture a significant portion of the market share and support the domestic demand for safe vegetables. <br>
