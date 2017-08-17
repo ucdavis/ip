@@ -1,0 +1,84 @@
+---
+layout: project
+title: U.S.-Pakistan Centers for Advanced Studies
+description: The U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security (USPCAS-AFS) links the University of California, Davis (UC Davis), the leading agricultural and veterinary research university in the world with the University of Agriculture, Faisalabad (UAF), Pakistan's top agricultural university.
+category: "project"
+contact: <a href="/team/james-e-hill">Dr. Jim Hill</a><br><a href="/team/nancy-allen">Dr. Nancy Allen</a>
+funding: <a href="https://www.usaid.gov/news-information/fact-sheets/centers-advanced-studies-program">USAID Fact Sheet</a>
+sponsors: U.S. Agency for International Development (USAID)<br>Higher Education Commission of Pakistan (HEC)<br>University of California, Davis<br><a href="http://uspcasafs.uaf.edu.pk">University of Agriculture, Faisalabad</a><br>Washington State University
+more-info: <a href="http://eepurl.com/cHuaUP" target="_blank">Subscribe to USPCAS-AFS e-Newsletters</a>
+image: /media/projects/CAS/USPCAS_LogoBlock
+image-caption:
+image-banner: pakistan_banner
+permalink: /projects/USPCAS
+tags:
+- pakistan
+
+---
+The U.S.-Pakistan Centers for Advanced Studies (USPCAS) were launched by the United States Government and the Government of Pakistan to support Pakistan's economic development by educating the next generation of scientists, engineers, and policy makers through innovative academic programs. USPCAS connects three American universities with expertise in agriculture, water, and energy with four Pakistani universities with the goals of modernizing curricula, conducting joint applied and policy research, and fostering student and faculty exchanges. Building on a shared mission to engage and lead through education, research, and collaboration, USPCAS faculty and students leverage collective resources and expertise towards discovering solutions to challenges in food security, water scarcity, and energy demand.
+
+With a population of nearly 200 million, food security has been a protracted challenge in Pakistan. To strengthen a culture of applied research, USAID launched the U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security (USPCAS-AFS) at the University of Agriculture, Faisalabad (UAF), which is partnering with the University of California, Davis. The five-year agriculture program enables faculty and graduate student exchanges, facilitates joint research between the universities, provides technical and curricular-reform assistance, and aims to build the capacity of Pakistani agriculture to meet the country's food-security, economic and employment needs.
+
+### Applied Research Foci: Agriculture & Food Security
+- Agricultural policy
+- Biotechnology
+- Climate change
+- Precision agriculture
+- Agriculture outreach
+
+### Activities and Events:
+- <a href="/profiles/USPCAS/farmers_tour">2016 Pakistani Farmers & Admnistrators Tour of California Agriculture</a><br>
+- <a href="/profiles/USPCAS/policy_workshop">2017 Policy Workshop on Issues in Pakistani Agriculture</a><br>
+
+### Visiting Faculty Profiles:
+- <a href="/profiles/USPCAS/policy_scholars">Agricultural Policy Scholars: Dr. Tahira Sadaf, Dr. Azhar Abbas, Dr. M. Uzair Qamar, & Mr. Abdul Ghafoor, UAF</a>
+- <a href="/profiles/USPCAS/adnan_adeel">Adnan Adeel, Lecturer, Institute of Business Management Sciences, UAF</a><br>
+- <a href="/profiles/USPCAS/dr_nadeem_akbar">Dr. Nadeem Akbar, Asst. Professor of Agronomy, UAF</a><br>
+- <a href="/profiles/USPCAS/dr_aftab_ahmad">Dr. Aftab Ahmad, Asst. Professor of Biotechnology, UAF</a><br>
+- <a href="/profiles/USPCAS/dr_lubna_anjum">Dr. Lubna Anjum, Lecturer in Department of Irrigation & Drainage, Agricultural Engineering, UAF</a><br>
+- <a href="/profiles/USPCAS/dr_muhammed_arshad">Dr. Muhammed Arshad, Asst. Professor of Entomology, UAF</a><br>
+- <a href="/profiles/USPCAS/dr_imran_arshad"> Dr. M. Imran Arshad, Asst. Professor, Institute of Microbiology, UAF </a><br>
+- <a href="/profiles/USPCAS/dr_rana_atif">Dr. Rana Atif, Asst. Professor of Plant Breeding & Genetics, UAF</a><br>
+- <a href="/profiles/USPCAS/dr_imran_khan">Dr. Imran Khan, Lecturer, Dept. of Agronomy, UAF</a><br>
+- <a href="/profiles/USPCAS/murtaza_jaskani">Dr. Ghulam Murtaza & Dr. M. Jafar Jaskani, UAF</a><br>
+- <a href="/profiles/USPCAS/uaf_veterinary">Dr. Zafar Qureshi & Dr. Mishba Ijaz, Faculty of Veterinary Sciences, UAF</a><br>
+- <a href="/profiles/USPCAS/strawberry">Dr. Ishtiaq Rajwana, MSNUAM, and Dr. Raheel Anwar, UAF--Postharvest Practices & Strawberry Cultivation</a><br>
+- <a href="/profiles/USPCAS/dr_syed_aftab_wajid">Dr. Syed Aftab Wajid, Asst. Professor, Dept. of Agronomy, UAF</a><br>
+- <a href="/profiles/USPCAS/dr_khuram_zia">Dr. Khuram Zia, Manager of Technology Transfer, Office of Research, Innovation, and Commercialization, UAF</a>
+
+### Doctoral Scholar profiles
+- <a href="/profiles/USPCAS/farah_ahmad">Farah Ahmad, Doctoral Candidate, Dept. of Chemistry, UAF</a>
+- <a href="/profiles/USPCAS/sabin_aslam">Sabin Aslam, Doctoral Candidate, College of Agricultural Biochemistry & Biotechnology, UAF</a>
+- <a href="/profiles/USPCAS/hm_usman_aslam">Hafiz Muhammad Usman Aslam, Doctoral Candidate, Dept. of Plant Pathology, UAF</a>
+- <a href="/profiles/USPCAS/nabeela_farah">Nabeela Farah, Doctoral Candidate, Dept. of Rural Sociology, UAF</a>
+- <a href="/profiles/USPCAS/hm_rizwan">Hafiz Muhammad Rizwan, Doctoral Candidate, Dept. of Parasitology, UAF</a>
+- <a href="/profiles/USPCAS/ayesha_siddiqui">Ayesha Siddiqui, Doctoral Candidate, Dept. of Botany, UAF</a>
+- <a href="/profiles/USPCAS/m_rizwan_tufail">Muhammad Rizwan Tufail, Doctoral Candidate, Dept. of Plant Pathology, UAF</a>
+- <a href="/profiles/USPCAS/muhammad_mohsin_waqas">Muhammad Mohsin Waqas, Doctoral Candidate, Dept. of Irrigation and Drainage, UAF</a>
+- <a href="/profiles/USPCAS/haroon_yousaf">Haroon Yousaf, Doctoral Candidate, Dept. of Rural Sociology, UAF</a>
+- <a href="/profiles/USPCAS/muhu_din_ahmad">Hafiz Ghulam Muhu Din Ahmad, Doctoral Candidate, Dept. of Plant Breeding and Genetics, UAF</a>
+- <a href="/profiles/USPCAS/shadab_shaukat">Shadab Shaukat, Doctoral Candidate, Dept. of Plant Breeding and Genetics, UAF</a>
+
+
+### e-Newsletter Archives
+
+<style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 12px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+<script language="javascript" src="//ucdavis.us15.list-manage.com/generate-js/?u=29d90a2ec1d4171e36b1bc48c&fid=1403&show=10" type="text/javascript"></script>
+
+
+
+### Media Mentions:
+- <a href="https://www.ucdavis.edu/news/uc-davis-and-pakistan-launch-17-million-food-and-agricultural-partnership">UC Davis and Pakistan launch $17 million food and agricultural partnership<a/> (October 2015)<br>
+
+### Associated Files:
+- <a href="/media/files/USPCAS_SubGrant_LogoBlock.eps">USPCAS-AFS Logo Block (.eps file)</a>
+<br><br>
+
+
+<img src="/media/sponsors/usaid.svg"><br>
+<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i>

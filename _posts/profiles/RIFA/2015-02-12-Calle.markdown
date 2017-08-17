@@ -1,0 +1,28 @@
+---
+layout: profiles
+title: Alicia Calle
+description: A fellow researching farmers’ engagement in restoration activities within silvopastoral projects
+date:   2015-02-12 16:25:17
+permalink: /profiles/RIFA/alicia
+image: /media/profiles/Alicia
+image-caption: RIFA Fellow Alicia walking around in a recovering pasture
+image-banner: pakistan_banner
+category: "profiles"
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+---
+
+Alicia Calle is an Environmental Studies PhD student at UC Santa Cruz and a RIFA fellow at the Centre for Research on Sustainable Farming Systems (CIPAV) in Cali, Colombia. She is researching what barriers, motivations and potential incentives exist for farmers to engage in restoration activities during the process of adoption of silvopastoral systems on degraded grazing lands. <br>
+
+Silvopastoral systems (SPS) combine agroforesty with improved animal management practices to reduce the negative environmental impacts of grazing. Benefits to the environment include reduced soil erosion and better habitat connectivity, while economic benefits include better income opportunities through increased productivity and product diversification (animals and lumber products). Because cattle ranching is a leading cause of land degradation and the dominant land use in Latin America, SPS have great potential for large-scale Forest Landscape Restoration (FLR), a strategy aimed at integrating natural ecosystems, sustainable production lands and restoration areas. <br>
+
+A pilot project implemented in Colombia in 2002-2008 showed that while SPS could be successfully expanded, other restoration activities with longer term and less-visible benefits were more difficult to promote. As SPS continue to grow through the country, strategies are needed to engage more farmers in restoration activities. Alicia’s goal is to better understand what factors motivate or prevent participants in silvopastoral projects from engaging in restoration activities. To answer these questions, Alicia is surveying farmers and extension workers involved in a current nationwide project as well as farmers who completed restoration activities in a previous project. <br>
+
+For the past two months, Alicia designed her survey instruments based on early interviews with farmers and extension staff. Her online survey for extension and technical officers has been successful, with over seventy respondents so far. Administering the farmer survey has been more challenging. To avoid bias related to limited internet access by farmers, Alicia is using paper surveys for farmers, traveling to local training events to conduct them in person, and sending copies to regional project offices where staff can distribute them directly to farmers. The events Alicia has attended have given her a good indication of where sustainable cattle ranching stands in Colombia today, and has helped her to build relationships with farm owners and key informants that will be beneficial to her study. <br>
+
+There have been project challenges, mostly related to the scale and geographic dispersion of the SPS project in which she is working. Because the project is being simultaneously implemented in five very different regions of the country, getting timely information about farmer training events in advance has been difficult. This means that she often has to change or make travel plans on a very short notice and drive long distances across the country in order to attend events where she can conduct several farmer interviews at once. <br>
+
+In September, Alicia will return to UC Santa Cruz to complete her data analysis and begin collaborating with CIPAV on a peer-reviewed journal article about her research findings. <br>
+
+<br>
+
+<p><i>Written by Kate Wilkins.</i></p>

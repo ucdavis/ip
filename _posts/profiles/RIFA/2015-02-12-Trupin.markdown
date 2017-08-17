@@ -1,0 +1,30 @@
+---
+layout: profiles
+title: Ian Trupin
+description: A RIFA fellow's experience with "One Health" problem solving in Tanzania and Rwanda
+date:   2015-02-12 16:25:17
+permalink: /profiles/RIFA/ian
+image: /media/profiles/Ian
+image-caption:
+image-banner: guatemala_banner
+category: "profiles"
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+---
+After over one month in Tanzania as a RIFA fellow with the Health for Animals and Livelihood Improvement (HALI) Project, I have found myself going in unexpected, though very interesting, directions. My original plan was to interview pastoralists, livestock officers, and university researchers about disease risk factors in the Greater Ruaha Landscape of southern Tanzania, and to map local perceptions of land use change and livestock disease risk with farmer and pastoralist focus groups. Instead, I am in the historic coastal town of Bagamoyo, taking part in a 4-week applied course on “One Health” approaches to zoonotic disease, and preparing to join HALI’s field team on a study tour in northwestern Tanzania when I return. <br>
+
+Shortly after I arrived in country, I found out that my initial research plan would be impossible, as my research permit application, which I had intended to include on a larger research permit renewal, would not return in time for me to use it. Instead, I decided to join on to one of the HALI Project’s several ongoing projects. After consulting with the field team and the head office in Davis, I decided to join the PREDICT 2 Human Behavioral Risk Surveillance team in Tanzania, which is collecting a variety of qualitative data on human practices and perceptions related to human-animal interfaces in northwestern Tanzania. PREDICT 2 aims to establish and improve systems for early detection and response to emerging infectious disease outbreaks in high risk regions of the world, like East Africa’s lake zone. My main role will be to add capacity on qualitative data analysis and help train the in-country field staff in using data management software, while also learning field methods from the field staff. In addition, I hope to retain an element of spatial research from my original plan, by possibly creating local maps to target further surveillance activities in Murongo area of Kagera. <br>
+
+This is where the Rx One Health course comes in. “One Health” is an approach based on addressing human, animal, and environmental health as interlocking elements of a broader picture, such that improving outcomes for one element must take into account its relationship with the other two.  Because the next PREDICT site visit isn’t until July, I decided to take advantage of an opening in the course to learn about the One Health approach while also getting the specific training I will need to work with PREDICT. <br>
+
+I am now a week and a half into the course, which is taking place at several locations in Tanzania and Rwanda. The course brings together twenty two students and professionals in fields ranging from veterinary medicine to disease ecology, as well as myself, in International Agricultural Development. We hail mostly from the US, Tanzania, and Rwanda, though there are also participants from Nepal and Denmark.
+Rx One Health has been both fun and fascinating. Although my work with the HALI Project up to this point has taught me some basic vocabulary and concepts related to emerging infectious diseases (EIDs) and zoonosis (the exchange of pathogens between humans and other species), I have found myself learning how to catch bats in mist nets, take cheek swabs from vervet monkeys, vaccinate chickens, and take blood samples from cattle. Between lessons on field methods, we’ve also been able to visit and interview people at typical interfaces for zoonotic disease infection, such as fishermen and Maasai pastoralists, tour a rural health facility, and observe laboratory spaces. Additionally, we’ve had numerous lectures from HALI staff and partners. These ranged from non-profits like Wildlife Connection, which works to reduce wildlife-farmer conflict around the Greater Ruaha Ecosystem, to the Apopo Project at Sokoine University of Agriculture, which trains African pouched rats to detect TB in human sputum samples. We have learned about the politics of village-led Wildlife Management Areas and about case studies of epidemic disease outbreaks, as well as the early warning systems that HALI is helping to pioneer through USAID PREDICT. <br>
+
+Being introduced to so many unfamiliar skill sets and areas of knowledge in such a short period of time has had its challenges. One the one hand, I’m finding it easier to talk to other participants about their work and past experiences, and getting a better idea of how people in these fields ask and answer questions. On the other hand, it has been a challenge to sift through the information and determine what is most relevant to my own project. <br>
+
+For the remaining two weeks of the course, we’ll be moving on to Rwanda, where we will be learning from One Health professionals at the University of Rwanda in Kigali, and Gorilla Doctors in Kinigi.  I will be doing my best to continue absorbing as much knowledge as possible, while also using what I’m learning to reshape my approach to the rest of my RIFA experience. <br>
+
+
+
+<br>
+
+<p><i>Written by Ian Trupin.</i></p>

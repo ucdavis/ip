@@ -1,0 +1,32 @@
+---
+layout: profiles
+title: Sarah Adcock
+description: A RIFA fellow researching dairy cattle branding practices in eastern Sri Lanka.
+date:   2015-02-12 16:25:17
+permalink: /profiles/RIFA/sarah
+image: /media/profiles/Adcock
+image-caption: Sarah Adcock, interviewing dairy farmers in Trincomalee District, Sri Lanka.
+image-banner: kenya_banner
+category: "profiles"
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+---
+Sarah Adcock is a third year Animal Behavior PhD student at UC Davis who recently returned from her RIFA fellowship in Sri Lanka. The objective of her project was to describe branding practices in the Sri Lankan dairy industry and document animal welfare issues and priorities for future dairy research in the country. Below, Sarah answers some of my questions about her experience. <br>
+
+<b>Why did you focus on branding for your research?</b> <br>
+	No written documentation exists on current branding practices in Sri Lanka. Although branding cattle is illegal in Sri Lanka, the practice is still prevalent in the Dry Zone of the country, where cattle are managed extensively. This is a painful procedure that inflicts third degree burns to the animal and take several weeks to heal. One of my objectives during my visit was to gather baseline data on how the procedure was done in order to identify areas of improvement and also to understand some of the challenges that could impede adoption of alternative methods of identification, such as ear tags. <br>
+
+<b>What were your research methods and what kind of data did you collect?</b> <br>
+	I took digital and thermal photos of brands of a sample of animals from several farms in the Trincomalee District in eastern Sri Lanka. I also gave an informal survey to farmers about their views on branding, and got to observe four farmers branding one of their animals. During the procedure, I recorded how the iron was heated, the method by which the animal was restrained, the duration of restraint, the duration the iron was applied, and the location of the brand. <br>
+	In addition to documenting the branding practices, I was able to visit ~30 dairy farms throughout the country to learn about animal management practices and their implications for welfare. The farms were mostly smallholder farms with 2-15 cows, but I did visit a couple large-scale government farms run by the National Livestock Development Board with hundreds to thousands of cattle. <br>
+
+<b>What are some of the challenges impeding adoption of alternative methods of identification?</b> <br>
+	From these visits, it became clear that the herd veterinarians’ efforts to introduce ear tags as an alternative, more welfare-friendly means of identification were impeded by several factors beyond the farmer’s control.  In addition to making it difficult for the farmer to identify their animal from a distance, the ear tags wouldn’t last very long, since they would get snagged on trees and shrubs and fall off while the cattle were grazing. Brands also act as a deterrent to theft, which is a concern for many farmers, while ear tags can be easily removed by the thief. <br>
+
+<b>What will you do with your research data?</b> <br>
+	On my last day in country I gave a 40-min presentation to departmental faculty and students, summarizing my observations on dairy calf management practices in the country and recommendations for best practice. I am also planning to publish a paper with my host mentor that will describe branding practices, their welfare implications, and the challenges experienced by the farmers, as well as provide recommendations for best practice on branding and areas for further research. <br>
+
+<b>What are your overall thoughts about your experience?</b> <br>
+	My experience in Sri Lanka was very gratifying, both on a personal and professional level. My primary motivation to do this project was to increase my awareness of animal welfare issues in other parts of the world. My hope was to learn about dairy practices on both small, traditional farms and modern operations in Sri Lanka and understand how cultural factors (e.g., religion) influence these practices. This visit gave me a more nuanced perspective on the diversity of challenges facing animal welfare, and strategies that might be most effective at addressing them. <br>
+<br>
+
+<p><i>Profile written by Kate Wilkins.</i></p>

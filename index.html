@@ -1,69 +1,69 @@
 ---
-layout: default
+layout: landing
 ---
 
-<div id="slider" class="nivoSlider">
-    <img src="/media/slide1.jpg" title="#htmlcaption1" />
-    <img src="/media/slide2.jpg" title="#htmlcaption2" />
-    <img src="/media/slide3.jpg" title="#htmlcaption3" />
-</div>
+    <div id="slider" class="nivoSlider">
+        <img src="/media/FrontPage01.jpg" title="#htmlcaption1" />
+        <img src="/media/FrontPage02.jpg" title="#htmlcaption2" />
+        <img src="/media/FrontPage03.jpg" title="#htmlcaption3"/>
+        <img src="/media/FrontPage04.jpg" title="#htmlcaption4" />
+        <img src="/media/FrontPage05.jpg" title="#htmlcaption5" />
+    </div>
+
     <div id="htmlcaption1" class="nivo-html-caption">
-        <h2>Are you a beet?</h2>
-        <p>Titanium white, Thalo green, Prussian blue, Van Dyke brown, Alizarin crimson, Sap green, Cad yellow, and Permanent red.</p>
+      <h2 class="bg-unitrans-red">Partnering with Royal University of Agriculture, Cambodia</h2>
+        <p><a href="http://ip.ucdavis.edu/countries/cambodia">UC Davis Faculty Collaborate on Safe Vegetable Value Chains</a></p>
     </div>
+
     <div id="htmlcaption2" class="nivo-html-caption">
-        <h2 class="bg-wine-grape">Red hot Chili Peppers</h2>
-        <p>This is your world, whatever makes you happy you can put in it.</p>
+      <h2 class="bg-golden-lupine">Seven Challenges for Achieving Food Security</h2>
+        <p><a href="https://www.ucdavis.edu/news/7-challenges-achieving-global-food-security" target="_blank">CA&amp;ES Dean Helene Dillard Contributes to APLU Report </a></p>
     </div>
+
     <div id="htmlcaption3" class="nivo-html-caption">
-        <h2 class="bg-sunny-grass">Prussian blue</h2>
-        <p>
-            You can create the world you want to see and be a part of
-        </p>
+      <h2 class="bg-wine-grape">Scaling: To Be, or Not to Be?</h2>
+        <p><a href="https://agrilinks.org/blog/scaling-be-or-not-be" target="_blank">AgriLinks blog post by Dr. Mark Bell &amp; Dr. Jim Hill</a></p>
     </div>
-<div class="news_landing">
-    <div class="news_landing_contents">
-        <h1 class="sectionheader">News</h1>
-        <div class="news_landing_current">
-            {% for post in site.categories.news limit:3 %}
-            <div class="news_landing_piece">
-                {% if post.image %}
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img class="img_article_thumb" src="{{ post.image }}"></a>{% endif %}
-                <h2 class="feed-title">
-                      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    </h2>
-                <p class="feed-description">{{ post.description }}</p>
-            </div>
-            {% endfor %}
-        </div>
-        <div class="news_landing_more">
-            <h3>Newsletter</h3>
-            <p>Stay updated by signing up for our newsletter</p>
-            <a href="" class="btn btn-newsletter">Sign up</a>
-            <br>
-            <p><a href="/news">View more articles here</a></p>
-        </div>
+
+    <div id="htmlcaption4" class="nivo-html-caption">
+      <h2 class="bg-sunny-grass">Student Opportunities</h2>
+        <p><a href="/scholars-and-students/index.html">Fellowships and Funding Announcements for UC Davis Students</a></p>
     </div>
+
+    <div id="htmlcaption5" class="nivo-html-caption">
+      <h2 class="bg-recpool-blue">Feed the Future Horticulture Innovation Lab</h2>
+        <p><a href="http://blog.horticulture.ucdavis.edu/2017/04/uc-davis-drycard-invention-wins-all-africa-postharvest-innovations-challenge/" target="_blank">"DryCard" invention wins competition to reduce food loss in Africa</a></p>
+    </div>
+
+<div class="callout">
+  <div class="callout__contents">
+    <h2>Extending agricultural expertise for a better world.</h2>
+    <p>The UC Davis College of Agricultural and Environmental Sciences International Programs Office shares agricultural knowledge and information with the world. We conduct training and workshops, develop research &amp; extension projects, advise on curriculum development, sponsor global programs, offer educational opportunities, and guide capacity building.</p>
+    <p><a href="/about/index.html" class="btn">Our Mission</a></p>
+  </div>
 </div>
-<div class="main">
-    <div class="main_contents">
-        <div>
-            <!-- Nav tabs -->
-            <ul class="tabs" role="tablist">
-                <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Home</a></li>
-                <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Profile</a></li>
-                <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Messages</a></li>
-                <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Settings</a></li>
-            </ul>
-            <!-- Tab panes -->
-            <div class="tab-content">
-                <div role="tabpanel" class="tab-pane active" id="home">
-                <p>Home</p>
-                </div>
-                <div role="tabpanel" class="tab-pane" id="profile"><p>profile</p></div>
-                <div role="tabpanel" class="tab-pane" id="messages"><p>Messages</p></div>
-                <div role="tabpanel" class="tab-pane" id="settings"><p>Settings</p></div>
-            </div>
-        </div>
-    </div>
+<div class="homepageprojects">
+  <h3>Our Projects</h3>
+  <div class="homepageprojects__contents">
+
+    {% for post in site.categories.project limit:3 %}
+            <div class="homepage__project--item"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <h2>
+                      {{ post.title }}
+                    </h2>
+                <p>{{ post.description }}</p>
+            </a></div>
+            {% endfor %}
+  </div>
+
+</div>
+<div class="sponsors">
+  <div class="imagewrapper imagewrapper--sponsors">
+    <!-- <img src="/media/sponsors/cornell.svg" alt="">
+    <img src="/media/sponsors/fsa.svg" alt=""> -->
+    <img src="/media/sponsors/usaid.svg" alt="">
+    <img src="/media/sponsors/usda.svg" alt="">
+    <img src="/media/sponsors/cmmyt.png" alt="">
+    <!-- <img src="/media/sponsors/walmart.svg" alt=""> -->
+  </div>
 </div>

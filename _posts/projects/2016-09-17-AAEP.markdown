@@ -1,0 +1,37 @@
+---
+layout: project
+title: AAEP II
+description: The second phase of the Afghanistan Agricultural Extension Project (AAEP II) seeks to build the capacity of Afghanistan’s Ministry of Agriculture, Irrigation, and Livestock (MAIL) and selected Directorates (DAILs) to deliver effective extension services to rural clientele in targeted regions across Afghanistan.
+category: "project"
+contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a>, <a href="mailto:nmmadden@ucdavis.edu">Nicholas Madden</a>
+funding: <a href="https://www.usaid.gov/news-information/fact-sheets/afghanistan-agriculture-extension-project-ii-aaep-ii">USAID Fact Sheet</a>
+sponsors: U.S. Agency for International Development<br>University of California, Davis<br>Purdue University<br>Washington State University<br>University of Maryland<br>Texas A&M University<br>
+image: /media/projects/AAEP/project_banner
+image-banner: afghanistan_banner
+permalink: /projects/AAEP
+tags:
+- afghanistan
+
+---
+Since 2014, AAEP II has supported over 2,000 on-farm training sessions, helping extension workers reach over 14,000 farmers.
+
+The target beneficiaries of the $20 million project grant from USAID are Afghan government extension workers, who learn how to effectively identify farming problems and training needs. AAEP II activities operate from five key provinces (Kabul, Nangarhar, Herat, Balkh and Parwan) and engage DAILs from up to 25 different provinces. AAEP II uses the same extension model employed by the first phase (AAEP I), which includes:
+
+* Training Workshops;
+
+* Thematic Workgroups;
+
+* Provincial Model Teaching Farms (PMTFs);
+
+* Farmer Field Schools (FFSs);
+
+* Farmer Field Demonstrations (FFDs); and
+
+* Mini-Fund Projects.
+
+By empowering Afghan extension workers to transfer useful information and technology to farmers, improved rural household food security, additional income generation, and improved nutritional status of farm households can be achieved.
+
+### Success Stories:
+<a href="https://www.usaid.gov/results-data/success-stories/new-crop-offers-potential-more-income">Afghan Farmers, Once Skeptical, Grow Potatoes with Less Water</a> (usaid.gov)
+
+<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i>

@@ -1,0 +1,65 @@
+---
+layout: default
+---
+{% include header.html %}
+{% if page.image-banner %}
+<div class="banner banner--{{ page.image-banner }}">
+</div>
+{% endif %}
+
+<div class="breadsearch">
+    <div class="alignitems--center breadwrapper">
+        <ol class="breadcrumb">
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            <li><a href="/about">CA&amp;ES Intl. Programs Office</a></li>
+            <li class="active"><a href="{{ page.url }}">{{ page.title }}</a></li>
+        </ol>
+    </div>
+    <div class="alignitems--cend searchwrapper">
+        <form class="small_search" action="/search" method="GET">
+            <input type="text" name="q" autocomplete="off" required>
+        </form>
+    </div>
+</div>
+<div class="main">
+    <div class="main_contents">
+        <article>
+            <h1>{{ page.title }}</h1>
+            <p class="lead">{{ page.description }}</p>
+            {% if page.image %}
+            <div class="imagewrapper imagewrapper--fullwidth">
+                <a href="#" data-featherlight="#mylightbox">
+                    <img src="{{ page.image }}.jpg" alt="{{ page.image-caption }}" srcset="{{ page.image }}.jpg 1x, {{ page.image }}@2x.jpg 2x">
+                </a>
+                <div id="mylightbox"><img src="{{ page.image }}@2x.jpg" alt="{{ page.image-caption }}">
+                    <p>{{ page.image-caption }}</p>
+                </div>
+                {% if page.image-caption %}
+                <p class="image__caption">
+                    {{ page.image-caption }}
+                </p>
+                {% endif %}
+            </div>
+            {% endif %}
+            <p>{{ content }}</p>
+        </article>
+        <aside>
+            {% if page.contact %}
+            <h3>Contact</h3>
+            <p>{{ page.contact }}</p>
+            {% endif %} {% if page.funding %}
+            <h3>Funding</h3>
+            <p>{{ page.funding }}</p>
+            {% endif %} {% if page.partners %}
+            <h3>Partners</h3>
+            <p>{{ page.partners }}</p>
+            {% endif %} {% if page.sponsors %}
+            <h3>Sponsors</h3>
+            <p>{{ page.sponsors }}</p>
+            {% endif %} {% if page.more-info %}
+            <h3>More information</h3>
+            <p><a target="_blank">{{ page.more-info }}</a></p>
+            {% endif %}
+        </aside>
+    </div>
+</div>

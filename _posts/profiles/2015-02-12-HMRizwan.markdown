@@ -1,0 +1,32 @@
+---
+layout: profiles
+title:  Hafiz Muhammad Rizwan
+description: A UAF doctoral student investigates the best practices for identifying toxoplasma.
+date:   2015-02-12 16:25:17
+permalink: /profiles/USPCAS/hm_rizwan
+image: /media/profiles/HM_Rizwan
+image-caption: Hafiz Muhammad Riwan, UAF doctoral scholar in parasitology, works in Dr. Saeij's lab at UC Davis (bottom).
+image-banner: pakistan_banner
+category: "profiles"
+sponsoring-agency: <img src="/media/sponsors/usaid.svg">
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
+---
+Toxoplasma is an intracellular protozoan parasite that is commonly spread to humans via domestic cats or other types of felines. Toxoplasmosis can cause life-long chronic infections that contribute to severe diseases in individuals with compromised immune systems. The type of toxoplasma strain is a key factor in determining the outcome of infection rates; 90% of toxoplasma isolates are classified into one of 3 strain types. Knowing the specific strain can guide medical professionals towards the best treatment options. <br>
+
+But, accurate genotyping is needed to confirm the strain type, and field tests have not always delivered reliable results. Hafiz Muhammad Rizwan, a doctoral student in the Department of Parasitology at the University of Agriculture, Faisalabad, came to UC Davis to help improve those diagnostic techniques. His USPCAS-AFS exchange research was housed in the lab of Dr. Jeroen Saeij, an associate professor and toxoplasmosis researcher at the UC Davis School of Veterinary Medicine. <br>
+
+Mr. Rizwan’s research goal is to devise an improved serological assay that would use polymorphic peptides from Toxoplasma proteins for assessing the virulence of the sample strain. His initial work at UC Davis yielded intriguing results, but found that his peptide serum needed additional calibration to recognize specific strains of toxoplasma. <br>
+
+Mr. Rizwan also worked on research related to the CRISPR/Cas9 gene editing method—he targeted and removed a specific gene in his toxoplasma gondii samples. After developing guide RNA strands, preparing plasmids, and then cloning them, he was able to use a plaque assay to quantify the toxoplasma viability with the new gene sequence. <br>
+
+“These diagnostic techniques will help us in Pakistan,” says Mr. Rizwan. “Hopefully, the plan is to develop the peptides and develop a ‘dipstick’ method: just place samples into the serum, and that will alert you to which strain of Toxoplasmosis is present.” <br>
+
+Along with his scientific investigation, Mr. Rizwan picked up several soft skills during his USPCAS-AFS exchange. He has been invited to present his results to conferences in Malaysia and Turkey this fall. Mr. Rizwan also drafted and submitted several research papers based on his research experiences while at UC Davis, and learned about how to conduct lab group meetings, arrange journal clubs, review ongoing research articles, and track his own research through meticulous lab notebooks. He plans to train his colleagues at UAF on several of the same techniques. <br>
+
+
+The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
+<br>
+
+<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i><br>
+
+<p><i>Profile written by Levi McGarry.</i></p>

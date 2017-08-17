@@ -1,0 +1,67 @@
+---
+layout: country
+title:  "Cambodia"
+description: "The University of California, Davis, is partnering with the Royal University of Agriculture and University of Battambang to assist Cambodian small-landholder farmers, linking farm production to market demand. "
+date:   2015-02-12 16:25:17
+category: "country"
+contact: <a href="/team/karen-legrand">Dr. Karen LeGrand</a><br><a href="/team/glenn-young">Dr. Glenn Young</a><br><a href="/team/cary-trexler">Dr. Cary Trexler</a><br><a href="/team/g-david-miller">Dr. David Miller</a><br><a href="/team/james-e-hill">Dr. Jim Hill</a><br>
+partners: <a href="http://www.rua.edu.kh/">Royal University of Agriculture, Phnom Penh</a><br><a href="http://ubb.edu.kh/">University of Battambang</a><br><a href="http://horticulture.ucdavis.edu/main/projects/cambodia-safe-vegetables.html">Horticulture Innovation Lab</a><br><a href="http://www.oired.vt.edu/ipmil/">Integrated Pest Management (IPM) Innovation Lab</a><br><a href="http://www.ucop.edu/">University of California Office of the President</a><br>
+permalink: /countries/cambodia
+image-banner: cambodia_banner
+image: /media/partners/Cambodia_Partners
+image-caption:
+---
+
+<b>The partnership between the Royal University of Agriculture (RUA), UC Davis, and University of Battambang (UBB) aims to develop and cultivate a safe vegetable value chain (SVVC) within Cambodia to ease food security issues, and is supported by the Horticulture Innovation Lab with funding from the U.S. Agency for International Development, as part of the U.S. government’s global hunger and food security initiative called <a href="https://feedthefuture.gov/">Feed the Future</a>.</b><br>
+
+Collaboration between UC Davis and RUA began in Kandal province in 2010 with funding from the Horticulture Innovation Lab. Since then, the team has expanded to include University of Battambang in Battambang province, the Integrated Pest Management (IPM) Innovation Lab, the USAID Borlaug Global Food Security Program, the University of California Office of the President (UCOP), and the International Society for Horticulture Science. <br>
+
+### Media Mentions
+- <a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=23237">UCANR Food Blog: Building Trust in Food Systems in the US and in Cambodia</a> (February 2017) <br>
+- <a href="https://blog.horticulture.ucdavis.edu/2017/06/5-ways-relationships-promote-innovation-food-safety/">Horticulture Innovation Lab Blog: Five Ways Relationships Promote Innovation and Improve Food Safety</a> (June 2017) <br>
+
+### Cambodia Video Chosen as Finalist in World Food Day Video Challenge
+As part of the World Food Center's "World Food Day Video Challenge", students from UC Davis prepared a three-minute video highlighting the importance of safe vegetables and the project's efforts to establish a safe vegetable value chain. Their entry, "Building Trust and Resiliance in Cambodia", was named as a finalist in the World Food Day Video Challenge. Congradulations to Elyssa Lewis, Thort Chuong, and Katerine Hoeberling!
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/M9QeU2O-8cU" frameborder="0" allowfullscreen></iframe><br>
+
+### What is a safe vegetable value chain (SVVC)?
+Safe vegetables promote health, as they are typically free from chemical and microbiological hazards. A safe vegetable value chain (SVVC) includes all of the linked market actors, from local farmers to agricultural suppliers to market purveyors to consumers themselves. <br>
+
+Recent estimates have determined that more than 65-70% of vegetables in Cambodia are imported, mostly from China, Vietnam and Thailand. Demand for domestically produced vegetables is strong due to Cambodian consumers’ national pride and perception that domestically produced vegetables are better and safer due to lower chemical use. The existing consumer perceptions about imported products presents an opportunity for Cambodian farmers to capture a significant portion of the market share and support the domestic demand for safe vegetables. <br>
+
+Small-landholder farmers are key actors within Cambodia’s domestic vegetable market, and are primed to achieve a higher living standard through improvements within the value chain. Yet, farmers face several obstacles, including access to high-quality seeds, access to pest control technology, and access to market knowledge and linkages. <br>
+
+Our team’s approach to identifying and solving challenges is based on participatory research, where we engage local people as partners in testing, assessing, refining and innovating both hard and soft technologies as well as scaling strategies. Hard technologies include new seed varieties, integrated pest management techniques, low-cost water distribution, and postharvest & packaging centers; soft technologies include leadership & mentorship training, production & risk evaluation skills, and robust options of self-governing organizations. The RUA/UCD/UBB team focuses a significant effort on facilitating relationship building among local people, working with them to develop solutions that function at multiple stakeholder levels within existing systems. <br>
+
+<b>Thematically, the UC Davis/RUA/UBB team addresses:</b>
+-	Limitations in horticulture and postharvest practices that affect phyto-sanitation and year-round availability of safe vegetables, focusing on market linkages and how problems can be solved through innovative technologies and training.
+-	Promotion of trust and long-term business relationships between actors in the safe vegetable value chain.
+-	Limitations in cold-chain distribution, marketing and selling of safe vegetables to access domestic markets for safe vegetables, increasing local economic activity.
+-	Scaling of successful technologies, practices and market linkages across Kandal and Battambang Provinces, and eventually country-wide. <br>
+
+<b>Integrated and interdependent objectives of ongoing activities include:</b>
+-	Pilot- and field-testing various horticulture and postharvest technologies with potential to improve the safe vegetable value chain
+-	Researching approaches that promote innovation and adoption of useful technologies
+-	Strengthening market linkages that support the emerging safe vegetable market in Cambodia
+-	Building human capacity, particularly of farmers and other value chain actors participating in a sustainable domestic safe vegetable value chain
+
+
+
+
+<!--
+<div class="relatedprojects">
+
+<h3>Related Activities</h3>
+	{% for post in site.tags.cambodia limit:3 %}
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+	    <div class="relatedprojects__card">
+	        <h4>
+	              {{ post.title }}
+	            </h4>
+	        <p class="feed-description">{{ post.description }}</p>
+	        <p class="primary-color">Learn More</p>
+	    </div>
+    </a>
+    {% endfor %}
+</div>   -->

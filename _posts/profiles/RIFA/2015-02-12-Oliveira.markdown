@@ -1,0 +1,23 @@
+---
+layout: profiles
+title: Flavia Oliveira
+description: A RIFA fellow researching forest conservation in faxinal communities
+date:   2015-02-12 16:25:17
+permalink: /profiles/RIFA/flavia
+image: /media/profiles/Flavia
+image-caption: Faxinal community members dividing up chickens they purchased through their farmers' association.
+image-banner: chile_banner
+category: "profiles"
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+---
+Flavia Oliveira, a PhD Student in Environmental Studies from UC Santa Cruz, is currently in the state of Paraná, Southern Brazil, working on her RIFA project and dissertation research about the role of local institutions for promoting forest conservation in a traditional farming system named faxinal. This system is recognized by the state government to generate sustainable outcomes, including forest conservation. For instance, its main characteristic is communal, small-scale livestock farming in an area where forest removal is not allowed. <br>
+
+The forest within which the communities of faxinal are located – the Araucaria Forest – has been highly degraded since early 1900’s, mainly due to the arrival of logging companies and large-scale agriculture, which also imposed social-ecological changes on the faxinais. As the faxinal changes due to these pressures, its ability to persist and to effectively conserve forest is questioned. Given the high rates of historical deforestation in the region and ongoing controversy about whether the faxinal promotes forest conservation, Flavia’s research investigates whether the communal land tenure of the faxinal favors forest conservation. The framework she is using for data collection and analysis draws from CPR (common pool resources) governance, institutional analysis, and social-ecological resilience bodies of literature that emerged from famed political economist Elinor Ostrom’s work. She hopes that her comparative analysis between communities of faxinal will help inform future government legislation about sustainable land management in the region. <br>
+
+Flavia spent the first few months in Brazil meeting with local researchers, government officials and communities in various municipalities across her study region. Her meetings with community members were opportunities to establish relationships and trust, as well as informally interview people to help her build out her interview questionnaires. Flavia worked with government officials to collect demographic data about communities, as well as academic researchers to compile and analyze GIS forest cover data. Flavia originally planned to target specific communities of faxinal based on the analysis of thirty years of trends in forest cover changes. Because this analysis is taking longer than she originally planned, she had to tweak her sampling strategy and will now select communities according to main pressures these communities have faced over the years. During the following months, she will gather data on local institutions and landscape management strategies through rural rapid appraisal, semi-structured interviews, participatory transect walks and direct observation. <br>
+
+In October, Flavia begins her natural regeneration assessment that will take a detailed look at the resilience and ecological health of forest fragments in the faxinal. Until then, Flavia is busy interviewing community members and enjoying the rural life of Southern Brazil! <br>
+
+<br>
+
+<p><i>Profile written by Kate Wilkins.</i></p>

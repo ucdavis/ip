@@ -1,0 +1,16 @@
+---
+layout: project
+title: E Pak Ag
+description: Using ICT to make credible, relevant information more available to those helping farmers in Pakistan
+category: "project"
+contact: Mark Bell (UC Davis)
+more-info: http://epakag.ucdavis.edu/
+funding: Supported by USAID
+sponsors: CIMMYT, IRRI, ILRI, AVRDC and PARC
+image: /media/projects/epakag/project_banner
+image-caption: Photo credit Steven Asercion
+permalink: /projects/epakag
+tags:
+- Pakistan
+
+---

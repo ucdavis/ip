@@ -1,0 +1,25 @@
+---
+layout: profiles
+title: Henry Hellmuth
+description: A RIFA fellow studying the effects of potato-legume intercropping systems in the Kenyan Highlands
+date:   2015-02-12 16:25:17
+permalink: /profiles/RIFA/henry
+image: /media/profiles/hellmuth
+image-caption: Henry Hellmuth, working with local farmers and CIP staff on a potato trial field.
+image-banner: pakistan_banner
+category: "profiles"
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+---
+Henry Hellmuth is a first year International Agricultural Development master’s student at UC Davis and a RIFA fellow at the International Potato Center in Kenya. He left for Nairobi in late March and jumped right into his research project and thesis work - assessing the effects of potato-legume intercropping systems on yields, profits and resilience in the Kenyan highlands. He is looking at the differences in yield, resource use efficiency and soil quality between a “climate-smart” potato variety, Unica, and a commonly grown potato variety, Shangi. World-wide, climate smart agriculture is seen as an increasingly important approach to agriculture focused on the realities of changing climate conditions and its potential effects on farming. In the highlands, the main concerns for farming include erosion, heat stress, and drought. Climate smart varieties, like the Unica potato, are developed to be more resilient to variable seasonal conditions and to produce higher yields. <br>
+
+Over the course of two weeks, Henry and CIP staff planted four research plots with the potato varieties in four areas of the Kenyan highlands. The sites are up to 250 km apart, so every other week Henry travels to the field sites to collect biophysical data, which he will do until the potatoes are harvested in early August. He records the soil moisture, temperature, texture and NPK availability as well as light interception data as a measure of ground cover. Potato tuber and shoot nutrient uptake is also recorded, as well as the yield of the potatoes and legumes. This data will be helpful in calculating the water and NPK use efficiency of the crops. <br>  
+
+In addition to the biophysical assessments of the two potato varieties, Henry will also conduct a cost-benefit analysis of the two cropping systems. He hopes to determine if the new variety is cost-effective for farmers to adopt, even if it does produce higher yields. The study will be supplemented by a survey of farmers, gauging their interest in adopting the potato-intercropped systems. <br>
+
+While Henry hasn’t encountered any major issues in his research so far, the CIP team has struggled to get local farmers to update them on the condition of the research plots. They found two of the plots overrun with weeds after a rain and had to mount a massive weeding effort to keep the experiment on track. <br>  
+
+According to Henry, working in Kenya is pretty swell, especially with mandazi (deep fried lightly sweet dough) and sweet milky tea from the little shack near the bus stop every morning. <br>
+<br>
+
+
+<p><i>Profile written by Kate Wilkins.</i></p>

@@ -1,0 +1,28 @@
+---
+layout: project
+title: INGENAES
+description: Integrating Gender and Nutrition within Agricultural Extension Services (INGENAES) is developing the capacity of agricultural extension in select low-income countries to provide gender-responsive, nutrition-sensitive services.
+category: "project"
+contact: <a href="/team/edye-kuyper">Edye Kuyper</a><br>
+funding: Supported by USAID
+partners: USAID<br>University of Illinois at Urbana-Champaign (Project Lead)<br>University of Florida<br>UC Davis<br>Cultural Practice, LLC
+image-banner: vietnam_banner
+image: /media/projects/INGENAES/project_banner
+image-caption: Photo credit Mark Bell
+permalink: /projects/ingenaes
+more-info: <a href="http://www.ingenaes.illinois.edu/" target="_blank">http://www.ingenaes.illinois.edu/</a>
+tags:
+- Zambia
+
+---
+INGENAES team members work with USAID missions, civil society organizations, farmer organizations, universities, and private sector service providers in Feed The Future countries on action-oriented training, learning exchanges, and mentoring programs to promote gender-transformative agricultural development and nutrition-sensitive agricultural practices.
+
+Globally, women make up approximately 43% of the agricultural labor force and typically bear more burden than men, as they are responsible for both field chores and household duties. However, most developing country extension systems neglect to address the needs of female farmers or rural workers. INGENAES helps to build robust extension advisory services capable of empowering women to contribute to household incomes, increase productivity and reduce gender gaps in agriculture, and improve nutrition outcomes for farming families.
+
+### Recent Articles:
+
+- <a href="/media/files/nutrition-gender/INGENAES_Nutrition_and_Gender_in_Extension_Competency_Framework_(2017_08).pdf">Competency Framework for Integrating Gender and Nutrition within Agriclture Extension Services</a><br>(Published August 2017; Authors: R. Davis, E. Kuyper, A. Bohn, C. Manfre, S. Russo, D. Rubin)
+- <a href="http://ingenaes.illinois.edu/wp-content/uploads/ING-DP-2017_08-EAS-in-Zambia-Structures-Services-Roles-Incentives-Burrows-Bell-Grey-Rutamu.pdf">Extension and Advisory Services in Zambia: Understanding Structures, Services, Roles, and Incentives</a><br>(Published August 2017; Authors: E. Burrows, M. Bell, N. Grey Rutamu)<br>
+<br>
+
+<b><a href="http://ingenaes.illinois.edu/library/">Complete Library of INGENAES Publications and Articles (external link)</a></b>

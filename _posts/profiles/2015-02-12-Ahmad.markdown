@@ -1,0 +1,36 @@
+---
+layout: profiles
+title:  Dr. Aftab Ahmad
+description: Employing CRISPR/Cas9 genomic editing to fight cotton leaf curl virus in Asia.
+date:   2015-02-12 16:25:17
+permalink: /profiles/USPCAS/dr_aftab_ahmad
+image: /media/profiles/ahmad
+image-caption: Dr. Aftab Ahmad presents on how cotton leaf curl virus replicates within the cell.
+image-banner: pakistan_banner
+category: "profiles"
+sponsoring-agency: <img src="/media/sponsors/usaid.svg">
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://ucdptf.ucdavis.edu/">Plant Transformations Facility, UC Davis</a>
+---
+Cotton is one of the four major crops of Pakistan, accounting for 15% of cropland in the county and positioning Pakistan as the world’s third largest exporter of raw cotton. However, Cotton Leaf Curl Virus is listed as a serious threat to Pakistan’s cotton production, as it stunts the plant growth and affects overall yield. A major viral epidemic in the mid-1990s reduced cotton yields by almost 70%, resulting in a $5 billion economic loss to the country. But with the emergence of new genetic editing techniques and a focus on supporting small farmers, there is new hope for mitigating the worst effects of cotton leaf curl virus. <br>
+
+As part of the research efforts of the U.S-Pakistan Center for Advanced Studies in Agriculture and Food Security (USPCAS-AFS), a team of researchers and scholars is learning more about how to best combat the viral infestations. Dr. Aftab Ahmad is an Assistant Professor of Biotechnology working with USPCAS-AFS, and is the primary investigator on UAF research into eliminating Cotton Leaf Curl Virus using CRISPR/CAS9 genetic editing. <br>
+
+“Cotton is the most important cash crop of Pakistan”, says Dr. Ahmad. “However, because of the virus and insect attacks, the cotton production is almost stagnant over the past three decades.”<br>
+
+Previous research has indicated that cotton leaf curl virus is adopting rapidly, and will require broad spectrum resistance to eliminate field occurrence. Dr. Ahmad believes that predefined and predictable genome engineering will work best against this blight.<br>
+
+“We are trying to mutate the replication protein to suppress the replication of the virus,” states Dr. Ahmad.<br>
+
+Dr. Ahmad was partnered with Dr. Abhaya Dandekar, the Faculty Director of the UC Davis Plant Transformations Facility. The Plant Transformations Facility, established by a generous grant from the Ralph M. Parsons Foundation, houses six environmentally controlled chambers designed for growing plant tissue cultures. At the PTF, Dr. Ahmed worked to transform cotton seed samples and practiced creating new genetic transformants from his samples. <br>
+
+Dr. Ahmad also attended several conferences while on exchange at UC Davis, including the Visualizing Big Data Demonstration hosted by the UC Davis Office of Research, the International Conference on Food Ontology Operability, the Vegetable Research & Development Forum hosted by the Seed Biotechnology Center at UC Davis, and the United Nations Conference on Sustainable Development. He also attended the Food and Agriculture Entrepreneurship Academy, hosted by the Institute of Innovation and Entrepreneurship at UC Davis. <br>
+
+“If we can create a spirit of entrepreneurship at the University of Agriculture, Faisalabad, we can better prepare our students,” says Dr. Ahmad.
+Since his scholar exchange, Dr. Ahmad has been busy preparing three different scientific articles about his research. Dr. Ahmad is also planning on translating his research experience into new courses at UAF. He wants to teach new students about the applications of targeted genome editing techniques, including the latest protocols, applications, and experimental designs into classroom-based learning. Dr. Ahmad also plans to teach graduate courses in advanced molecular biology techniques, training new researchers on the best practices of genomic editing. <br>
+
+The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
+<br>
+
+<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i><br>
+
+<p><i>Profile written by Levi McGarry.</i></p>

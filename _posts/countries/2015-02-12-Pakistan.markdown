@@ -1,0 +1,39 @@
+---
+layout: country
+title:  "Pakistan"
+description: "Educating the next generation of scientists, engineers, and policy makers through innovative academic programs."
+date:   2015-02-12 16:25:17
+category: "country"
+contact: <a href="mailto:jehill@ucdavis.edu">Jim Hill</a><br/><a href="mailto:tlrost@ucdavis.edu">Tom Rost</a><br/><a href="mailto:lferguson@ucdavis.edu">Louise Ferguson</a><br/>
+permalink: /countries/pakistan
+image-banner: pakistan_banner
+---
+
+Through our partnerships and collaborations, UC Davis helps to address challenges in establishing governance structures, improving curriculum and teaching practices, and upgrading graduate programs and research to meet client (industry, civil society, and government) needs.
+
+<div class="relatedprojects">
+
+<h3>Related Projects</h3>
+	{% for post in site.tags.pakistan limit:3 %}
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+	    <div class="relatedprojects__card">
+	        <h4>
+	              {{ post.title }}
+	            </h4>
+	        <p class="feed-description">{{ post.description }}</p>
+	        <p class="primary-color">Learn More</p>
+	    </div>
+    </a>
+    {% endfor %}
+</div>
+
+<h3>Associated Training</h3>
+<ul>
+<li>Graduate Training (C/- Dr Tom Rost)</li>
+<li>Perennial tree research (C/- Dr Louise Ferguson)</li>
+<li>e-Pak Ag looking at the application of ICT to enhance project impact (C/- Dr Mark Bell), and e-Pak Ag</li>
+<li>Vocational Training (C/- Dr Mark Bell)</li>
+</ul>
+
+
+The USPCAS-AFS will serve as a focal point for collaborative research and training among all nodes of agricultural sciences related to food security. It will build a cohesive scientific community and provide a suitable platform to enable cutting edge agricultural research to address current problems being faced by the society at large.

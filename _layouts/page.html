@@ -1,14 +1,26 @@
 ---
 layout: default
 ---
-<div class="post">
+{% include header.html %}
+{% if page.image-banner %}
+<div class="banner banner--{{ page.image-banner }}">
+</div>
+  {% endif %}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
+<div class="breadsearch">
+    <div class="breadwrapper">
+        <div class="alignitems--center breadcrumbs">
+            <!-- {% include breadcrumbs.html %} -->
+        </div>
+    </div>
+    <div class="alignitems--center searchwrapper searchwrapper--smallsearch">
+        <form class="small_search" action="/search" method="GET">
+            <input type="text" name="q" autocomplete="off" required>
+        </form>
+    </div>
+</div>
+<div class="main">
+    <div class="main_contents">
+        {{ content }}
+    </div>
 </div>

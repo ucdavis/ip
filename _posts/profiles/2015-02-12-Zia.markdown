@@ -1,0 +1,40 @@
+---
+layout: profiles
+title:  Dr. Khuram Zia
+description: Developing new intellectual property policies to advance public-private partnerships in Pakistan's agricultural sector.
+date:   2015-02-12 16:25:17
+permalink: /profiles/USPCAS/dr_khuram_zia
+image: /media/profiles/Zia_Presentation
+image-caption: Dr. Khuram Zia presents his case study findings from his exchange visit to UC Davis.
+image-banner: pakistan_banner
+category: "profiles"
+sponsoring-agency: <img src="/media/sponsors/usaid.svg">
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://www.pipra.org/en/page/Default/index">Public Intellectual Property Resource for Agriculture (PIPRA)</a>
+---
+In November of 2015, USPCAS-AFS hosted a week-long series of meetings and workshops at University of Agriculture, Faisalabad (UAF), about how best to advance public-private partnerships in Pakistan with the goal of bringing new agricultural technologies to market. Presenters from the Public Intellectual Property Resource for Agriculture (PIPRA), a nonprofit program hosted at the University of California, Davis, discussed with members of the UAF Office of Research, Innovation, and Commercialization (known as ORIC) the benefits of patenting university innovations and transferring technology to the private sector.<br>
+
+At the end of that workshop, Dr. Asif Ali, the director of ORIC, committed to sending a staff member to Davis for an extended internship in the PIPRA office to learn more about the daily work of identifying and licensing new research innovations.<br>
+
+“Commercialization is a relatively new idea for universities in Pakistan,” said Dr. Ali. “We want to increase awareness and support of what ORIC offers, why it exists, and what benefits it provides to researchers.”<br>
+
+<b>Internship with the UC Davis PIPRA Program</b><br>
+
+A few short months later, Dr. Khuram Zia arrived at UC Davis with a goal: develop sound institutional policies for UAF. Dr. Zia, who is a Manager of Technology Transfer at ORIC, has a doctorate in entomology and experience as a marketing officer for a multinational agrochemical company in Pakistan.<br>
+
+“I came to Davis for further collaboration and standardization of our intellectual property policies at the University of Agriculture, Faisalabad,” says Dr. Zia. “Our office should be bridging the gap between our scientists and our entrepreneurs.”<br>
+
+During his internship, Dr. Zia conducted a case study looking at the intellectual property policies at eight different U.S. research universities, and compared their policies with those at UAF. <br>
+
+“All universities with successful technology transfer programs have strong intellectual property policies, and they have fair royalty distribution programs for innovative researchers,” states Dr. Zia. “When I compared our intellectual property policy at UAF with the policies I researched during my internship, I found a lot of differences. <br>
+
+“At UAF, we consider three potential situations regarding ownership of intellectual property created at the university. However, in the policies I studied, they are all very clear: any research or products created in the university are owned by the university, not the individual faculty or researchers.”
+The difference in managing intellectual property rights became very apparent to Dr. Zia during his internship. At the end of his extended visit, he extolled the value of working with UC Davis and the PIPRA program.<br>
+
+“Strong institutional policies addressing conflict of interest, conflict of commitment, and intellectual property must be reviewed at UAF. We need to continue the collaboration with PIPRA, because the training from November 2015 made a good impact at UAF. We have several faculty members who are interested, who are good inventors who are eager to develop new policies.” <br>
+
+The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
+<br>
+
+<i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i><br>
+
+<p><i>Steve Elliot and Levi McGarry contributed to this profile.</i></p>
