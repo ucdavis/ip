@@ -9,7 +9,7 @@ image-caption: Farah Ahmad analyzes monosaccarides while in the lab of Dr. Carli
 image-banner: pakistan_banner
 category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
-more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="https://www.gatesnotes.com/Development/Bread-Lab">GatesNotes: "The Bread Lab in My Backyard"</a><br>
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="https://www.gatesnotes.com/Development/Bread-Lab">GatesNotes-The Bread Lab in My Backyard</a><br>
 ---
 Farah Ahmad has become infamous among other USPCAS-AFS doctoral students because of her reaction when departing Pakistan for her American exchange. <br>
 
