@@ -9,13 +9,13 @@ image-caption: Farah Ahmad analyzes monosaccarides while in the lab of Dr. Carli
 image-banner: pakistan_banner
 category: "profiles"
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
-more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="https://www.gatesnotes.com/Development/Bread-Lab">GatesNotes: "The Bread Lab in My Backyard"</a><br>
 ---
 Farah Ahmad has become infamous among other USPCAS-AFS doctoral students because of her reaction when departing Pakistan for her American exchange. <br>
 
 “I was so nervous,” she says, chuckling about the memory now. “The CAS staff had to basically push me onto the plane.”<br>
 
-Seven months later, the chemistry student from UAF showed none of that nervousness when she presented whole-wheat chapatis to Bill Gates. Ms. Ahmad was invited to the Bread Lab, an interdisciplinary kitchen research unit of Washington State University, by Dr. Steve Jones, a USPCAS-AFS research grant collaborator.  Her visit to the Bread Lab allowed her to present some of her project research on modified cereal brans in edible form to Mr. Gates himself. <br>
+Seven months later, the chemistry student from UAF showed none of that nervousness when she presented whole-wheat chapatis to Bill Gates, founder of Microsoft . Ms. Ahmad was invited to the Bread Lab, an interdisciplinary kitchen research unit of Washington State University, by Dr. Steve Jones, a USPCAS-AFS research grant collaborator.  Her visit to the Bread Lab allowed her to present some of her project research on modified cereal brans in edible form to Mr. Gates himself. <br>
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/mbhXJLCdXaU" frameborder="0" allowfullscreen></iframe>
 
