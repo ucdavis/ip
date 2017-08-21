@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Andi Carr
-contact-title: Administrative Assistant, Borlaug LEAP
+contact-title: Program Coordinator, Borlaug LEAP
 category: "person"
 email: abcarr@ucdavis.edu
 phone: (530) 752-8977
