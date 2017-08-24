@@ -1,11 +1,11 @@
 ---
 layout: profiles
 title: Ty Beal
-description: A fellow research researching what 'sustainable diets' means for the Global South
+description: A RIFA fellow researching what 'sustainable diet' means for the Global South
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/ty
 image: /media/profiles/Ty
-image-caption: RIFA Fellow Ty with the rest of the RIFA Vietnam team (from left) Alejandra, Julia and Holly.
+image-caption: RIFA fellow Ty with the rest of the RIFA Vietnam team (from left) Alejandra, Julia and Holly.
 image-banner: vietnam_banner
 category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
@@ -23,4 +23,4 @@ While in Vietnam, Ty fully embraced the cuisine and the beautiful geography of t
 
 <br>
 
-<p><i>Written by Kate Wilkins.</i></p>
+<p><i>Profile written by Kate Wilkins.</i></p>
