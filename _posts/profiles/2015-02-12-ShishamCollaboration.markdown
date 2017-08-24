@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title:  Collaborative Research on Shisham Die-back
-description: Trees in Pakistan are dying from an unknown pathogen. Two UAF faculty researchers unite to find out the culprit and address the disease.
+description: Trees in Pakistan are dying from an unknown pathogen. Two UAF faculty researchers unite to discover the culprit and address the disease.
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/shisham_collaboration
 image: /media/profiles/USPCAS/Ijaz_ul-Haq_Profile
@@ -57,8 +57,9 @@ The research into the fungal cause of shisham die-back is still ongoing, but bot
 
 Dr. Ijaz elaborates: “There is a proverb in Urdu: ‘a frog in a well’. When you just have knowledge of your locality, or your thoughts are restricted, you just know about your boundaries. When you go out of these boundaries, you see different things, and you change your thinking. When I visited UC Davis, I found out there are more ways to think. The experience opened the doors for collaborations between colleagues. Without this exchange, these international collaborations would not exist.” <br>
 
+The U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security (USPCAS-AFS) works to enhance Pakistan’s economic growth and prosperity through applied research, academia-industry collaboration, and innovative academic programs.
 
-The U.S.-Pakistan Center for Advanced Studies (USPCAS) is educating and training the next generation of scientists, engineers, and policy makers through innovative academic programs crucial for Pakistan’s development in agriculture and food security. Through applied research, academia-industry collaboration, and policy formation, USPCAS enhances Pakistan’s economic growth and prosperity. USPCAS was made possible by support from the American people through United States Agency for International Development (USAID). <br>
+<br>
 <br>
 
 <i>This web page is made possible by the support of the United States Government and the American people through the United States Agency for International Development (USAID). The contents of this web page are the sole responsibility of UC Davis and do not necessarily reflect the views of USAID or the United States Government.</i><br>
