@@ -32,10 +32,8 @@ Shisham is a type of tree found throughout Pakistan, northern India, and Nepal. 
 
 “This project has two components,” states Dr. Ijaz, the principal investigator for the research. “The first component is preparing a survey of shisham germplasm and a survey of the different fungal isolates from affected trees. Dr. ul-Haq is doing the identification of the fungal pathogens from the affected plants. My role is based on cataloging the shisham germplasm and screening the genes that are involved in the infection cycle. Different expression profiling and different genomics approaches will be involved to explore what gene or what type of gene or what groups of genes are involved in resistance to shisham die-back.” <br>
 
-<div class="figure">
-<img src=”/media/profiles/USPCAS/UAF_Ijaz_Office.jpg” alt=”Woman wearing dupatta show scientific equipment for genomic sequencing”>
-<figcaption>Dr. Siddra Ijaz stands in her office at the University of Agriculture, Faisalabad.</figcaption>
-</div>
+![Dr. Siddra Ijaz stands in her office at the University of Agriculture, Faisalabad.](/media/profiles/USPCAS/UAF_Ijaz_Office.jpg)
+*Dr. Siddra Ijaz stands in her office at the University of Agriculture, Faisalabad.*
 
 They both returned to Pakistan in the summer of 2016, each with a different plan of action. Dr. Ijaz began to collect samples of shisham trees around Pakistan, gathering over 60 plants from the province of Punjab and finding additional samples in Sindh, Baluchistan, and Khyber Pakhtunkhwa. “With shisham, nobody knows if it is one species or several species,” says Dr. Ijaz. “Nobody knows if there is one variety or many varieties. There is no data, no accession numbers, no variety numbers. So, after our survey, I added a diversity analysis so we can know for certainty whether it is one species or several.” <br>
 
@@ -50,10 +48,10 @@ They were now ready to proceed with the primary research objective. Dr. Ijaz ela
 
 “Dr. ul-Haq is working to assess and analyze the fungal samples for potential causes. After he identifies the suspect fungus through pathogenic testing, he will send the fungal DNA to Dr. Epstein for DNA characterization. She will help confirm the fungal identity. Once Dr. Epstein identifies the exact fungus, Dr. ul-Haq will inoculate the selected shisham varieties which I am identifying. Once we artificially inoculate in greenhouse conditions, we hope to confirm the fungus as the cause of the shisham die-back. At that stage, my goal will be to screen the genes that are involved in the infection cycle, what genes are induced during infection, and hopefully identify what types of genes are involved in resistance to shisham die-back.” <br>
 
-<div class="figure">
+<figure>
 <img src=”/media/profiles/USPCAS/UAF_Fungal_Laboratory.jpg” alt=”Students sit at a lab bench surrounded by supplies”>
 <figcaption>UAF graduate students work on preliminary research in Dr. ul-Haq’s fungal laboratory.</figcaption>
-</div>
+</figure>
 
 To help them with their laboratory analysis, the researchers convinced one of their own students to apply for a USPCAS-AFS exchange position so that he could help build the project’s research capacity. Hafiz Muhammad Usman Aslam, a doctoral student of Dr. ul-Haq’s, arrived at UC Davis in January of 2017 to learn more about molecular research techniques from Dr. Epstein and Dr. Pamela Ronald of the UC Davis Genome Center. “This is a prestigious opportunity to observe cutting-edge research,” said Mr. Aslam, who quantified fungal samples from Pakistan and began sequencing the results during his exchange. “I plan to help implement these techniques in my parent department at UAF.” <br>
 
