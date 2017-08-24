@@ -40,7 +40,7 @@ They both returned to Pakistan in the summer of 2016, each with a different plan
 Dr. ul-Haq began preparing for the work of cataloging the suspect fungal culprits. “When I returned to UAF, I proposed establishing a fungal culture bank that would use the dried filter-paper technique that I learned on exchange,” he states. “I listed the problems that we were facing using our old preservation methods, and stated that we could work more efficiently with this new method. The proposal was approved and we were able to establish the fungal culture bank. We revised this fungal laboratory with new equipment and based the layout directly off of Dr. Epstein’s lab.” Dr. ul-Haq also converted an old storage closet next to his laboratory into a new cold storage space which could store freezers for fungal cultures, and purchased new molecular analysis equipment recommended by research scholars from UC Davis. <br>
 
 <p align="center">
-<img src=”/media/profiles/USPCAS/UAF_Fungal_Storage.jpg” alt=”Scientist stands in lab room with freezers and cold storage systems”>
+![Scientist stands in lab room with freezers and cold storage systems](/media/profiles/USPCAS/UAF_Fungal_Storage.jpg)
 *Once stacked high with desks and chairs, this converted storage room now holds Dr. ul-Haq’s cold storage equipment for his fungal culture bank at UAF.*
 </p>
 
@@ -49,7 +49,7 @@ They were now ready to proceed with the primary research objective. Dr. Ijaz ela
 “Dr. ul-Haq is working to assess and analyze the fungal samples for potential causes. After he identifies the suspect fungus through pathogenic testing, he will send the fungal DNA to Dr. Epstein for DNA characterization. She will help confirm the fungal identity. Once Dr. Epstein identifies the exact fungus, Dr. ul-Haq will inoculate the selected shisham varieties which I am identifying. Once we artificially inoculate in greenhouse conditions, we hope to confirm the fungus as the cause of the shisham die-back. At that stage, my goal will be to screen the genes that are involved in the infection cycle, what genes are induced during infection, and hopefully identify what types of genes are involved in resistance to shisham die-back.” <br>
 
 ![Students sit at a lab bench surrounded by supplies](/media/profiles/USPCAS/UAF_Fungal_Laboratory.jpg)
-<p align="center">*UAF graduate students work on preliminary research in Dr. ul-Haq’s fungal laboratory.*</p>
+<p align="center"><i>UAF graduate students work on preliminary research in Dr. ul-Haq’s fungal laboratory.</i></p>
 
 To help them with their laboratory analysis, the researchers convinced one of their own students to apply for a USPCAS-AFS exchange position so that he could help build the project’s research capacity. Hafiz Muhammad Usman Aslam, a doctoral student of Dr. ul-Haq’s, arrived at UC Davis in January of 2017 to learn more about molecular research techniques from Dr. Epstein and Dr. Pamela Ronald of the UC Davis Genome Center. “This is a prestigious opportunity to observe cutting-edge research,” said Mr. Aslam, who quantified fungal samples from Pakistan and began sequencing the results during his exchange. “I plan to help implement these techniques in my parent department at UAF.” <br>
 
