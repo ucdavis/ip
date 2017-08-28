@@ -33,7 +33,7 @@ The participatory events of this partnering workshop produced volumes of useful 
 ![Dr. Buntong gives project overview](/media/profiles/Photo_5.jpg)<br>
 **Dr. Borarin Buntong, Director of Research and Extension at the Royal University of Agriculture (standing), giving a project overview of the “Innovations to build and scale safe vegetable value chains in Cambodia” project to participants of partnering workshop and encouraging their ongoing participation for the next two and one half years.**
 
-![Cambodian vegetable marketer introduces herself](/media/profiles/Photo_9.jpg)<br>
+![Cambodian vegetable marketer introduces herself](/media/profiles/Photo_9.JPG)<br>
 **Ms. Lep Asy (standing), a safe vegetable marketer within the value chain, is introducing herself and her business to participants of the partnering workshop and expressing interest in developing new partnerships that can diversify her business.**
 
 ![Cambodian farmer speaks about collaboration](/media/profiles/Photo_10.JPG)<br>
