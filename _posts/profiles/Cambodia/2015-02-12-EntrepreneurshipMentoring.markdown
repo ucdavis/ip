@@ -36,13 +36,13 @@ The participatory events of this partnering workshop produced volumes of useful 
 ![Cambodian vegetable marketer introduces herself](/media/profiles/Photo_9.jpg)<br>
 **Ms. Lep Asy (standing), a safe vegetable marketer within the value chain, is introducing herself and her business to participants of the partnering workshop and expressing interest in developing new partnerships that can diversify her business.**
 
-![Cambodian farmer speaks about collaboration](/media/profiles/Photo_10.jpg)<br>
+![Cambodian farmer speaks about collaboration](/media/profiles/Photo_10.JPG)<br>
 **Mr. Nov Keo (standing), a farmer from Sa’ang District who has participated with the UC Davis‐RUA Research Team since 2011 to build a safe vegetable value chain in Kandal province, is introducing himself and describing his experience with the research team and in the emerging safe vegetable value chain.**
 
-![Workshop participants receive instruction](/media/profiles/Photo_22.jpg)<br>
+![Workshop participants receive instruction](/media/profiles/Photo_22.JPG)<br>
 **Project team describing to participants how they will participate in the SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis by writing their ideas for each category on different colored sheets of paper, then posting their ideas under the appropriate category on the wall in the front of the conference room.**
 
-![Workshop participants write about their farming challenges](/media/profiles/Photo_23.jpg)<br>
+![Workshop participants write about their farming challenges](/media/profiles/Photo_23.JPG)<br>
 **Participants writing about their individual perceptions of the Strengths, Weaknesses, Opportunities and Threats that exist in the current vegetable value chain while looking forward towards developing a safe vegetable value chain in Battambang province.**
 
 ![Project leaders discuss workshop results](/media/profiles/Photo_26.jpg)<br>
@@ -54,9 +54,8 @@ The participatory events of this partnering workshop produced volumes of useful 
 ![Participants conduct market survey at Beung Chhouk Market](/media/profiles/Photo_29.jpg)<br>
 **Market survey conducted by workshop participants at Beung Chhouk Market who are making observations, discussing with sellers and taking notes about the types, origin, quality, price, etc. of fruits and vegetables found within this market.**
 
-<img src="/media/profiles/Photo_31.jpg" alt="">
+![Participants touring Angkor Green, an agricultural input shop](/media/profiles/Photo_31.jpg)<br>
 **Workshop participants on a tour and being introduced to locally available products at an agriculture input shop, Angkor Green.**
-
 
 ![Farmers discussing products with market sellers](/media/profiles/Photo_33.jpg)<br>
 **Observations about the types and quality of products available and discussions with collectors and sellers about the price, origin, destination and postharvest practices being conducted by workshop participants on a tour at Phou Pouy Market, a new wholesale distribution center in Battambang.**
