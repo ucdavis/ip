@@ -45,29 +45,29 @@ The participatory events of this partnering workshop produced volumes of useful 
 ![Workshop participants write about their farming challenges](/media/profiles/Photo_23.JPG)<br>
 **Participants writing about their individual perceptions of the Strengths, Weaknesses, Opportunities and Threats that exist in the current vegetable value chain while looking forward towards developing a safe vegetable value chain in Battambang province.**
 
-![Project leaders discuss workshop results](/media/profiles/Photo_26.jpg)<br>
+![Project leaders discuss workshop results](/media/profiles/Photo_26.JPG)<br>
 **In‐country project leaders Dr. Borarin Buntong (left) and Dr. Kim Hian Seng (right) discuss ways the results from the workshop activities can be incorporated into the collaboration between the Horticulture Innovation Lab and the IPM Innovation Lab.**
 
-![UCD researchers discuss next steps](/media/profiles/Photo_27.jpg)<br>
+![UCD researchers discuss next steps](/media/profiles/Photo_27.JPG)<br>
 **UC Davis Team members Dr. Karen LeGrand, Dr. Glenn Young, Dr. Cary Trexler and G. David Miller discussing workshop outcomes and the way forward for the project to impact the safe vegetable value chain in Battambang Province.**
 
-![Participants conduct market survey at Beung Chhouk Market](/media/profiles/Photo_29.jpg)<br>
+![Participants conduct market survey at Beung Chhouk Market](/media/profiles/Photo_29.JPG)<br>
 **Market survey conducted by workshop participants at Beung Chhouk Market who are making observations, discussing with sellers and taking notes about the types, origin, quality, price, etc. of fruits and vegetables found within this market.**
 
-![Participants touring Angkor Green, an agricultural input shop](/media/profiles/Photo_31.jpg)<br>
+![Participants touring Angkor Green, an agricultural input shop](/media/profiles/Photo_31.JPG)<br>
 **Workshop participants on a tour and being introduced to locally available products at an agriculture input shop, Angkor Green.**
 
-![Farmers discussing products with market sellers](/media/profiles/Photo_33.jpg)<br>
+![Farmers discussing products with market sellers](/media/profiles/Photo_33.JPG)<br>
 **Observations about the types and quality of products available and discussions with collectors and sellers about the price, origin, destination and postharvest practices being conducted by workshop participants on a tour at Phou Pouy Market, a new wholesale distribution center in Battambang.**
 
-![Project researchers conducting economic analysis at Phou Pouy Market](/media/profiles/Photo_34.jpg)<br>
+![Project researchers conducting economic analysis at Phou Pouy Market](/media/profiles/Photo_34.JPG)<br>
 **Conducting an economic analysis of the value chain, UC Davis researchers Cary Trexler and David Miller discuss with University of Battambang researcher Hay Chanthol information gathered from wholesale marketers at Phou Pouy Market.**
 
-![Researchers touring a Cambodian pepper farm](/media/profiles/Photo_37.jpg)<br>
+![Researchers touring a Cambodian pepper farm](/media/profiles/Photo_37.JPG)<br>
 **Field visit to pepper farm that was recently converted from a rice field based on favorable economic analysis of market demand.**
 
-![Cambodian farmer shows leafy greens ready for market](/media/profiles/Photo_39.jpg)<br>
+![Cambodian farmer shows leafy greens ready for market](/media/profiles/Photo_39.JPG)<br>
 **Mr. San showing to the workshop participants his high quality leafy greens that are ready for the market.**
 
-![Farmers stand around demonstration table](/media/profiles/Photo_40.jpg)<br>
+![Farmers stand around demonstration table](/media/profiles/Photo_40.JPG)<br>
 **Farmer‐to‐farmer training by lead farmer in Krous Village. Farmers from other villages and provinces throughout Cambodia are watching a demonstration and taking detailed notes about organic fertilizer production.**
