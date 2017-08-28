@@ -54,9 +54,6 @@ The participatory events of this partnering workshop produced volumes of useful 
 ![Participants conduct market survey at Beung Chhouk Market](/media/profiles/Photo_29.JPG)<br>
 **Market survey conducted by workshop participants at Beung Chhouk Market who are making observations, discussing with sellers and taking notes about the types, origin, quality, price, etc. of fruits and vegetables found within this market.**
 
-![Participants touring Angkor Green, an agricultural input shop](/media/profiles/Photo_31.jpg)<br>
-**Workshop participants on a tour and being introduced to locally available products at an agriculture input shop, Angkor Green.**
-
 ![Farmers discussing products with market sellers](/media/profiles/Photo_33.JPG)<br>
 **Observations about the types and quality of products available and discussions with collectors and sellers about the price, origin, destination and postharvest practices being conducted by workshop participants on a tour at Phou Pouy Market, a new wholesale distribution center in Battambang.**
 
