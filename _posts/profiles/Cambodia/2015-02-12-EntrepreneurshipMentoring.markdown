@@ -55,7 +55,7 @@ The participatory events of this partnering workshop produced volumes of useful 
 **Market survey conducted by workshop participants at Beung Chhouk Market who are making observations, discussing with sellers and taking notes about the types, origin, quality, price, etc. of fruits and vegetables found within this market.**
 
 ![Participants touring Angkor Green, an agricultural input shop](/media/profiles/Photo_31.jpg)<img src="/media/profiles/Photo_31.jpg" alt=""><br>
-**Workshop participants on a tour and being introduced to locally available products at an agriculture input shop, Angkor Green.**
+Workshop participants on a tour and being introduced to locally available products at an agriculture input shop, Angkor Green.
 
 
 ![Farmers discussing products with market sellers](/media/profiles/Photo_33.jpg)<br>
