@@ -6,9 +6,9 @@ date:   2015-02-12 16:25:17
 permalink: /profiles/Cambodia/SVVC_entrepreneurship
 image: /media/profiles/Cambodia/intro_field-participants
 image-caption: Particpants from the SVVC Partnership Workshop, February 2017.
-image-banner: Cambodia_banner
+image-banner: cambodia_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
-more-info: <a href="http://horticulture.ucdavis.edu/main/projects/cambodia-safe-vegetables.html" target="_blank">Horticulture Innovation Lab Project Page</a><br>
+more-info: <a href="http://horticulture.ucdavis.edu/main/projects/cambodia-safe-vegetables.html">Horticulture Innovation Lab Project Page</a><br>
 ---
 Safe vegetables promote health, as they are typically free from chemical and microbiological hazards. A safe vegetable value chain (SVVC) includes all of the linked market actors, extending from input providers to local farmers to marketers selling to consumers who seek safe vegetables as part of their routine diet. The USAID project funded by the Horticulture Innovation Lab, “Innovations to build and scale safe vegetable value chains in Cambodia,” aims to strengthen dynamic elements within Cambodian value chain linkages, resulting in improved safe vegetable production and postharvest practices through distribution of products to consumers.
 
@@ -27,7 +27,7 @@ Aside from the focus group discussions, workshop participants also took part in 
 
 The participatory events of this partnering workshop produced volumes of useful information that detail the foundation, focus, and rationale for the current SVVC. Particularly, this workshop gathered information about the current SVVC situation by facilitating interaction between all value chain participants. Below are some photos taken during the participatory workshop and site tours, courtesy of Sam Oeurn Ke.
 
-![professor discuss how to conduct workshop](media/profiles/Cambodia/Photo_3.jpg)<br>
+![Professor Young discusses how to conduct workshop](media/profiles/Cambodia/Photo_3.jpg)<br>
 **Glenn Young (left) and Karen LeGrand (right), mentoring Royal of University of Agriculture faculty, Mr. Tong Socheath (center), on how to conduct the focus group discussions later in the day. This is one example of the UC Davis team's strategic plan to build capacity of local counterparts to conduct research and training after the USAID Safe Vegetable Value Chain project is completed.**
 
 ![Dr. Buntong gives project overview](media/profiles/Cambodia/Photo_5.jpg)<br>
