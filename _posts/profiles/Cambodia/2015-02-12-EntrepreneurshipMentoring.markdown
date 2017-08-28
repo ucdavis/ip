@@ -4,8 +4,8 @@ title:  Mentoring Entrepreneurs in the Cambodian Safe Vegetable Value Chain
 description: Providing support for safe vegetable value chain farmers, suppliers, and stakeholders.
 date:   2015-02-12 16:25:17
 permalink: /profiles/Cambodia/SVVC_entrepreneurship
-image: /media/profiles/intro_field
-image-caption: Participants from February's Partnering Workshop.
+image:
+image-caption:
 image-banner: cambodia_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="http://horticulture.ucdavis.edu/main/projects/cambodia-safe-vegetables.html">Horticulture Innovation Lab Project Page</a><br>
