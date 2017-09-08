@@ -5,7 +5,7 @@ description: A RIFA fellow helping graduate students in Georgia develop local pr
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/bilkis
 image: /media/profiles/Bilkis
-image-caption: 
+image-caption: A class of graduate students and community members in Tbilisi.
 image-banner: pakistan_banner
 category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
