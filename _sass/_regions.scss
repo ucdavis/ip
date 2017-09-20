@@ -88,6 +88,10 @@
         background-image: url("/media/banners/afghanistan_banner.jpg");
         @extend .banner--china_banner;
     }
+    &.banner--amazon_banner {
+        background-image: url("/media/banners/amazon_banner.jpg");
+        @extend .banner--china_banner;
+    }
     &.banner--chile_banner {
         background-image: url("/media/banners/chile_banner.jpg");
         @extend .banner--china_banner;
@@ -130,7 +134,11 @@
     }
     &.banner--UAF_banner {
         background-image: url("/media/banners/UAF_banner.jpg");
-        @extend .banner--china_banner;  
+        @extend .banner--china_banner;
+    }
+    &.banner--uganda_banner {
+        background-image: url("/media/banners/uganda_banner.jpg");
+        @extend .banner--china_banner;
     }
     .banner_contents {
         @include container;
