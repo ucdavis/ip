@@ -5,7 +5,7 @@ description: Accessing quality seed is a complex issue in Pakistan. Three UAF fa
 date:   2015-02-12 16:25:17
 permalink: /profiles/USPCAS/quality_seed
 image: /media/profiles/USPCAS/Seeds_UCD_1
-image-caption:
+image-caption: Seed quality issues hinder the growth of agriculture in Pakistan.
 image-banner: UAF_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
 more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
