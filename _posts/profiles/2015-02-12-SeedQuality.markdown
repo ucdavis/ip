@@ -8,7 +8,7 @@ image: /media/profiles/USPCAS/Seeds_UCD_1
 image-caption: Seed quality issues hinder the growth of agriculture in Pakistan.
 image-banner: UAF_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
-more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br>
+more-info: <a href="/projects/USPCAS">USPCAS-AFS Program Page</a><br><a href="http://sbc.ucdavis.edu/">UC Davis Seed Biotechnology Center</a><br>
 ---
 Agriculture accounts for almost 20% of Pakistan’s Gross Domestic Product (GDP), and is responsible for employing over 40% of the country’s total labor force. Yet, systemic issues continue to hinder the growth potential of Pakistani agriculture. One of the most complex issues is the availability of quality seed for farmers to use. Seed availability is influenced by several factors, and is such a widespread issue that the National Assembly of Pakistan passed the 2015 Seed Amendment Bill in order to provide a deterrence against fake and substandard seeds.<br>
 
