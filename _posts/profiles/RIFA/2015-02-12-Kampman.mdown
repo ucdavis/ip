@@ -1,6 +1,6 @@
 ---
 layout: profiles
-title: Bilkis Bharucha
+title: Halie Kampman
 description: A RIFA fellow conducting a baseline survey for a biofortification project in The Gambia. 
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/halie
