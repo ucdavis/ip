@@ -1,0 +1,62 @@
+---
+layout: profiles
+title: Julia Jordan
+description: Building Capacity in Gender and Irrigation Design with Young Engineers in Uganda
+date:   2015-02-12 16:25:17
+permalink: /profiles/RIFA/julia
+image: /media/profiles/Jordan
+image-caption: Julia leading a workshop with Busitema students on gender equity in the design of irrigation systems in Soroti, Uganda.
+image-banner: uganda_banner
+category: "profiles"
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+---
+
+Under the shade of a mango tree on a cool Monday morning in Soroti, Uganda, ten Busitema University student interns gathered and looked around apprehensively.  They were seated on bright blue plastic chairs outside of the Teso Women’s Development Initiative (TEWDI) office, where they had been meeting for weeks as part of an internship with the project “Innovations in Dry Season Horticulture for Women and Smallholders in East Africa,” or the Horticulture Irrigation Project (HIP). <br>
+
+The group of crop science, agricultural mechanization, and irrigation engineering majors had just been asked to brainstorm and write down the qualities, roles and expectations they associate with women and those they associate with men.  Though initially confused by the exercise, the students were soon furiously scribbling their ideas on a colorful array of sticky notes and, shortly after, engaged in a lively discussion about the gender norms and relationships they have witnessed, experienced, or heard about in their own communities. <br>
+
+PICTURE
+
+These soon-to-be professionals, many of whom hail from rural farm families and villages in various regions of Uganda, debated pervasive assumptions about men’s superior physical strength, contemplated what it means for a woman to be expected to “submit” to her husband, and described the perceived threat of a woman attaining a higher education level than a man.  They reflected on women’s responsibility to collect firewood and water, men’s tendency to manage cattle, and why it may be more common to see women riding bicycles in some regions rather than others.  I encouraged the students to also consider how age, ethnicity, disability status, religion, and other social differences may influence these issues. <br>
+
+“So,” I asked them, “what does all of this have to do with designing irrigation technology?” <br>
+
+<b>Beyond technology</b><br>
+The HIP project is a partnership between the University of California, Davis, TEWDI, Busitema University, farmer groups, engineers, and government agencies to conduct participatory research and development activities in dry-season horticulture, with a focus on small-scale irrigation and water management. <br>
+
+Busitema students, interns, and project assistants have played a significant role in the participatory development of low-cost, easy-to-use, small-scale irrigation technologies for the six vegetable-growing sites in the HIP project. “Technology” in this context simply means the tools and infrastructure that farmers use to access, distribute, and apply water. The students work directly alongside farmers and other project team members in the fields, putting into practice what they learn in the classroom to design and implement these innovations, such as a zero-energy water wheel pump, a low-cost land leveling tool, and an efficient canal system, all of which can be constructed and maintained with locally available materials. <br>
+
+PICTURE
+
+Rather than concentrate solely on the technical and engineering aspects of irrigation, the interdisciplinary HIP project team also emphasizes the social elements of irrigation development. The project aims to understand and address site-specific issues that enable or constrain farmers’ ability to use and benefit from irrigation, including systems of local governance, gender norms and access to land, water, labor, and time. <br>
+
+The meaningful engagement of women and men farmers in the participatory design, planning, training and implementation of irrigation systems has remained a HIP priority, encouraging shared decision-making, group cooperation, and equitable access to irrigation resources and benefits. <br>
+
+PICTURE
+
+<b>Collaborative learning, research, and iterative design</b><br>
+As a 2017 RIFA fellow, I have been working alongside the HIP project since July, exploring the influence of local gender norms and social dynamics on the meaningfulness of farmers’ engagement in small-scale irrigation development. Primarily through interviews, project records review, focus group analysis and survey data, my work seeks to co-define, with women and men farmers in Eastern Uganda, what makes participation “meaningful” in the process of planning, implementation, knowledge-sharing, and maintenance of irrigation systems—and for whom. <br>
+
+In addition to this ongoing research, I have developed and facilitated workshops on addressing gender in irrigation design.  Like the one held under the mango tree at TEWDI’s office, these interactive workshops have provided a space for young engineers and researchers to discuss the specific relationships between gender and agricultural technology innovation that are relevant to the Eastern Ugandan contexts in which they work. During the workshops, students discovered new concepts about gender and social difference, while we collaboratively learned practical, tangible ways to make their designs equitable, considering the constraints and preferences of the individuals who will be using the technologies. <br>
+
+PICTURE
+
+ 
+4th-years agricultural mechanization and irrigation engineering students work in small groups to come up with examples of technology designs that are accessible to diverse farmers, across gender, age, and other differences.
+For many students, it was the first time they had thought about the norms that influence who has control over resources or who is expected to maintain and operate different kinds of irrigation equipment.  One student reflected, “I learned that the design can be made in such a way that favors both genders and this has removed the rigidity in me that design equipment has to be operated by male[s].” <br>
+
+<b>From the classroom to the field</b><br>
+Student application of learning is evident.  During a recent field visit to one of the project sites called Aloet, where farmers are practicing furrow irrigation, students tested a hand-operated land leveler that they recently constructed.  As part of the participatory design process, students, project team members and farmers experimented with the tool and discussed what necessary changes might need to be made.  One of the male farmers in the group watched, eventually commenting that all they need is a man to pull the equipment because, he asserted, “it is too heavy for a woman.”  Without missing a beat, a student intern named Dorothy Ayapo responded, “no we don’t – the women can do it. We are designing for women, too!”<br>
+
+This approach—often referred to as gender-sensitive design—is just one step of many to practically address the complex manifestations of gender in agriculture.  It involves acknowledging gender as a social factor that informs the obligations, constraints, expectations and aspirations of individuals, without reinforcing limiting gender stereotypes when coming up with solutions. <br>
+
+PICTURE
+
+In order for farmers to develop sustainable, appropriate irrigation systems in Uganda, the researchers and practitioners who support them need the language and tools to address gender and other social dynamics that often arise in irrigation development projects. While simultaneously working to enable farmers to sustainably intensify production in the face of climate variability, increase income, save labor time, diversify crops, and reduce negative environmental impacts, a young generation of irrigation engineers and scientists has the opportunity to engage in a process of positive social change and gender equity through irrigation design. <br>
+
+<i>The Horticulture Irrigation Project (HIP) is supported by the Horticulture Innovation Lab and the Global Center for Food Systems Innovation with funding from the U.S. Agency for International Development, as part of the U.S. government’s global hunger and food security initiative called Feed the Future.
+</i><br>
+
+<br>
+
+<p><i>Profile written by Julia Jordan, RIFA Fellow, University of California, Davis.</i></p>
