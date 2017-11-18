@@ -9,6 +9,7 @@ image-caption: Julia leading a workshop with Busitema students on gender equity 
 image-banner: uganda_banner
 category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+---
 
 Under the shade of a mango tree on a cool Monday morning in Soroti, Uganda, ten Busitema University student interns gathered and looked around apprehensively.  They were seated on bright blue plastic chairs outside of the Teso Women’s Development Initiative (TEWDI) office, where they had been meeting for weeks as part of an internship with the project “Innovations in Dry Season Horticulture for Women and Smallholders in East Africa,” or the Horticulture Irrigation Project (HIP). <br>
 
@@ -61,5 +62,3 @@ In order for farmers to develop sustainable, appropriate irrigation systems in U
 
 
 <p><i>Profile written by Julia Jordan, RIFA Fellow, University of California, Davis.</i></p>
-
-
