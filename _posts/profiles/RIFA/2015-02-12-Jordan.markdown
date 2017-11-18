@@ -4,8 +4,7 @@ title: Julia Jordan
 description: Building Capacity in Gender and Irrigation Design with Young Engineers in Uganda
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/julia
-image: /media/profiles/Jordan
-image-caption: 
+image: 
 image-banner: uganda_banner
 category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
