@@ -15,7 +15,7 @@ Under the shade of a mango tree on a cool Monday morning in Soroti, Uganda, ten 
 
 The group of crop science, agricultural mechanization, and irrigation engineering majors had just been asked to brainstorm and write down the qualities, roles and expectations they associate with women and those they associate with men.  Though initially confused by the exercise, the students were soon furiously scribbling their ideas on a colorful array of sticky notes and, shortly after, engaged in a lively discussion about the gender norms and relationships they have witnessed, experienced, or heard about in their own communities. <br>
 
-P<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ucdavisrifa/24632400438/in/dateposted-public/" title="Pic 1"><img src="https://farm5.staticflickr.com/4574/24632400438_d19b389225.jpg" width="500" height="375" alt="Pic 1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ucdavisrifa/24632400438/in/dateposted-public/" title="Leading a workshop with Busitema students on gender equity in the design of irrigation systems in Soroti, Uganda"><img src="https://farm5.staticflickr.com/4574/24632400438_d19b389225_z.jpg" width="640" height="480" alt="Leading a workshop with Busitema students on gender equity in the design of irrigation systems in Soroti, Uganda"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 
 These soon-to-be professionals, many of whom hail from rural farm families and villages in various regions of Uganda, debated pervasive assumptions about men’s superior physical strength, contemplated what it means for a woman to be expected to “submit” to her husband, and described the perceived threat of a woman attaining a higher education level than a man.  They reflected on women’s responsibility to collect firewood and water, men’s tendency to manage cattle, and why it may be more common to see women riding bicycles in some regions rather than others.  I encouraged the students to also consider how age, ethnicity, disability status, religion, and other social differences may influence these issues. <br>
 
@@ -26,23 +26,22 @@ The HIP project is a partnership between the University of California, Davis, TE
 
 Busitema students, interns, and project assistants have played a significant role in the participatory development of low-cost, easy-to-use, small-scale irrigation technologies for the six vegetable-growing sites in the HIP project. “Technology” in this context simply means the tools and infrastructure that farmers use to access, distribute, and apply water. The students work directly alongside farmers and other project team members in the fields, putting into practice what they learn in the classroom to design and implement these innovations, such as a zero-energy water wheel pump, a low-cost land leveling tool, and an efficient canal system, all of which can be constructed and maintained with locally available materials. <br>
 
-PICTURE
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ucdavisrifa/38504709241/in/dateposted-public/" title="Busitema project assistant Goden Nuwamanya demonstrates his water-powered pump design to farmers at a project site in Tente, Uganda."><img src="https://farm5.staticflickr.com/4537/38504709241_5b26f3675f_z.jpg" width="361" height="640" alt="Busitema project assistant Goden Nuwamanya demonstrates his water-powered pump design to farmers at a project site in Tente, Uganda."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 
 Rather than concentrate solely on the technical and engineering aspects of irrigation, the interdisciplinary HIP project team also emphasizes the social elements of irrigation development. The project aims to understand and address site-specific issues that enable or constrain farmers’ ability to use and benefit from irrigation, including systems of local governance, gender norms and access to land, water, labor, and time. <br>
 
 The meaningful engagement of women and men farmers in the participatory design, planning, training and implementation of irrigation systems has remained a HIP priority, encouraging shared decision-making, group cooperation, and equitable access to irrigation resources and benefits. <br>
 
-PICTURE
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ucdavisrifa/24632399838/in/dateposted-public/" title="A farmer at Kyekkide site starts a fuel pump that brings stream water via pipes directly to farmers plots."><img src="https://farm5.staticflickr.com/4581/24632399838_0105348748_z.jpg" width="377" height="640" alt="A farmer at Kyekkide site starts a fuel pump that brings stream water via pipes directly to farmers plots."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 
 <b>Collaborative learning, research, and iterative design</b><br>
 As a 2017 RIFA fellow, I have been working alongside the HIP project since July, exploring the influence of local gender norms and social dynamics on the meaningfulness of farmers’ engagement in small-scale irrigation development. Primarily through interviews, project records review, focus group analysis and survey data, my work seeks to co-define, with women and men farmers in Eastern Uganda, what makes participation “meaningful” in the process of planning, implementation, knowledge-sharing, and maintenance of irrigation systems—and for whom. <br>
 
 In addition to this ongoing research, I have developed and facilitated workshops on addressing gender in irrigation design.  Like the one held under the mango tree at TEWDI’s office, these interactive workshops have provided a space for young engineers and researchers to discuss the specific relationships between gender and agricultural technology innovation that are relevant to the Eastern Ugandan contexts in which they work. During the workshops, students discovered new concepts about gender and social difference, while we collaboratively learned practical, tangible ways to make their designs equitable, considering the constraints and preferences of the individuals who will be using the technologies. <br>
 
-PICTURE
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ucdavisrifa/38504708801/in/dateposted-public/" title="4th-years agricultural mechanization and irrigation engineering students work in small groups to come up with examples of technology designs that are accessible to diverse farmers, across gender, age, and other differences."><img src="https://farm5.staticflickr.com/4520/38504708801_c292a2183c_z.jpg" width="640" height="360" alt="4th-years agricultural mechanization and irrigation engineering students work in small groups to come up with examples of technology designs that are accessible to diverse farmers, across gender, age, and other differences."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 
- 
-4th-years agricultural mechanization and irrigation engineering students work in small groups to come up with examples of technology designs that are accessible to diverse farmers, across gender, age, and other differences.
+ 4th-years agricultural mechanization and irrigation engineering students work in small groups to come up with examples of technology designs that are accessible to diverse farmers, across gender, age, and other differences.
 For many students, it was the first time they had thought about the norms that influence who has control over resources or who is expected to maintain and operate different kinds of irrigation equipment.  One student reflected, “I learned that the design can be made in such a way that favors both genders and this has removed the rigidity in me that design equipment has to be operated by male[s].” <br>
 
 <b>From the classroom to the field</b><br>
@@ -50,7 +49,7 @@ Student application of learning is evident.  During a recent field visit to one 
 
 This approach—often referred to as gender-sensitive design—is just one step of many to practically address the complex manifestations of gender in agriculture.  It involves acknowledging gender as a social factor that informs the obligations, constraints, expectations and aspirations of individuals, without reinforcing limiting gender stereotypes when coming up with solutions. <br>
 
-PICTURE
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/ucdavisrifa/24632398418/in/dateposted-public/" title="Two farmers at Aloet site use a manual land-leveling machine to even the land prior to making furrows, designed by interns Felister Arao, Suzan Akwi, and Dorothy Ayapo."><img src="https://farm5.staticflickr.com/4585/24632398418_246440f7d3_z.jpg" width="640" height="480" alt="Two farmers at Aloet site use a manual land-leveling machine to even the land prior to making furrows, designed by interns Felister Arao, Suzan Akwi, and Dorothy Ayapo."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 
 In order for farmers to develop sustainable, appropriate irrigation systems in Uganda, the researchers and practitioners who support them need the language and tools to address gender and other social dynamics that often arise in irrigation development projects. While simultaneously working to enable farmers to sustainably intensify production in the face of climate variability, increase income, save labor time, diversify crops, and reduce negative environmental impacts, a young generation of irrigation engineers and scientists has the opportunity to engage in a process of positive social change and gender equity through irrigation design. <br>
 
@@ -58,7 +57,5 @@ In order for farmers to develop sustainable, appropriate irrigation systems in U
 </i><br>
 
 <br>
-
-
 
 <p><i>Profile written by Julia Jordan, RIFA Fellow, University of California, Davis.</i></p>
