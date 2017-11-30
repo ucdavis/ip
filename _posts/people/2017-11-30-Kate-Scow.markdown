@@ -1,0 +1,14 @@
+---
+layout: person
+contact-name: Kate Scow, PhD
+contact-title: Professor of Soil Science and Soil Microbial Ecologist, Department of Land, Air, and Water Resources
+category: "person"
+phone: (530) 752-4632
+email: kmscow@ucdavis.edu
+image: /media/team/scow
+permalink: /team/scow
+tags:
+- Faculty
+---
+
+Kate Scow is Professor of Soil Science and Microbial Ecology in the Department of Land, Air and Water Resources and Director of the Russell Ranch Sustainable Agriculture Facility that hosts the Century Experiment (http://asi.ucdavis.edu/rr).  Scow is also Chair of the International Agricultural Development Graduate Group. She received her MS and PhD degrees in Soil Science from Cornell University in 1986 and 1989, respectively. She is a Fellow of the Soil Science Society of America and Chief Editor for the journal Soil Biology and Biochemistry. Scow’s research program investigates the role of soil microbial communities in providing ecosystem services in agricultural and polluted ecosystems.  Specifically she investigates linkages between microbial diversity and nitrogen cycling, responses of soil functional diversity to longterm management practices, effects of co-contaminants in organic amendments on soil communities, and works in Uganda on soil management and irrigation practices for vegetable production by smallholder farmers.
