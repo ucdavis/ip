@@ -4,8 +4,6 @@ title: Alicia Calle
 description: A fellow researching farmers’ engagement in restoration activities within silvopastoral projects
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/alicia
-image: /media/profiles/Alicia
-
 image-banner: pakistan_banner
 category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
