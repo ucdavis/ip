@@ -5,11 +5,14 @@ description: A fellow researching farmers’ engagement in restoration activitie
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/alicia
 image: /media/profiles/Alicia
-image-caption: RIFA Fellow Alicia walking around in a recovering pasture
+
 image-banner: pakistan_banner
 category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZEyA8IkHO9U?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> <br>
+
 Alicia Calle is an Environmental Studies PhD student at UC Santa Cruz and a RIFA fellow at the Centre for Research on Sustainable Farming Systems (CIPAV) in Cali, Colombia. She is researching what barriers, motivations and potential incentives exist for farmers to engage in restoration activities during the process of adoption of silvopastoral systems on degraded grazing lands. <br>
 
 Silvopastoral systems (SPS) combine agroforesty with improved animal management practices to reduce the negative environmental impacts of grazing. Benefits to the environment include reduced soil erosion and better habitat connectivity, while economic benefits include better income opportunities through increased productivity and product diversification (animals and lumber products). Because cattle ranching is a leading cause of land degradation and the dominant land use in Latin America, SPS have great potential for large-scale Forest Landscape Restoration (FLR), a strategy aimed at integrating natural ecosystems, sustainable production lands and restoration areas. <br>
