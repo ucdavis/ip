@@ -8,7 +8,7 @@ email: jwhopmans@ucdavis.edu
 image: /media/team/jhopmans
 permalink: /team/jan-hopmans
 tags:
-- Administration
+- Dean
 ---
 
 Dr. Jan W. Hopmans graduated with a Master degree in Hydrology at Wageningen Agricultural University (Netherlands) in 1981 and received his PhD in 1985 at Auburn University (USA) in soil physics. He is Professor of Vadose Zone Hydrology at UC Davis.

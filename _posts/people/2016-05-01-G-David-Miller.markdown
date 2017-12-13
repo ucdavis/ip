@@ -8,7 +8,7 @@ email: gdmiller@ucdavis.edu
 image: /media/team/gmiller
 permalink: /team/g-david-miller
 tags:
-- Administration
+- Project
 ---
 
 G. David Miller is an Academic Coordinator within the Department of Plant Sciences and Lecturer within the International Agricultural Development Program in the College of Agriculture and Environmental Science at UC Davis where he teaches courses in Project Design and Management and Development Theory and is faculty adviser both in the IAD Graduate Group and in the Blum Center. In addition, he is co-coordinating USAID Hort-CRSP funded projects in both Vietnam and Cambodia in collaboration with several local universities.

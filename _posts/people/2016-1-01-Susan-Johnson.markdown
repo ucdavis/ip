@@ -8,7 +8,7 @@ email: snjohnson@ucdavis.edu
 image: /media/team/sjohnson
 permalink: /team/susan-johnson
 tags:
-- Administration
+- Project
 ---
 
 Susan Johnson grew-up in Davis and in 1994 began working for UC Davis’ Small Ruminant Collaborative Research Support Program (SR-CRSP). She coordinated and helped redesign the CRSP which led to the creation of the Global Livestock Collaborative Research Support Program (GL-CRSP) in 1997. Johnson served as Associate Director for Planning and Strategic Development at the Global Livestock CRSP with responsibility for project monitoring, evaluation and support, development of new initiatives, and knowledge management and capacity building programs. In 2004, Johnson was part of the collaboration with Dr. Borlaug, Texas A&M, USDA, USAID and CIMMYT that created and designed the Norman E. Borlaug LEAP Fellowships.
