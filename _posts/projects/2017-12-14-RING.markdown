@@ -5,7 +5,7 @@ description: Investing in local government, supporting sustainable change
 category: "project"
 contact: <br>
 funding: Supported by USAID
-partners: USAID<br>Global Communities (Project Lead)<br><br>UC Davis<br>
+partners: USAID<br>Global Communities (Project Lead)<br>UC Davis<br>
 image-banner: pakistan_banner
 image: 
 image-caption: 
