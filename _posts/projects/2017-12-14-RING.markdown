@@ -6,7 +6,7 @@ category: "project"
 contact: <br>
 funding: Supported by USAID
 partners: USAID<br>Global Communities (Project Lead)<br>UC Davis<br>
-image-banner: savannah_banner
+image-banner: pakistan_banner
 image: 
 image-caption: 
 permalink: /projects/RING
