@@ -3,7 +3,7 @@ layout: project
 title: Resiliency in Northern Ghana (RING)
 description: Investing in local government, supporting sustainable change
 category: "project"
-contact: <br><a href="/team/nancy-allen">Nancy Allen</a><br>
+contact:<a href="/team/nancy-allen">Nancy Allen</a><br>
 funding: Supported by USAID
 partners: USAID<br>Global Communities (Project Lead)<br>UC Davis<br>
 image-banner: pakistan_banner
