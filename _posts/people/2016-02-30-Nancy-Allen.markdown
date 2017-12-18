@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Nancy J. Allen, PhD
-contact-title: Deputy Project Director, U.S.-Pakistan Center for Advanced Studies in Agriculture and Food Security
+contact-title: Associate Director of Monitoring and Evaluation
 category: "person"
 phone:
 email: njallen@ucdavis.edu

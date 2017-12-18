@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Rachel (Chelo) V. Abrenilla
-contact-title: Analyst - Manager
+contact-title: Director of Operations
 category: "person"
 phone: (530) 754-0275
 email: rvabrenilla@ucdavis.edu
