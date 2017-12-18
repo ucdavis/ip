@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Kate Lincoln, MS
-contact-title: Senior Writer, Grants & Proposal Development
+contact-title: Director of Partnerships and Strategic Communications
 category: "person"
 phone:
 email: kmlincoln@ucdavis.edu
