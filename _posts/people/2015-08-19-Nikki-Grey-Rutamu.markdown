@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Nikki Grey Rutamu
-contact-title: Assocaite Director of International Training Programs
+contact-title: Training Programs Specialist
 category: "person"
 email: ngreyrutamu@ucdavis.edu
 phone: (530) 297-4650
