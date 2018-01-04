@@ -7,6 +7,8 @@ contact:<a href="/team/nancy-allen">Nancy Allen</a><br>
 funding: Supported by USAID
 partners: USAID<br>Global Communities (Project Lead)<br>UC Davis<br>
 image-banner: pakistan_banner
+image: /media/projects/INGENAES/project_banner
+image-caption: Photo credit Mark Bell
 permalink:/projects/RING
 more-info: <a href="https://www.globalcommunities.org/node/38365/" target="_blank">RING - Global Communities</a>
 tags:
