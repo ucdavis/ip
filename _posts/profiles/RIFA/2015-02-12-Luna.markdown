@@ -8,7 +8,7 @@ image: /media/profiles/Israel
 image-caption: Israel (left) with RIFA fellow Graeme Baird and PUCV master's student Jeanette Guajardo surveying a 120 hectare walnut orchard and colelcting samples for lab analysis.
 image-banner: chile_banner
 category: "profiles"
-more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a>
 ---
 
 Israel Jimenez Luna is a Plant Biology PhD student at UC Riverside and a RIFA fellow at Pontificia Universidad Católica de Valparaíso (PUCV) in Chile. He arrived to Chile mid-June to focus his research on the effects of root rot in walnut trees and the potential management techniques or biological interventions that may reduce the susceptibility of walnuts to this widespread pathogen. In Chile, the Phytophthora species produces spores that can penetrate the root, branches and crown of trees and cause tissue decay when the soil is wet. This pathogen currently accounts for up to a 25% loss in total annual production of walnuts grown in Chile for the processing industry. The orchards for the processing industry are usually direct-seeded and furrow irrigated, likely increasing the infection of trees by Phytophtora  due to the fact that water stagnates and thus providing the environmental conditions for zoospores to develop. <br>

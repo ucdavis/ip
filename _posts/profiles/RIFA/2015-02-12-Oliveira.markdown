@@ -8,7 +8,7 @@ image: /media/profiles/Flavia
 image-caption: Faxinal community members dividing up chickens they purchased through their farmers' association.
 image-banner: chile_banner
 category: "profiles"
-more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a>
 ---
 Flavia Oliveira, a PhD Student in Environmental Studies from UC Santa Cruz, is currently in the state of Paraná, Southern Brazil, working on her RIFA project and dissertation research about the role of local institutions for promoting forest conservation in a traditional farming system named faxinal. This system is recognized by the state government to generate sustainable outcomes, including forest conservation. For instance, its main characteristic is communal, small-scale livestock farming in an area where forest removal is not allowed. <br>
 

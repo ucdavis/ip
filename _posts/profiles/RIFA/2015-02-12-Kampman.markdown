@@ -8,7 +8,7 @@ image: /media/profiles/Halie
 image-caption: RIFA fellow Halie conducting interviews beneath a tree in Njawara.
 image-banner: kenya_banner
 category: "profiles"
-more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a>
 ---
 
 Halie Kampman is an Environmental Studies PhD student from UC Santa Cruz and a RIFA fellow at United Purpose in The Gambia. At Santa Cruz, Halie studies food systems and nutrition in West Africa and during her three months in the Gambia she is conducting a baseline survey for a United Purpose project on biofortication for improved nutrition. Halie’s goal is to understand farmers’ planting and consumption patterns for orange and white sweet potatoes, biofortifiied millet, and African leafy vegetables, as well as the perceptions and barriers which shape these patterns. <br>

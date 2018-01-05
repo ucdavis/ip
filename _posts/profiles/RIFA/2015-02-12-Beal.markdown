@@ -8,7 +8,7 @@ image: /media/profiles/Ty
 image-caption: RIFA fellow Ty with the rest of the RIFA Vietnam team (from left) Alejandra, Julia and Holly.
 image-banner: vietnam_banner
 category: "profiles"
-more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a>
 ---
 
 Ty Beal is a Geography PhD student at UC Davis and a RIFA fellow who recently completed his fellowship at the International Center for Tropical Agriculture in Hanoi, Vietnam. At UC Davis, Ty’s research focuses on nutrition and agricultural geography, so he was well suited to work on a CIAT project leveraging data and research insights to inform policy on improving sustainable diets in the Global South. <br> 
