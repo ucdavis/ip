@@ -3,11 +3,11 @@ layout: project
 title: Resiliency in Northern Ghana (RING)
 description: Investing in local government, supporting sustainable change
 category: "project"
-contact:<a href="/team/nancy-allen">Nancy Allen</a><br>
+contact: <a href="/team/nancy-allen">Nancy Allen</a><br>
 funding: Supported by USAID
 partners: USAID<br>Global Communities (Project Lead)<br>UC Davis<br>
 image-banner: pakistan_banner
-permalink:/projects/RING
+permalink: /projects/RING
 more-info: <a href="https://www.globalcommunities.org/node/38365/" target="_blank">RING - Global Communities</a>
 tags:
 - Ghana
@@ -19,7 +19,7 @@ fashion. RING applies a multidisciplinary approach to increase the resiliency of
 households through agriculture, income generation, savings and loans, nutrition, WASH, and
 governance interventions. Through these interventions, the project aims to improve the lives of
 women, namely by decreasing their time burden, increasing their control over household
-income, and increasing their social capital, thereby creating more resilient families. 
+income, and increasing their social capital, thereby creating more resilient families.
 
 <br>
 <br>
