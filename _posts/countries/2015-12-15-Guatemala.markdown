@@ -23,6 +23,8 @@ For the next project phase, which began in 2016, UC Davis is reviewing and devel
 </ul>
 <br>
 
+<div class= "figure"> <img src="/media/projects/Guatemala/elana.jpg" alt="UC Davis project coordinator Elana Peach-Fine speaking with local officials"><p>UC Davis project coordinator Elana Peach-Fine speaking with local officials</p> </div>
+
 <h3>Past Events</h3>
 
 <p><a href="http://horticulture.ucdavis.edu/2017/">2017 Horticulture Innovation Lab Annual Meeting, Antigua, Guatemala</a></p><br>
