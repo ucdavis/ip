@@ -19,8 +19,9 @@ For the next project phase, which began in 2016, UC Davis is reviewing and devel
 	<li> Work with USAC to develop a new curriculum and course content, including the fifth module on value chains and the marketing of agricultural products for the Certificate Program. </li><br>
 	<li> In collaboration with USAC, conduct the training sessions on Module 2 and Module 5 for 10 cycles of the Certificate program, about 100 training days over the life of the program.</li><br>
 	<li>Collaborate on the transition plan for USAC to fully adopt the Certificate Program and develop an academic major and career-track program within the USAC Faculty of Agriculture as a way to sustain extension agent training beyond the life of the FFPr.</li><br>
-	<li> As part of the long term strategy to build capacity of extension agents, UC Davis will review the current curricula of Guatemala Agricultural Middle Training Schools (Escuela de Formacion Agricola (EFA) and National Central High School of Agriculture (Escuela Nacional Central de Agricultura (ENCA), which are the main source of applicants for USAC.</li></ol><br>
-
+	<li> As part of the long term strategy to build capacity of extension agents, UC Davis will review the current curricula of Guatemala Agricultural Middle Training Schools (Escuela de Formacion Agricola (EFA) and National Central High School of Agriculture (Escuela Nacional Central de Agricultura (ENCA), which are the main source of applicants for USAC.</li>
+</ul>
+<br>
 
 <h3>Past Events</h3>
 
