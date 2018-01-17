@@ -25,7 +25,7 @@ In Decemeber 2017 UC Davis began reviewing and developing new curriculum and cou
 <div class= "figure"> <img src="/media/projects/Guatemala/elana.jpg" alt="UC Davis project coordinator Elana Peach-Fine speaking with local extension officials"><p>UC Davis project coordinator Elana Peach-Fine speaking with local extension officials</p> </div>
 <br>
 
-<h3>Past Events</h3>
+<!--<h3>Past Events</h3>
 
 <p><a href="http://horticulture.ucdavis.edu/2017/">2017 Horticulture Innovation Lab Annual Meeting, Antigua, Guatemala</a></p>
 
@@ -36,7 +36,7 @@ In Decemeber 2017 UC Davis began reviewing and developing new curriculum and cou
 <a href="https://www.ucdavis.edu/news/bringing-more-irrigation-and-climate-smart-farming-guatemala">UC Davis News: "Bringing More Irrigation and Climate-Smart Farming to Guatemala"</a>
 
 <br>
-For more information on the Feed the Future Horticulture Innovation Lab, visit <a href="http://horticulture.ucdavis.edu/">horticulture.ucdavis.edu</a>.</p>
+For more information on the Feed the Future Horticulture Innovation Lab, visit <a href="http://horticulture.ucdavis.edu/">horticulture.ucdavis.edu</a>.</p>-->
 
 
 <!--<div class="relatedprojects">
@@ -50,7 +50,7 @@ For more information on the Feed the Future Horticulture Innovation Lab, visit <
 	        <p class="feed-description">{{ post.description }}</p>
 	        <p class="primary-color">Learn More</p>
 	    </div>
-    </a>
+	    </a>
     {% endfor %}
 </div>
 -->
