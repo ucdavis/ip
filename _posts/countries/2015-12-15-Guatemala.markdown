@@ -4,7 +4,7 @@ title:  "Guatemala"
 description: "Capacity Building for Guatemala's National Rural Extension System."
 date:   2015-12-15 16:25:17
 category: "country"
-contact: 
+contact: <a href="/team/elana-peach-fine"> Elana Peach-Fine</a><br>
 permalink: /countries/guatemala
 image-banner: guatemala_banner
 image: /media/projects/Guatemala/project_field
@@ -29,7 +29,6 @@ For the next project phase, which began in 2016, UC Davis is reviewing and devel
 
 <h3>Media Mentions</h3>
 <p><a href="https://www.ucdavis.edu/news/bringing-more-irrigation-and-climate-smart-farming-guatemala">UC Davis News: "Bringing More Irrigation and Climate-Smart Farming to Guatemala"</a>
-
 <br>
 For more information on the Feed the Future Horticulture Innovation Lab, visit <a href="http://horticulture.ucdavis.edu/">horticulture.ucdavis.edu</a>.</p>
 
