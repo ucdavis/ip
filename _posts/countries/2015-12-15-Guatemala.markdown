@@ -1,7 +1,7 @@
 ---
 layout: country
 title:  "Guatemala"
-description: "Through the Horticulture Innovation Lab, UC Davis faculty members are engaged in agricultural projects in the 'Land of the Eternal Spring'."
+description: "Capacity Building for Guatemala's National Rural Extension System."
 date:   2015-12-15 16:25:17
 category: "country"
 contact: 
