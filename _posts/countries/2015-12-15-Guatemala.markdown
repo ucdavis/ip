@@ -1,7 +1,7 @@
 ---
 layout: country
 title:  "Guatemala"
-description: "Capacity Building for Guatemala's National Rural Extension System."
+description: "Capacity Building for Guatemala's National Rural Extension System"
 date:   2015-12-15 16:25:17
 category: "country"
 contact: 
@@ -24,10 +24,11 @@ For the next project phase, which began in 2016, UC Davis is reviewing and devel
 <br>
 
 <div class= "figure"> <img src="/media/projects/Guatemala/elana.jpg" alt="UC Davis project coordinator Elana Peach-Fine speaking with local officials"><p>UC Davis project coordinator Elana Peach-Fine speaking with local officials</p> </div>
+<br>
 
 <h3>Past Events</h3>
 
-<p><a href="http://horticulture.ucdavis.edu/2017/">2017 Horticulture Innovation Lab Annual Meeting, Antigua, Guatemala</a></p><br>
+<p><a href="http://horticulture.ucdavis.edu/2017/">2017 Horticulture Innovation Lab Annual Meeting, Antigua, Guatemala</a></p>
 
 <h3>Media Mentions</h3>
 
