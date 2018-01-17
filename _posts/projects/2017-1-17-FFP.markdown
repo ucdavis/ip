@@ -6,8 +6,8 @@ category: "project"
 contact: <a href="/team/elana-peach-fine">Elana Peach-Fine</a><br>
 funding: Supported by USDA
 partners: Counterpart International (lead)<br>Universidad de San Carlos de Guatemala (USAC)<br>UC Davis<br>
-image: /media/projects/Guatemala/elana
-image-banner: guatemala_project_field
+image: /media/projects/Guatemala/project_field
+image-banner: guatemala_banner
 permalink: /projects/FFP
 more-info: <a href="https://www.counterpart.org/projects/food-for-progress/" target="_blank">Counterpart International Food for Progress in Guatemala</a>
 tags:
