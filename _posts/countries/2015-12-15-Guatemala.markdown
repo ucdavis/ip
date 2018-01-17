@@ -17,8 +17,6 @@ permalink: /countries/guatemala
 
 <p><a href="https://www.ucdavis.edu/news/bringing-more-irrigation-and-climate-smart-farming-guatemala">UC Davis News: "Bringing More Irrigation and Climate-Smart Farming to Guatemala"</a>
 
-<a href="https://www.ucdavis.edu/news/bringing-more-irrigation-and-climate-smart-farming-guatemala">UC Davis News: "Bringing More Irrigation and Climate-Smart Farming to Guatemala"</a>
-
 <br>
 For more information on the Feed the Future Horticulture Innovation Lab, visit <a href="http://horticulture.ucdavis.edu/">horticulture.ucdavis.edu</a>.</p>
 
