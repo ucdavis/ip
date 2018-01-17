@@ -32,6 +32,9 @@ For the next project phase, which began in 2016, UC Davis is reviewing and devel
 <a href="https://www.ucdavis.edu/news/bringing-more-irrigation-and-climate-smart-farming-guatemala">UC Davis News: "Bringing More Irrigation and Climate-Smart Farming to Guatemala"</a>
 =======
 <p><a href="https://www.ucdavis.edu/news/bringing-more-irrigation-and-climate-smart-farming-guatemala">UC Davis News: "Bringing More Irrigation and Climate-Smart Farming to Guatemala"</a>
+<<<<<<< HEAD
+>>>>>>> parent of 8b361dd... guatemala edit
+=======
 >>>>>>> parent of 8b361dd... guatemala edit
 
 <br>
