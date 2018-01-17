@@ -1,31 +1,15 @@
 ---
 layout: country
 title:  "Guatemala"
-description: "Capacity Building for Guatemala's National Rural Extension System"
+description: "Through the Horticulture Innovation Lab, UC Davis faculty members are engaged in agricultural projects in the 'Land of the Eternal Spring"
 date:   2015-12-15 16:25:17
 category: "country"
-contact: <a href="/team/elana-peach-fine"> Elana Peach Fine </a>
+contact: 
 permalink: /countries/guatemala
 
 ---
 
-<p>Over the past four years, the USDA-funded Food for Progress project implemented by Counterpart International in Guatemala has sought to address the needs of smallholder producers, mainly through its support for the rebirth of Guatemala’s National Rural Extension System (Sistema Nacional de Extensión Rural (SNER), under the authority of the Ministry of Agriculture, Livestock, and Food (Ministerio de Agricultura, Ganadería y Alimentación (MAGA). UC Davis and Universidad de San Carlos de Guatemala (USAC) developed a special Rural Certificate Training Program and about 400 extension agents were trained in six cycles of the training program conducted between 2013-2016. <br><br>
-
-In Decemeber 2017 UC Davis began reviewing and developing new curriculum and course content for the Certificate Program as well as providing training and logistical support in partnership with USAC to deliver this Certificate Program. UC Davis will also assist USAC in assessing its potential and devising a strategy for expanding the Certification Program into an academic major. <br>
-
-<h3> Capacity Building Activities </h3>
-   <ul>
-	<li> Work with USAC to develop a new curriculum and course content, including the fifth module on value chains and the marketing of agricultural products for the Certificate Program. </li><br>
-	<li> In collaboration with USAC, conduct the training sessions on Module 2 and Module 5 for 10 cycles of the Certificate program, about 100 training days over the life of the program.</li><br>
-	<li>Collaborate on the transition plan for USAC to fully adopt the Certificate Program and develop an academic major and career-track program within the USAC Faculty of Agriculture as a way to sustain extension agent training beyond the life of the FFPr.</li><br>
-	<li> As part of the long term strategy to build capacity of extension agents, UC Davis will review the current curricula of Guatemala Agricultural Middle Training Schools (Escuela de Formacion Agricola (EFA) and National Central High School of Agriculture (Escuela Nacional Central de Agricultura (ENCA), which are the main source of applicants for USAC.</li>
-</ul>
-<br>
-
-<div class= "figure"> <img src="/media/projects/Guatemala/elana.jpg" alt="UC Davis project coordinator Elana Peach-Fine speaking with local extension officials"><p>UC Davis project coordinator Elana Peach-Fine speaking with local extension officials</p> </div>
-<br>
-
-<!--<h3>Past Events</h3>
+<h3>Past Events</h3>
 
 <p><a href="http://horticulture.ucdavis.edu/2017/">2017 Horticulture Innovation Lab Annual Meeting, Antigua, Guatemala</a></p>
 
@@ -36,7 +20,7 @@ In Decemeber 2017 UC Davis began reviewing and developing new curriculum and cou
 <a href="https://www.ucdavis.edu/news/bringing-more-irrigation-and-climate-smart-farming-guatemala">UC Davis News: "Bringing More Irrigation and Climate-Smart Farming to Guatemala"</a>
 
 <br>
-For more information on the Feed the Future Horticulture Innovation Lab, visit <a href="http://horticulture.ucdavis.edu/">horticulture.ucdavis.edu</a>.</p>-->
+For more information on the Feed the Future Horticulture Innovation Lab, visit <a href="http://horticulture.ucdavis.edu/">horticulture.ucdavis.edu</a>.</p>
 
 
 <!--<div class="relatedprojects">
