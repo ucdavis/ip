@@ -9,9 +9,9 @@ permalink: /countries/guatemala
 
 ---
 
-<p>Over the past four years, the USDA-funded Food for Progress project implemented by Counterpart International in Guatemala has sought to address the needs of smallholder producers, mainly through its support for the rebirth of Guatemala’s National Rural Extension System (Sistema Nacional de Extensión Rural (SNER), under the authority of the Ministry of Agriculture, Livestock, and Food (Ministerio de Agricultura, Ganadería y Alimentación (MAGA). UC Davis and Universidad de San Carlos de Guatemala (USAC) developed a special Rural Certificate Training Program and about 400 extension agents were trained in six cycles of the training program conducted between 2013-2016. <br> 
+<p>Over the past four years, the USDA-funded Food for Progress project implemented by Counterpart International in Guatemala has sought to address the needs of smallholder producers, mainly through its support for the rebirth of Guatemala’s National Rural Extension System (Sistema Nacional de Extensión Rural (SNER), under the authority of the Ministry of Agriculture, Livestock, and Food (Ministerio de Agricultura, Ganadería y Alimentación (MAGA). UC Davis and Universidad de San Carlos de Guatemala (USAC) developed a special Rural Certificate Training Program and about 400 extension agents were trained in six cycles of the training program conducted between 2013-2016. <br><br>
 
-For the next project phase, which began in 2016, UC Davis is reviewing and developing new curriculum and course content for the Certificate Program as well as providing training and logistical support in partnership with USAC to deliver this Certificate Program. UC Davis will also assist USAC in assessing its potential and devising a strategy for expanding the Certification Program into an academic major. <br>
+In Decemeber 2017 UC Davis began reviewing and developing new curriculum and course content for the Certificate Program as well as providing training and logistical support in partnership with USAC to deliver this Certificate Program. UC Davis will also assist USAC in assessing its potential and devising a strategy for expanding the Certification Program into an academic major. <br>
 
 <h3> Capacity Building Activities </h3>
    <ul>
@@ -22,7 +22,7 @@ For the next project phase, which began in 2016, UC Davis is reviewing and devel
 </ul>
 <br>
 
-<div class= "figure"> <img src="/media/projects/Guatemala/elana.jpg" alt="UC Davis project coordinator Elana Peach-Fine speaking with local officials"><p>UC Davis project coordinator Elana Peach-Fine speaking with local officials</p> </div>
+<div class= "figure"> <img src="/media/projects/Guatemala/elana.jpg" alt="UC Davis project coordinator Elana Peach-Fine speaking with local extension officials"><p>UC Davis project coordinator Elana Peach-Fine speaking with local extension officials</p> </div>
 <br>
 
 <h3>Past Events</h3>
