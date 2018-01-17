@@ -6,8 +6,7 @@ date:   2015-12-15 16:25:17
 category: "country"
 contact: 
 permalink: /countries/guatemala
-image-banner: guatemala_banner
-image: /media/projects/Guatemala/project_field
+
 ---
 
 <p>Over the past four years, the USDA-funded Food for Progress project implemented by Counterpart International in Guatemala has sought to address the needs of smallholder producers, mainly through its support for the rebirth of Guatemala’s National Rural Extension System (Sistema Nacional de Extensión Rural (SNER), under the authority of the Ministry of Agriculture, Livestock, and Food (Ministerio de Agricultura, Ganadería y Alimentación (MAGA). UC Davis and Universidad de San Carlos de Guatemala (USAC) developed a special Rural Certificate Training Program and about 400 extension agents were trained in six cycles of the training program conducted between 2013-2016. <br> 
