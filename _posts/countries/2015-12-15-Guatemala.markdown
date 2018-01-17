@@ -9,7 +9,19 @@ permalink: /countries/guatemala
 image-banner: guatemala_banner
 ---
 
-<h3>Upcoming Events</h3>
+<p>Over the past four years, the USDA-funded Food for Progress project implemented by Counterpart International in Guatemala has sought to address the needs of smallholder producers, mainly through its support for the rebirth of Guatemala’s National Rural Extension System (Sistema Nacional de Extensión Rural (SNER), under the authority of the Ministry of Agriculture, Livestock, and Food (Ministerio de Agricultura, Ganadería y Alimentación (MAGA). UC Davis and Universidad de San Carlos de Guatemala (USAC) developed a special Rural Certificate Training Program and about 400 extension agents were trained in six cycles of the training program conducted between 2013-2016. 
+
+For the next project phase, which began in 2016, UC Davis is reviewing and developing new curriculum and course content for the Certificate Program as well as providing training and logistical support in partnership with USAC to deliver this Certificate Program. UC Davis will also assist USAC in assessing its potential and devising a strategy for expanding the Certification Program into an academic major. <br>
+
+<h4> Capacity Building Activities </h4>
+   <ol>
+	<li> Work with USAC to develop a new curriculum and course content, including the fifth module on value chains and the marketing of agricultural products for the Certificate Program. </li>
+	<li> In collaboration with USAC, conduct the training sessions on Module 2 and Module 5 for 10 cycles of the Certificate program, about 100 training days over the life of the program.</li>
+	<li>Collaborate on the transition plan for USAC to fully adopt the Certificate Program and develop an academic major and career-track program within the USAC Faculty of Agriculture as a way to sustain extension agent training beyond the life of the FFPr.</li>
+	<li> As part of the long term strategy to build capacity of extension agents, UC Davis will review the current curricula of Guatemala Agricultural Middle Training Schools (Escuela de Formacion Agricola (EFA) and National Central High School of Agriculture (Escuela Nacional Central de Agricultura (ENCA), which are the main source of applicants for USAC.</li></ol>
+
+
+<h3>Past Events</h3>
 
 - <a href="http://horticulture.ucdavis.edu/2017/">2017 Horticulture Innovation Lab Annual Meeting, Antigua, Guatemala</a><br>
 
