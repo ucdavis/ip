@@ -4,7 +4,7 @@ title:  "Guatemala"
 description: "Capacity Building for Guatemala's National Rural Extension System"
 date:   2015-12-15 16:25:17
 category: "country"
-contact: 
+contact: <a href="/team/elana-peach-fine"> Elana Peach Fine </a>
 permalink: /countries/guatemala
 
 ---
