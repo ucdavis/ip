@@ -13,9 +13,9 @@ tags:
 - Ghana
 
 ---
-The USAID Resiliency in Northern Ghana Project (RING) project is a poverty reduction program
-designed to improve the nutrition and livelihood status of vulnerable households in an integrated
-fashion. RING applies a multidisciplinary approach to increase the resiliency of these
+UC Davis is working with USAID and Global Communities to complete a mid-term evaluation of the USAID Resiliency
+in Northern Ghana Project (RING). RING is a poverty reduction program designed to improve the nutrition and livelihood
+status of vulnerable households in an integrated fashion. RING applies a multidisciplinary approach to increase the resiliency of these
 households through agriculture, income generation, savings and loans, nutrition, WASH, and
 governance interventions. Through these interventions, the project aims to improve the lives of
 women, namely by decreasing their time burden, increasing their control over household

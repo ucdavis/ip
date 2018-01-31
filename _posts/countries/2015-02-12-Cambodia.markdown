@@ -1,6 +1,6 @@
 ---
 layout: country
-title:  "Cambodia"
+title:  "Safe Vegetable Value Chains in Cambodia"
 description: "The University of California, Davis, is partnering with the Royal University of Agriculture and University of Battambang to assist Cambodian small-landholder farmers, linking farm production to market demand. "
 date:   2015-02-12 16:25:17
 category: "country"
@@ -17,6 +17,7 @@ image-caption:
 Collaboration between UC Davis and RUA began in Kandal province in 2010 with funding from the Horticulture Innovation Lab. Since then, the team has expanded to include University of Battambang in Battambang province, the Integrated Pest Management (IPM) Innovation Lab, the USAID Borlaug Global Food Security Program, the University of California Office of the President (UCOP), and the International Society for Horticulture Science. <br>
 
 ### Featured Activities
+- <a target="_blank" href="/media/files/Cambodia_value_chains_Newsletter.pdf"> Safe Vegetable Value Chains in Cambodia Newsletter Update (PDF)</a><br>
 - <a href= "/profiles/Cambodia/SVVC_entrepreneurship">Mentoring Entrepreneurs in the Safe Vegetable Value Chain</a><br>
 
 ### Media Mentions
@@ -24,7 +25,7 @@ Collaboration between UC Davis and RUA began in Kandal province in 2010 with fun
 - <a href="https://blog.horticulture.ucdavis.edu/2017/06/5-ways-relationships-promote-innovation-food-safety/">Horticulture Innovation Lab Blog: Five Ways Relationships Promote Innovation and Improve Food Safety</a> (June 2017) <br>
 
 ### Cambodia Video Chosen as Finalist in World Food Day Video Challenge
-As part of the World Food Center's "World Food Day Video Challenge", students from UC Davis prepared a three-minute video highlighting the importance of safe vegetables and the project's efforts to establish a safe vegetable value chain. Their entry, "Building Trust and Resiliance in Cambodia", was named as a finalist in the World Food Day Video Challenge. Congradulations to Elyssa Lewis, Thort Chuong, and Katerine Hoeberling!
+As part of the World Food Center's "World Food Day Video Challenge", students from UC Davis prepared a three-minute video highlighting the importance of safe vegetables and the project's efforts to establish a safe vegetable value chain. Their entry, "Building Trust and Resiliance in Cambodia", was named as a finalist in the World Food Day Video Challenge. Congradulations to Elyssa Lewis, Thort Chuong, and Katie Hoeberling!
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/M9QeU2O-8cU" frameborder="0" allowfullscreen></iframe><br>
 
