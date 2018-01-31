@@ -1,6 +1,6 @@
 ---
 layout: country
-title:  "Cambodia"
+title:  "Safe Vegetable Value Chains in Cambodia"
 description: "The University of California, Davis, is partnering with the Royal University of Agriculture and University of Battambang to assist Cambodian small-landholder farmers, linking farm production to market demand. "
 date:   2015-02-12 16:25:17
 category: "country"
