@@ -58,7 +58,7 @@ The participatory events of this partnering workshop produced volumes of useful 
 **Observations about the types and quality of products available and discussions with collectors and sellers about the price, origin, destination and postharvest practices being conducted by workshop participants on a tour at Phou Pouy Market, a new wholesale distribution center in Battambang.**
 
 ![Project researchers conducting economic analysis at Phou Pouy Market](/media/profiles/Photo_34.JPG)<br>
-**Conducting an economic analysis of the value chain, UC Davis researchers Cary Trexler and David Miller discuss with University of Battambang researcher Hay Chanthol information gathered from wholesale marketers at Phou Pouy Market.**
+**Conducting an economic analysis of the value chain, UC Davis researchers Dr. Cary Trexler and G. David Miller discuss with University of Battambang researcher Hay Chanthol information gathered from wholesale marketers at Phou Pouy Market.**
 
 ![Researchers touring a Cambodian pepper farm](/media/profiles/Photo_37.JPG)<br>
 **Field visit to pepper farm that was recently converted from a rice field based on favorable economic analysis of market demand.**
