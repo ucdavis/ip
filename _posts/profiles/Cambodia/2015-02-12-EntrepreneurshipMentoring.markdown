@@ -68,3 +68,12 @@ The participatory events of this partnering workshop produced volumes of useful 
 
 ![Farmers stand around demonstration table](/media/profiles/Photo_40.JPG)<br>
 **Farmer‐to‐farmer training by lead farmer in Krous Village. Farmers from other villages and provinces throughout Cambodia are watching a demonstration and taking detailed notes about organic fertilizer production.**
+
+![Farmers, UC Davis staff and local officials talking about good farming practices](/media/profiles/IMG_9377.JPG)<br>
+**Mentoring in‐country partners and training farmers about good agronomic practices; UC Davis
+Investigator, Jim Hill (left), former UC Davis Humphrey’s Fellow, Sam Oreun Ke (right)**
+
+![Researchers in the CoolBot](/media/profiles/Coolbot_and_Jim.JPG)<br>
+**Elements of a cold-chain in Cambodia are budding as Horticulture Innovation Lab technology, CoolBot (small black box with red digits under the air conditioning unit), is being used in a safe vegetable shop in Phnom Penh to override the termostat and cool vegetables below normal air conditioned temperatures to extend the shelf life of vegetables.**
+
+
