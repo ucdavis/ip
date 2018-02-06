@@ -1,30 +1,25 @@
 ---
 layout: profiles
 title: Sean Kiely
-description: A RIFA fellow 
+description: A fellow assessing risk management strategies for smallholder vegetable production in Cambodia 
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/sean
 image: /media/profiles/Kiely
-image-caption: RIFA fellow Sean, hard at work picking up kittens during his field research in Cambodia.
+image-caption: RIFA fellow Sean, with a research partner, during his field work in Cambodia.
 image-banner: cambodia_banner
 category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a><br>
-<h3>RIFA Fellow Spotlights</h3>
-	 <a href="/profiles/RIFA/madeline"> Madeline Weeks - Cacao value chains in Guatemala</a><br>
-  	 <a href="/profiles/RIFA/julia"> Julia Jordan - Gender and irrigation in Uganda</a><br>
-   	 <a href="/profiles/RIFA/halie"> Halie Kampman - Biofortification in Gambia</a><br>
-     <a href="/profiles/RIFA/bilkis"> Bilkis Bharucha - Project development in Georgia</a><br>
-     <a href="/profiles/RIFA/ty"> Ty Beal - Sustainable diets in Vietnam</a><br>
-     <a href="/profiles/RIFA/alicia"> Alicia Calle - Silvopastoral restoration in Colombia</a><br>
-     <a href="/profiles/RIFA/israel"> Israel Jimenez Luna - Walnut diseases in Chile </a><br>
-     <a href="/profiles/RIFA/ian"> Ian Trupin - Infectious diseases in Tanzania</a><br>
-     <a href="/profiles/RIFA/flavia"> Flavia Oliveira - Forest conservation in Brazil</a><br>
-     <a href="/profiles/RIFA/sarah">Sarah Adcock - Diary cattle in Sri Lanka</a><br>
-     <a href="/profiles/RIFA/henry">Henry Hellmuth - Potatoes in Kenya</a><br>
-     <a href="/profiles/RIFA/kate">Kate Polakiewicz - Coffee in Central America</a><br>
-     <a href="/profiles/RIFA/2017conference">2017 RIFA Fellows Conference-April 14th, 2017</a><br>
----
 
+---
+Sean Kiely is a master’s student in International Agricultural Development at UC Davis and a 2017 RIFA fellow at the Royal University of Agriculture, Cambodia. In December, Sean returned from six months abroad, where he worked on the USAID Building and Scaling Safe Vegetable Value Chains in Cambodia Project that aims to better connect smallholder farmer production with market demand. Sean’s research evaluated vegetable farmers’ levels of risk aversion, current use of several risk management strategies, and the potential incorporation of alternative risk management strategies their appropriate combinations to increase farmer welfare. <br>
+
+Given Sean’s interest in agricultural economics and the flexibility of his project, he was able to pursue research questions that fit his academic interests and will also provide crucial information about farmer behavior and risk management needs. The major component of the project was farmer surveys: determining the costs and benefits of vegetable production and assessing awareness, understanding, interest, and perceived risks and benefits of implementing risk management strategies such as contract farming and savings groups. Sean surveyed thirty farmers and various supply chain actors in Kandal and Battambang Province to collect the production costs, yield data and local prices he needed for a land use system (LUS) analysis. The LUS tool evaluates the profitability and present value of an agricultural system over a set amount of time. For the qualitative survey portion, Sean questioned farmers about their participation in ‘traditional’ risk mitigation strategies, like off-farm employment, crop diversification and strong social networks, as well as less-common ‘alternative’ strategies such as crop insurance, contract farming, and inventory credit systems. Collected qualitative data about farmers’ knowledge and use of strategies like these will be useful when looking at the results of the economic analysis, and will hopefully draw out some insights about how these strategies may influence farmers’ livelihoods over time. <br>
+
+Early into the project, Sean experienced some of the common challenges of conducting research abroad. A local holiday postponed his search for a translator and pushed back his survey start date. He also had difficulty finding a translator in each of his survey regions who could translate quickly and who was familiar with the relevant agricultural language. Another difficulty was collecting critical yield information for the economic analyses because farmers often kept no records of yields, so Sean had to seek out local market contractors who would record yields purchased from farmers. <br>
+
+Sean completed his data collection and is continuing his data analysis in the United States. Though his analysis is not complete and he is hesitant to suggest intervention recommendations, he thinks it’s likely that pairing groups of farmers, in ‘producer groups’, with strategies like crop insurance or marketing plans may give farmers more bargaining power at market and lower the transaction cost of any crop insurance companies entering the local market. <br>
+
+Outside of his research, Sean enjoyed exploring the natural and gastronomic delights of Cambodia. He was impressed by the number and diversity of restaurants in Phnom Penh, a city buzzing with traffic and massive construction projects. Sean’s favorite Khmer dish was lok lak, a plate of rice and sautéed beef topped with a fried egg and served with salt, pepper and lime juice dipping sauce. He also spent time traveling, and most enjoyed the ruins of Angkor Wat, Bayon, and Ta Prohm in Siem Reap as well as the natural beauty of Mondulkiri and its rolling green “sea forests”. <br>
 
 
 

@@ -4,11 +4,11 @@ title: Katie Von Der Lieth
 description: Scaling up Coffee Agroforesty Production in Apui
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/katie
-image: /media/profiles/
-image-caption: 
+image: /media/profiles/VonDerLieth
+image-caption: Katie interviewing farmers near Apui.
 image-banner: amazon_banner
 category: "profiles"
-more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a>
+more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a><br>
 ---
 
 Katie von der Lieth is a master’s student in International Agricultural Development at UC Davis and a RIFA Amazon Biodiversity Fellow in Brazil. Last summer, she worked at IDESAM, the Institute for the Conservation and Sustainable Development of the Amazon, on a project aimed at scaling up coffee agroforestry production in Apuí, a large town in the state of Amazonas, Brazil. Katie’s specific objectives were to prepare a cost-benefit analysis of coffee agroforestry systems and a business plan for attracting invest in such systems. <br>
