@@ -4,7 +4,7 @@ title:  Mentoring Entrepreneurs in the Cambodian Safe Vegetable Value Chain
 description: Providing support for safe vegetable value chain farmers, suppliers, and stakeholders.
 date:   2015-02-12 16:25:17
 permalink: /profiles/Cambodia/SVVC_entrepreneurship
-image:
+image: 
 image-caption:
 image-banner: cambodia_banner
 sponsoring-agency: <img src="/media/sponsors/usaid.svg">
