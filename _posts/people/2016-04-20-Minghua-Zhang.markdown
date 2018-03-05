@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Minghua Zhang, PhD
-contact-title: Associate Director, Far East Programs
+contact-title: Far East Programs
 category: "person"
 phone: 530-752-0628
 email: mhzhang@ucdavis.edu
