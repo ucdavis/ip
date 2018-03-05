@@ -1,3 +1,4 @@
+---
 layout: person
 contact-name: Kate Lincoln, MS
 contact-title: Partnerships & Project Design
