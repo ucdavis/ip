@@ -1,7 +1,7 @@
 ---
 layout: person
 contact-name: Nancy J. Allen, PhD
-contact-title: Associate Director of Monitoring and Evaluation
+contact-title: Monitoring and Evaluation
 category: "person"
 phone:
 email: njallen@ucdavis.edu
