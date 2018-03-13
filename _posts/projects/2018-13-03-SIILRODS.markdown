@@ -1,0 +1,28 @@
+---
+layout: project
+title: SIIL Research Output Dissemination Study (SIIL RODS)
+description:  Understanding of the pathways to adoption and the impact of innovations from Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs)
+category: "project"
+contact: <a href="/team/nancy-allen">Nancy Allen</a><br>
+funding: Supported by USAID
+partners: USAID<br>Kansas State University Sustainable Intensification Innovation Lab<br>
+image-banner: vietnam_banner
+permalink: /projects/SIIL RODS
+more-info: <a href="http://www.k-state.edu/siil/" target="_blank">Sustainable Intensification Innovation Lab</a>
+tags:
+
+---
+The objective of the Research Output Dissemination Study is to gain a better understanding of the dissemination, use, and adoption of research outputs of the Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs) after the outputs are transferred to or taken up by an entity that is facilitating their dissemination and use by end users. This information is not currently captured by any Feed the Future monitoring indicators, as many innovations are handed over to the private sector, national agriculture research or extension systems, or other organizations once an innovation lab has produced the innovation. UC Davis will use monitoring and evaluation expertise in agricultural food security to research how new innovations are received and used by farmers, as well as how new innvovations are effectively introduced.<br>
+
+Study Overview:
+<ol>
+	<li>determine if and how dissemination, use and adoption of a subset of transferred innovations identified in the Research Uptake Study is occurring </li>
+	<li>observe how entities working on dissemination, use, and adoption are working through commercial, public and partnership pathways, and engaging with entities ineach of these spheres including the ILs during the dissemination process</li>
+	<li>evaluate the design and implementation of the dissemination plans and relevant enabling environment factors for the innovations according to market analysis techniques as well as scaling theory and practice</li>
+	<li>provide analysis of the current and potential outcomes and impacts of the innovations on the target groups</li>
+</ol>
+<br>
+
+This project officialy began in February 2018 and will continue throught 2018 as the research teams consult with Innovation Lab directors and perform field data collection to form a comprehensive report. <br>
+
+<i>This study is supported by the Sustainable Intensification Innovation Lab with funding from USAID as part of Feed the Future, the U.S. Government’s global hunger and food security initiative.</i>
