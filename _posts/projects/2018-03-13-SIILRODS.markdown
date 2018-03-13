@@ -7,7 +7,7 @@ contact: <a href="/team/nancy-allen">Nancy Allen</a><br>
 funding: Supported by USAID
 partners: USAID<br>Kansas State University Sustainable Intensification Innovation Lab<br>
 image-banner: vietnam_banner
-permalink: /projects/SIIL RODS
+permalink: /projects/SIILRODS
 more-info: <a href="http://www.k-state.edu/siil/" target="_blank">Sustainable Intensification Innovation Lab</a>
 tags:
 
@@ -16,10 +16,10 @@ The objective of the Research Output Dissemination Study is to gain a better und
 
 Study Overview:
 <ol>
-	<li>determine if and how dissemination, use and adoption of a subset of transferred innovations identified in the Research Uptake Study is occurring </li>
-	<li>observe how entities working on dissemination, use, and adoption are working through commercial, public and partnership pathways, and engaging with entities ineach of these spheres including the ILs during the dissemination process</li>
-	<li>evaluate the design and implementation of the dissemination plans and relevant enabling environment factors for the innovations according to market analysis techniques as well as scaling theory and practice</li>
-	<li>provide analysis of the current and potential outcomes and impacts of the innovations on the target groups</li>
+	<li>Determine if and how dissemination, use and adoption of a subset of transferred innovations identified in the Research Uptake Study is occurring </li>
+	<li>Observe how entities working on dissemination, use, and adoption are working through commercial, public and partnership pathways, and engaging with entities ineach of these spheres including the ILs during the dissemination process</li>
+	<li>Evaluate the design and implementation of the dissemination plans and relevant enabling environment factors for the innovations according to market analysis techniques as well as scaling theory and practice</li>
+	<li>Provide analysis of the current and potential outcomes and impacts of the innovations on the target groups</li>
 </ol>
 <br>
 
