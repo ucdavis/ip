@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Agricultural Innovation Project
-description: UC Davis is providing support for the Agricultural Innovation Project, a 5-year USAID-funded program managed by the International Maize & Wheat Improvement Center (CIMMYT), the International Livestock Research Institute (ILRI), the International Rice Research Institute, and the World Vegetable Center (AVDRC).
+description: UC Davis provided support for the Agricultural Innovation Project, a 5-year USAID-funded program managed by the International Maize & Wheat Improvement Center (CIMMYT), the International Livestock Research Institute (ILRI), the International Rice Research Institute, and the World Vegetable Center (AVDRC).
 category: "project"
 contact: <a href="/team/james-e-hill">Jim Hill</a><br><a href="/team/tom-rost">Tom Rost</a><br><a href="/team/louise-ferguson">Louise Ferguson</a><br>
 funding: Supported by USAID through CIMMYT
@@ -19,7 +19,7 @@ tags:
 
 <h2>Goals</h2>
 
-<p>The Agricultural Innovation Project (AIP) aims to help farmers in Pakistan by harnessing the benefits of traditional practices with modern science. UC Davis has responsibility for 4 areas:</p>
+<p>The Agricultural Innovation Project (AIP) aimed to help farmers in Pakistan by harnessing the benefits of traditional practices with modern science. UC Davis had responsibility for 4 areas:</p>
 
 * Graduate Training (C/- Dr Tom Rost)
 
