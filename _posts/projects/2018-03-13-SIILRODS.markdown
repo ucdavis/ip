@@ -1,4 +1,4 @@
----
+<!-----
 layout: project
 title: SIIL Research Output Dissemination Study (SIIL RODS)
 description:  Understanding of the pathways to adoption and the impact of innovations from Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs)
@@ -28,4 +28,4 @@ Study Overview:
 
 This project officialy began in February 2018 and will continue throught 2018 as the research teams consult with Innovation Lab directors and perform field data collection to form a comprehensive report. <br>
 
-<i>This study is supported by the Sustainable Intensification Innovation Lab with funding from USAID as part of Feed the Future, the U.S. Government’s global hunger and food security initiative.</i>
+<i>This study is supported by the Sustainable Intensification Innovation Lab with funding from USAID as part of Feed the Future, the U.S. Government’s global hunger and food security initiative.</i>-->
