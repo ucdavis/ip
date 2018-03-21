@@ -12,6 +12,7 @@ image: /media/partners/SIIL_RODS_partners
 more-info: <a href="http://www.k-state.edu/siil/" target="_blank">Sustainable Intensification Innovation Lab</a>
 
 
+<img src="/media/partners/SIIL_RODS_partners.jpg">
 ---
 The objective of the Research Output Dissemination Study is to gain a better understanding of the dissemination, use, and adoption of research outputs of the Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs) after the outputs are transferred to or taken up by an entity that is facilitating their dissemination and use by end users. This information is not currently captured by any Feed the Future monitoring indicators, as many innovations are handed over to the private sector, national agriculture research or extension systems, or other organizations once an innovation lab has produced the innovation. UC Davis will use monitoring and evaluation expertise in agricultural food security to research how new innovations are received and used by farmers, as well as how new innvovations are effectively introduced.<br>
 
