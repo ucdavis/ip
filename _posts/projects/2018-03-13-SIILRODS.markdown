@@ -1,7 +1,7 @@
---
+---
 layout: project
-title: "Feed the Future Innovation Lab for Collaborative Research on Sustainable Intensification Research Output Dissemination Study (SIIL RODS)""
-description:  "Understanding of the pathways to adoption and the impact of innovations from Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs)""
+title: Feed the Future Innovation Lab for Collaborative Research on Sustainable Intensification Research Output Dissemination Study (SIIL RODS)
+description: Understanding of the pathways to adoption and the impact of innovations from Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs)
 category: "project"
 contact: <a href="/team/nancy-allen">Nancy Allen</a><br>
 funding: Supported by USAID Feed the Future
@@ -11,9 +11,7 @@ permalink: /projects/SIILRODS
 more-info: <a href="http://www.k-state.edu/siil/" target="_blank">Sustainable Intensification Innovation Lab</a>
 tags:
 
-### Featured Activities
-- <a target="_blank" href="/media/files/SIIL_RODS_press_release.pdf"> SIIL RODS Official Press Release</a><br> 
-
+---
 The objective of the Research Output Dissemination Study is to gain a better understanding of the dissemination, use, and adoption of research outputs of the Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs) after the outputs are transferred to or taken up by an entity that is facilitating their dissemination and use by end users. This information is not currently captured by any Feed the Future monitoring indicators, as many innovations are handed over to the private sector, national agriculture research or extension systems, or other organizations once an innovation lab has produced the innovation. UC Davis will use monitoring and evaluation expertise in agricultural food security to research how new innovations are received and used by farmers, as well as how new innvovations are effectively introduced.<br>
 
 Study Overview:
@@ -24,6 +22,9 @@ Study Overview:
 	<li>Provide analysis of the current and potential outcomes and impacts of the innovations on the target groups</li>
 </ol>
 <br>
+
+### Featured Activities
+- <a target="_blank" href="/media/files/SIIL_RODS_press_release.pdf"> SIIL RODS Official Press Release</a><br> 
 
 This project officialy began in February 2018 and will continue throught 2018 as the research teams consult with Innovation Lab directors and perform field data collection to form a comprehensive report. <br>
 
