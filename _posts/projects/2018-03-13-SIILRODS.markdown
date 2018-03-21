@@ -4,14 +4,13 @@ title: Feed the Future Innovation Lab for Collaborative Research on Sustainable 
 description:  Understanding of the pathways to adoption and the impact of innovations from Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs)
 category: "project"
 contact: <a href="/team/nancy-allen">Nancy Allen</a><br>
-funding: Supported by USAID
+funding: Supported by USAID Feed the Future
 partners: USAID<br>Kansas State University Sustainable Intensification Innovation Lab<br>
 image-banner: vietnam_banner
 permalink: /projects/SIILRODS
 more-info: <a href="http://www.k-state.edu/siil/" target="_blank">Sustainable Intensification Innovation Lab</a>
 tags:
 
----
 ### Featured Activities
 - <a target="_blank" href="/media/files/SIIL_RODS_press_release.pdf"> SIIL RODS Official Press Release</a><br> 
 
