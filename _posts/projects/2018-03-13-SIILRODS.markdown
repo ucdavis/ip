@@ -22,7 +22,6 @@ Study Overview:
 	<li>Evaluate the design and implementation of the dissemination plans and relevant enabling environment factors for the innovations according to market analysis techniques as well as scaling theory and practice</li>
 	<li>Provide analysis of the current and potential outcomes and impacts of the innovations on the target groups</li>
 </ol>
-<br>
 
 ### Featured Activities
 - <a target="_blank" href="/media/files/SIIL_RODS_press_release.pdf"> SIIL RODS Official Press Release</a><br> 
