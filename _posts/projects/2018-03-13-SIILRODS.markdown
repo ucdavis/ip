@@ -1,4 +1,4 @@
-<!-----
+--
 layout: project
 title: SIIL Research Output Dissemination Study (SIIL RODS)
 description:  Understanding of the pathways to adoption and the impact of innovations from Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs)
@@ -13,7 +13,7 @@ tags:
 
 ---
 ### Featured Activities
-- <a target="_blank" href="/media/files/SILL_RODS_press_release.pdf"> SILL RODS Official Press Release</a><br> 
+- <a target="_blank" href="/media/files/SIIL_RODS_press_release.pdf"> SIIL RODS Official Press Release</a><br> 
 
 The objective of the Research Output Dissemination Study is to gain a better understanding of the dissemination, use, and adoption of research outputs of the Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs) after the outputs are transferred to or taken up by an entity that is facilitating their dissemination and use by end users. This information is not currently captured by any Feed the Future monitoring indicators, as many innovations are handed over to the private sector, national agriculture research or extension systems, or other organizations once an innovation lab has produced the innovation. UC Davis will use monitoring and evaluation expertise in agricultural food security to research how new innovations are received and used by farmers, as well as how new innvovations are effectively introduced.<br>
 
@@ -28,4 +28,4 @@ Study Overview:
 
 This project officialy began in February 2018 and will continue throught 2018 as the research teams consult with Innovation Lab directors and perform field data collection to form a comprehensive report. <br>
 
-<i>This study is supported by the Sustainable Intensification Innovation Lab with funding from USAID as part of Feed the Future, the U.S. Government’s global hunger and food security initiative.</i>-->
+<i>This study is supported by the Sustainable Intensification Innovation Lab with funding from USAID as part of Feed the Future, the U.S. Government’s global hunger and food security initiative.</i>
