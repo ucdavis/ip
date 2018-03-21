@@ -1,7 +1,7 @@
 --
 layout: project
-title: Feed the Future Innovation Lab for Collaborative Research on Sustainable Intensification Research Output Dissemination Study (SIIL RODS)
-description:  Understanding of the pathways to adoption and the impact of innovations from Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs)
+title: "Feed the Future Innovation Lab for Collaborative Research on Sustainable Intensification Research Output Dissemination Study (SIIL RODS)""
+description:  "Understanding of the pathways to adoption and the impact of innovations from Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs)""
 category: "project"
 contact: <a href="/team/nancy-allen">Nancy Allen</a><br>
 funding: Supported by USAID Feed the Future
