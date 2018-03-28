@@ -8,7 +8,7 @@ funding: Supported by USAID Feed the Future
 partners: USAID<br>Kansas State University Sustainable Intensification Innovation Lab<br>
 permalink: /projects/SIILRODS
 image-banner: vietnam_banner
-image: /media/partners/SIIL_RODS_partners
+image: /media/partners/SIIL RODS LOGOS
 more-info: <a href="http://www.k-state.edu/siil/" target="_blank">Sustainable Intensification Innovation Lab</a>
 
 ---
