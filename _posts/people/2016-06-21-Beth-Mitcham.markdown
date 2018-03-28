@@ -1,4 +1,4 @@
-<!---
+---
 layout: person
 contact-name: Elizabeth Mitcham, PhD
 contact-title: Director, Horticulture Innovation Lab<br>Director, Postharvest Technology Center<br>Cooperative Extension Specialist and Pomologist
@@ -26,4 +26,3 @@ tags:
 <p>Horticulture and Agronomy Graduate Group<br>
 Food Science & Technology Graduate Group<br>
 International Agriculture Development (IAD) Graduate Group</p>
--->
