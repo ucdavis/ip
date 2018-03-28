@@ -1,4 +1,4 @@
----
+<!---
 layout: person
 contact-name: Randall (Randy) Southard, PhD
 contact-title: Professor of Soil Science and Genesis/Morphologist Thai-Nguyen Curricula Development in Environmental Sciences and Management
@@ -33,3 +33,4 @@ tags:
 <li>SSC 120: Soil Genesis, Morphology and Classification (5 Units, Spring Quarter)</li>
 <li>SSC 220: Pedology (3 Units)</li>
 </ul>
+-->

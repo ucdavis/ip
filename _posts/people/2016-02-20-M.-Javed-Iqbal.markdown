@@ -1,4 +1,4 @@
----
+<!---
 layout: person
 contact-name: M. Javed Iqbal, PhD
 contact-title: Technical Coordinator, U.S.-Pakistan Center for Advanced Stuides in Agriculture and Food Security
@@ -17,3 +17,4 @@ EDUCATION<br>
 PhD; Plant Molecular Genetics, Department of Agronomy, University of Illinois at Urbana-Champaign, IL; 1994<br>
 MSc; Botany, University of the Punjab, Lahore, Pakistan; 1987<br>
 BSc; Biological Sciences, University of the Punjab, Lahore, Pakistan; 1985<br>
+-->

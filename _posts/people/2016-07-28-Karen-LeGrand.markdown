@@ -8,7 +8,7 @@ email:
 image: /media/team/klegrand
 permalink: /team/karen-legrand
 tags:
-- Faculty
+- Project
 ---
 
 Dr. Karen LeGrand has worked in Cambodia and Vietnam since 2011.  She manages a USAID project that builds research capacity at local universities and improves food security in Cambodia.  Her field research addresses technical and social challenges to enhance the use of hard and soft technologies.  This work advances food safety, sustainable agriculture, postharvest handling and market access in several regions in Cambodia.  In Vietnam, she has conducted applied research, developed curriculum and taught core science courses in English-based advanced programs for undergraduate students. <br>
