@@ -1,9 +1,9 @@
---
+---
 layout: person
 contact-name: Lilian Hernandez
 contact-title: Administrative & Logistical Support
 category: "person"
-email: lhfernanddez@ucdavis.edu 
+email: lfernandez@ucdavis.edu 
 phone: (530) 752-2712
 image: /media/team/lhernandez
 permalink: /team/lily-hernandez
