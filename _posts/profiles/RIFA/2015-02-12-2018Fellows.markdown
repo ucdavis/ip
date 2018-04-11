@@ -5,7 +5,6 @@ description: Meet the 2018 cohort of Research and Innovation for Agriculture Fel
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/2018fellows
 image: /media/profiles/2018Fellows
-image-caption:
 image-banner: guatemala_banner
 category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a>
@@ -20,7 +19,7 @@ more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellows
 	<li><b>Zainab Husain</b> - Peru, Agriculture-nutrition linkages: Improving food and security nutrition in the potato-based highlands systems in the Andes, International Potato Center (CIP)<br>
 	UC Davis, International Agricultural Development</li>
 	<li><b>Layna Lowe</b> - Peru, Agriculture-nutrition linkages: Improving food and security nutrition in the potato-based highlands systems in the Andes International Potato Center (CIP)<br>
-	UC San Diego, International Affairs </li>
+	UC San Diego, International Affairs</li>
 	<li><b>Aleksandra Taranov</b> - Mexico, Stochastic stimulation for support decision in plant breeding research, International Maize and Wheat Improvement Center (CIMMYT)<br>
 	UC Davis, International Agricultural Development and Biostatistics</li>
 	<li><b>Austin Cross</b> - Ecuador, Biomass and nutrient partitioning and nutrient recycling in cacao, Hacienda La Chola/Mars, Inc.<br>
