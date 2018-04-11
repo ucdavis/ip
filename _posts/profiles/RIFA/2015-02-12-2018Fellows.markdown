@@ -12,6 +12,7 @@ more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellows
 ---
 
 <p> Beginning this May, 2018 RIFA fellows will be headed around the globe to work on agricultural development projects with focus on vegetable value chain analysis, climate smart agriculture, women's empowerment, digital services for smallholder farmers and more. These fellows work with an in-coutnry host organization and a UC-based mentor to help bring research to action and gain professional experience working in development abroad. Best of luck to our 2018 cohort!</p><br>
+
 <ul>
 	<li><b>Jessamyn Wead</b> - Cambodia, Innovations to Build and Scale Safe Vegetable Value Chains in Cambodia-Value Chain Analysis, Royal University of Agriculture, Cambodia<br>
 	 UC Berkeley, Public Health &amp;Nutrition</li>
@@ -47,6 +48,7 @@ more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellows
 	UC Santa Cruz, Environmental Studies</li>
 	<li><b>Dalynna Jun Moser</b> - Uganda, Digital platforms for African smallholder farmers to access ‘bundled services’, Olam Internatioanl Ltd.<br>
 	UC San Deigo, International Affairs</li>
+</ul>
 
 
 
