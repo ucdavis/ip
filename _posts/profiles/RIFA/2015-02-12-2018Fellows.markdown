@@ -10,7 +10,6 @@ image-banner: guatemala_banner
 category: "profiles"
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a>
 ---
-
 <p> Beginning this May, 2018 RIFA fellows will be headed around the globe to work on agricultural development projects with focus on vegetable value chain analysis, climate smart agriculture, women's empowerment, digital services for smallholder farmers and more. These fellows work with an in-coutnry host organization and a UC-based mentor to help bring research to action and gain professional experience working in development abroad. Best of luck to our 2018 cohort!</p><br>
 
 <ul>
