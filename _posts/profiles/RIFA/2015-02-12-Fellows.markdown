@@ -24,7 +24,7 @@ more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellows
 	<li><b>Layna Lowe</b> - UC San Diego, International Affairs<br>
 	Peru, Agriculture-nutrition linkages: Improving food and security nutrition in the potato-based highlands systems in the Andes, International Potato Center (CIP)</li>
 
-	<li><b>Aleksandra Taranov</b> - UC Davis, International Agricultural Development and Biostatistics<br>
+	<li><b>Aleksandra Taranov</b> - UC Davis, Biostatistics and International Agricultural Development<br>
 	Mexico, Stochastic stimulation for support decision in plant breeding research, International Maize and Wheat Improvement Center (CIMMYT)</li>
 
 	<li><b>Austin Cross</b> - UC Davis, International Agricultural Development<br>
