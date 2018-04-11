@@ -12,40 +12,56 @@ more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellows
 <p> Beginning this May, 2018 RIFA fellows will be headed around the globe to work on agricultural development projects with focus on vegetable value chain analysis, climate smart agriculture, women's empowerment, digital services for smallholder farmers and more. These fellows work with an in-coutnry host organization and a UC-based mentor to help bring research to action and gain professional experience working in development abroad. Best of luck to our 2018 cohort!</p><br>
 
 <ul>
-	<li><b>Jessamyn Wead</b> - Cambodia, Innovations to Build and Scale Safe Vegetable Value Chains in Cambodia-Value Chain Analysis, Royal University of Agriculture, Cambodia<br>
-	 UC Berkeley, Public Health &amp;Nutrition</li>
-	<li><b>Meghan Mize</b> - Cambodia, Innovations to Build and Scale Safe Vegetable Value Chains in Cambodia-Value Chain Analysis, Royal University of Agriculture, Cambodia<br>
-	UC Davis, International Agricultural Ddevelopment</li>
-	<li><b>Zainab Husain</b> - Peru, Agriculture-nutrition linkages: Improving food and security nutrition in the potato-based highlands systems in the Andes, International Potato Center (CIP)<br>
-	UC Davis, International Agricultural Development</li>
-	<li><b>Layna Lowe</b> - Peru, Agriculture-nutrition linkages: Improving food and security nutrition in the potato-based highlands systems in the Andes International Potato Center (CIP)<br>
-	UC San Diego, International Affairs</li>
-	<li><b>Aleksandra Taranov</b> - Mexico, Stochastic stimulation for support decision in plant breeding research, International Maize and Wheat Improvement Center (CIMMYT)<br>
-	UC Davis, International Agricultural Development and Biostatistics</li>
-	<li><b>Austin Cross</b> - Ecuador, Biomass and nutrient partitioning and nutrient recycling in cacao, Hacienda La Chola/Mars, Inc.<br>
-	UC Davis, International Agricultural Development</li>
-	<li><b>Leah Renwick</b> - Tanzania, Strengthening Capacity in Tanzania to Implement Agriculture Climate Resilience Actions, World Agroforestry Centre (ICRAF)<br>
-	UC Davis, Horticulture &amp; Agronomy and International Agricultural Development</li>
-	<li><b>Leanna Kelly</b> - Tanzania, Strengthening Capacity in Tanzania to Implement Agriculture Climate Resilience Actions, World Agroforestry Centre (ICRAF)<br>
-	UC Davis, International Agricultural Development</li>
-	<li><b>Asha Sharma</b> - Ecuador, Exploring Climate Smart Agriculture as a Form of Community Development, Fundación Sol &mp; Montaña<br>
-	UC Davis, International Agricultural Development</li>
-	<li><b>Katie von der Lieth</b> - Ecuador, Exploring Climate Smart Agriculture as a Form of Community Development, Fundación Sol &mp; Montaña<br>
-	UC Davis, International Agricultural Development</li>
-	<li><b>Michelle Einstein</b> - Honduras, Women's Empowerment through Horticultural Production, Escuela Agricola Panamerica (Zamorano University), <br>
-	UCLA, Urban &amp; Regional Planning</li>
-	<li><b>MengYuan Xi</b> - China, The impact of re-flood on active microbes responsible for nitrous oxide emission in Chinese paddy soils, Zhejiang University<br>
-	UC Riverside, Plant Biology</li>
-	<li><b>Elizabeth Deyett</b> -  China, The impact of re-flood on active microbes responsible for nitrous oxide emission in Chinese paddy soils, Zhejiang University<br>
-	UC Riverside, Genetics, Genomics &amp; Bioinformatics</li>
-	<li><b>Ira Herniter</b> - Ghana, Participatory evaluation of extra early, early and medium maturing MAGIC cowpea lines under both sole and maize/cowpea intercrop, CSIR-Savanna Agricultural Research Institute<br>
-	UC Riverside, Plant Breeding &amp; Genetics</li>
-	<li><b>Britta Schumacher</b> - Kenya, Toward Sustainable Food Systems Profiles for Decision-makers in Kenya and Vietnam, International Center for Tropical Agriculture (CIAT)<br>
-	UC Santa Barbara, Geography</li>
-	<li><b>Aysha Peterson</b> - Mexico, Agrodiversity for Sustainable Agriculture in Yucatán, Universidad Autónoma de Yucatán<br>
-	UC Santa Cruz, Environmental Studies</li>
-	<li><b>Dalynna Jun Moser</b> - Uganda, Digital platforms for African smallholder farmers to access ‘bundled services’, Olam Internatioanl Ltd.<br>
-	UC San Deigo, International Affairs</li>
+	<li><b>Jessamyn Wead</b> - UC Berkeley, Public Health &amp;Nutrition<br>
+	Cambodia, Innovations to Build and Scale Safe Vegetable Value Chains, Royal University of Agriculture, Cambodia</li>
+
+	<li><b>Meghan Mize</b> - UC Davis, International Agricultural Ddevelopment<br>
+	Cambodia, Innovations to Build and Scale Safe Vegetable Value Chains, Royal University of Agriculture, Cambodia</li>
+
+	<li><b>Zainab Husain</b> - UC Davis, International Agricultural Development<br>
+	Peru, Agriculture-nutrition linkages: Improving food and security nutrition in the potato-based highlands systems in the Andes, International Potato Center (CIP)</li>
+
+	<li><b>Layna Lowe</b> - UC San Diego, International Affairs<br>
+	Peru, Agriculture-nutrition linkages: Improving food and security nutrition in the potato-based highlands systems in the Andes, International Potato Center (CIP)</li>
+
+	<li><b>Aleksandra Taranov</b> - UC Davis, International Agricultural Development and Biostatistics<br>
+	Mexico, Stochastic stimulation for support decision in plant breeding research, International Maize and Wheat Improvement Center (CIMMYT)</li>
+
+	<li><b>Austin Cross</b> - UC Davis, International Agricultural Development<br>
+	Ecuador, Biomass and nutrient partitioning and nutrient recycling in cacao, Hacienda La Chola/Mars, Inc.</li>
+
+	<li><b>Leah Renwick</b> - UC Davis, Horticulture &amp; Agronomy and International Agricultural Development<br>
+	Tanzania, Strengthening Capacity in Tanzania to Implement Agriculture Climate Resilience Actions, World Agroforestry Centre (ICRAF)</li>
+
+	<li><b>Leanna Kelly</b> - UC Davis, International Agricultural Development<br>
+	Tanzania, Strengthening Capacity in Tanzania to Implement Agriculture Climate Resilience Actions, World Agroforestry Centre (ICRAF)</li>
+
+	<li><b>Asha Sharma</b> - UC Davis, International Agricultural Development<br>
+	Ecuador, Exploring Climate Smart Agriculture as a Form of Community Development, Fundación Sol &mp; Montaña</li>
+
+	<li><b>Katie von der Lieth</b> - UC Davis, International Agricultural Development<br>
+	Ecuador, Exploring Climate Smart Agriculture as a Form of Community Development, Fundación Sol &mp; Montaña</li>
+
+	<li><b>Michelle Einstein</b> - UCLA, Urban &amp; Regional Planning<br>
+	Honduras, Women's Empowerment through Horticultural Production, Escuela Agricola Panamerica (Zamorano University)</li>
+
+	<li><b>MengYuan Xi</b> - UC Riverside, Plant Biology<br>
+	China, The impact of re-flood on active microbes responsible for nitrous oxide emission in Chinese paddy soils, Zhejiang University</li>
+
+	<li><b>Elizabeth Deyett</b> - UC Riverside, Genetics, Genomics &amp; Bioinformatics<br>
+	China, The impact of re-flood on active microbes responsible for nitrous oxide emission in Chinese paddy soils, Zhejiang University</li>
+
+	<li><b>Ira Herniter</b> - UC Riverside, Plant Breeding &amp; Genetics<br>
+	Ghana, Participatory evaluation of extra early, early and medium maturing MAGIC cowpea lines under both sole and maize/cowpea intercrop, CSIR-Savanna Agricultural Research Institute</li>
+
+	<li><b>Britta Schumacher</b> - UC Santa Barbara, Geography<br>
+	Kenya, Toward Sustainable Food Systems Profiles for Decision-makers in Kenya and Vietnam, International Center for Tropical Agriculture (CIAT)</li>
+
+	<li><b>Aysha Peterson</b> - UC Santa Cruz, Environmental Studies<br>
+	Mexico, Agrodiversity for Sustainable Agriculture in Yucatán, Universidad Autónoma de Yucatán</li>
+
+	<li><b>Dalynna Jun Moser</b> - UC San Deigo, International Affairs<br>
+	Uganda, Digital platforms for African smallholder farmers to access ‘bundled services’, Olam Internatioanl Ltd.</li>
 </ul>
 
 
