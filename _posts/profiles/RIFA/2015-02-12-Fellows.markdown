@@ -62,6 +62,12 @@ more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellows
 
 	<li><b>Dalynna Jun Moser</b> - UC San Diego, International Affairs<br>
 	Uganda - Digital platforms for African smallholder farmers to access ‘bundled services’, Olam Internatioanl Ltd.</li>
+	
+	<li><b>Noah Coleman</b> - UC Davis, International Agricultural Development<br>
+	Kenya - Appropriate Technology & Practice Assessment for Moringa Production and Processing in Kenya, Mount Kenya Organic Farming (MOOF Africa)</li>
+	
+	<li><b>Eyob Solomon</b> - UC Davis, International Agricultural Development<br>
+	Belize- Geospatial Analysis of Wild Cacao Trees, Belize Foundation for Research and Environmental Education(BFREE)</li>
 </ul>
 
 
