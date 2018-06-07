@@ -13,8 +13,6 @@ From May 4-8 2018, graduate students selected for the Research and Innovation Fe
 
  The RIFA program has offered graduate students from the University of California system the opportunity to partner with host institutions on two to six-month-long international projects in developing countries. This year, Fellows will be traveling to 11 different countries on four different continents in hopes of collaborating with their host organizations in addressing global challenges. Each RIFA fellow will receive round trip airfare and a stipend for each month they are in country, with most leaving this summer and returning sometime in early fall. <br>
  
-![/media/profiles/RIFARedBarn] (<i>Incoming fellows and RIFA alumni discuss challenges and opportunities outside the Red Barn during the RIFA Conference.</i>)<br></p>
- 
  RIFA’s third annual conference took place on May 4 from 2pm-6pm at the Red Barn Educational Annex near the Bear Valley Visitors Center. The day’s activities consisted of discussion panels, presentations, and technical break-out sessions, with RIFA’s Associate Director, Elana Peach-Fine, and Director, David Miller, hosting the events. Event highlights included an alumni panel, where past RIFA participants gave personal advice and insight into the logistics of completing research abroad, as well as a poster presentation session of past projects. <br>
 
  The annual RIFA conference is a joint event with RIFA’s sister program, the Global Development Fellowship program at UC Berkeley. Several global development fellows joined the day’s events accompanied by their program director, George Scharffenberger, who helped to host the program.<br>
