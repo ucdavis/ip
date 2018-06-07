@@ -4,7 +4,7 @@ title: 2018 RIFA Fellows Conference and Short Course
 description: Gathering RIFA alumni and current 2018 Fellows together for insights into international development practices.
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/2018conference
-image: /media/profiles/rifaconference2018
+image: /media/profiles/2018Fellows
 image-caption: Participants from the 2018 RIFA Conference pose for a group photo.
 image-banner: guatemala_banner
 more-info: <a href="/scholars-and-students/RIFA">Research and Innovation Fellowship for Agriculture (RIFA)</a><br><a href="http://iad.ucdavis.edu/">International Agricultural Development Graduate Group</a>
