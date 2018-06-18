@@ -1,0 +1,24 @@
+---
+layout: project
+title: Iwate Agricultural Junior College Exchange Program
+description: Short Term Technical Field Program
+category: "project"
+contact: <a href="/team/mimi-rose">Mimi Rose</a><br><a href="/team/nikki-grey-rutamu">Nikki Grey Rutamu</a><br>
+partners: Iwate Agricultural Junior College<br>University of California Cooperative Extension<br>
+image-banner: japan_banner
+permalink: /projects/IAJC_exchange
+
+---
+For the past 30 years the Iwate Agricultural Junior College(IAJC) has sent their students to UC Davis and California for a one week technical Field Program.  In recent years, IAJC has sent the entire Senior Class (approximately 60 students) to Davis for one week. The students stay in the dorms and make one day Technical Field Trips to various sites in and around the Northern California.  The purpose of their visit is to acquaint them with a variety of Agricultural Operations found in California as well as the activities of the University of California, Davis and the University of California Cooperative Extension. <br>
+
+![IAJC Students tour the agricultural greenhouses at the University of California, Davis.](/media/projects/Iwate/IAJC_UCD_group2.jpg)<br>
+*IAJC Students tour the agricultural greenhouses at the University of California, Davis.*
+
+The 2018 IAJC program is scheduled for August 28 – September 1, 2017
+The students are divided into three group based upon their academic interests. This year the students are divided into the following groups:
+* Group A:  Grain and Flowers
+* Group B:  Fruits and Vegetables
+* Group C:  Beef and Dairy
+
+![IAJC Students pose for photos on the UC Davis campus.](/media/projects/Iwate/IAJC_UCD_group3.jpg)<br>
+*IAJC Students pose for photos on the UC Davis campus.*
