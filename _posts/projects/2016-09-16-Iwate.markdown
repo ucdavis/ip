@@ -4,7 +4,7 @@ title: Iwate Agricultural Junior College Exchange Program
 description: Short Term Technical Field Program
 category: "project"
 contact: <a href="/team/mimi-rose">Mimi Rose</a><br><a href="/team/nikki-grey-rutamu">Nikki Grey Rutamu</a><br>
-partners: Iwate Agricultural Junior College<br>University of California Cooperative Extension<br>
+partners: Iwate Agricultural Junior College<br>
 image-banner: japan_banner
 permalink: /projects/IAJC_exchange
 
