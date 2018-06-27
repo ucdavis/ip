@@ -12,22 +12,21 @@ image: /media/partners/SIIL RODS LOGOS
 more-info: <a href="http://www.k-state.edu/siil/" target="_blank">Sustainable Intensification Innovation Lab</a>
 
 ---
-<!--
-<img src="/media/partners/SIIL_RODS_partners.jpg">-->
 
-The objective of the Research Output Dissemination Study is to gain a better understanding of the dissemination, use, and adoption of research outputs of the Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs) after the outputs are transferred to or taken up by an entity that is facilitating their dissemination and use by end users. This information is not currently captured by any Feed the Future monitoring indicators, as many innovations are handed over to the private sector, national agriculture research or extension systems, or other organizations once an innovation lab has produced the innovation. UC Davis will use monitoring and evaluation expertise in agricultural food security to research how new innovations are received and used by farmers, as well as how new innvovations are effectively introduced.<br>
+
+The objective of the Research Output Dissemination Study is to gain a better understanding of the dissemination, use, and adoption of research outputs of the Feed the Future Innovation Labs (ILs) and Collaborative Research Support Programs (CRSPs) after the outputs are transferred to or taken up by an entity that is facilitating their dissemination and use by end users. This information is not currently captured by any Feed the Future monitoring indicators, as many innovations are handed over to the private sector, national agriculture research or extension systems, or other organizations once an innovation lab has produced the innovation. UC Davis will use monitoring and evaluation expertise in agricultural food security to research how new innovations are received and used by farmers, as well as how new innovations are effectively introduced.<br>
 
 Study Overview:
 <ol>
-	<li>Determine if and how dissemination, use and adoption of a subset of transferred innovations identified in the Research Uptake Study is occurring </li>
-	<li>Observe how entities working on dissemination, use, and adoption are working through commercial, public and partnership pathways, and engaging with entities ineach of these spheres including the ILs during the dissemination process</li>
-	<li>Evaluate the design and implementation of the dissemination plans and relevant enabling environment factors for the innovations according to market analysis techniques as well as scaling theory and practice</li>
-	<li>Provide analysis of the current and potential outcomes and impacts of the innovations on the target groups</li>
+	<li>Determine if and how dissemination of the identified innovations is occurring;</li>
+	<li>Observe how the Innovation Lab (IL) and entities working on dissemination, use, and adoption are working through commercial, public, and partnership pathways, and engaging with entities in each of these spheres during the dissemination process;</li>
+	<li>Evaluate the design and implementation of dissemination and scaling plans with consideration of enabling environment factors for the innovations;</li>
+	<li>Provide analysis of current and potential outcomes and impacts of the identified innovations on target groups and populations.</li>
 </ol>
 
 ### Featured Activities
-- <a target="_blank" href="/media/files/SIIL_RODS_press_release.pdf"> SIIL RODS Official Press Release</a><br> 
+- <a target="_blank" href="/media/files/SIIL_RODS_press_release.pdf"> SIIL RODS Official Press Release</a><br>
 
-This project officialy began in February 2018 and will continue throught 2018 as the research teams consult with Innovation Lab directors and perform field data collection to form a comprehensive report. <br>
+This project officially began in February 2018 and will continue through 2018 as the research teams consult with Innovation Lab directors and perform field data collection to form a comprehensive report. <br>
 
 <i>This study is supported by the Sustainable Intensification Innovation Lab with funding from USAID as part of Feed the Future, the U.S. Government’s global hunger and food security initiative.</i>
