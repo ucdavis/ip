@@ -55,7 +55,7 @@
 
 .nivo-slice {
     display: block;
-    position: relative;
+    position: absolute;
     z-index: 5;
     height: 100%;
     top: 0;
@@ -63,7 +63,7 @@
 
 .nivo-box {
     display: block;
-    position: relative;
+    position: absolute;
     z-index: 5;
     overflow: hidden;
 }
