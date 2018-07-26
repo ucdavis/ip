@@ -1,7 +1,7 @@
 ---
 layout: profiles
 title: Jessamyn Wead
-description: jessamyn Wead researches medicinal plants in rural Cambodia.
+description: Jessamyn Wead researches medicinal plants in rural Cambodia.
 date:   2015-02-12 16:25:17
 permalink: /profiles/RIFA/jessamyn
 image: /media/profiles/wead
