@@ -7,7 +7,6 @@ email: msurose@ucdavis.edu
 phone: (530) 752-0464
 image: /media/team/mrose
 permalink: /team/mimi-rose
-published: false
 tags:
 - Administration
 ---
