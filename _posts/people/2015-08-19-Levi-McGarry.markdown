@@ -10,4 +10,4 @@ permalink: /team/levi-mcgarry
 tags:
 - Administration
 ---
-Levi McGarrry is the Communications Specialist for the SIIL-Research Output Dissemination Study (RODS), funded through the Feed the Future Innovation Lab for Sustainable Intensification hosted by Kansas State University. His professional experience is rooted in university project management, nonprofit marketing, and digital communication.
+Levi McGarry is the Communications Specialist for the SIIL-Research Output Dissemination Study (RODS), funded through the Feed the Future Innovation Lab for Sustainable Intensification hosted by Kansas State University. His professional experience is rooted in university project management, nonprofit marketing, and digital communication.
